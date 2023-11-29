@@ -85,3 +85,29 @@
 .bg-soft-blue {
   background-color: #e1f0ff !important;
 }
+
+.Orange-btn {
+  background-color: #ffd600 !important;
+  color: #040404 !important;
+  border-radius: 50px !important;
+  text-transform: normal;
+  font-weight: 600 !important;
+}
+.Orange-btn:hover {
+  background-color: #ffa500 !important;
+}
+
+.About-page {
+  padding: 90px 16px;
+}
+
+.min-vh-lg-85 {
+  min-height: 85vh !important;
+}
+
+.business-banner {
+  padding: 14rem 0rem 8rem !important;
+}
+.why-us-sec {
+  background-color: #f8f8f8;
+}
