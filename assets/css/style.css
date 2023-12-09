@@ -6,6 +6,10 @@
   color: #fff;
 }
 
+.mr-42 {
+  margin: 42px !important;
+}
+
 .hero-btn {
   color: #040404 !important;
   background: #fff !important;
@@ -110,4 +114,52 @@
 }
 .why-us-sec {
   background-color: #f8f8f8;
+}
+
+.Career-banner {
+  padding: 10rem 0rem 6rem !important;
+}
+
+.left-career-content {
+  padding-top: 5rem;
+}
+
+.text-drblue {
+  color: #031f4a !important;
+}
+
+.office-images {
+  padding: 8rem 0rem;
+}
+
+.career-cta-sec {
+  background-color: #1a5aa5;
+  text-align: center;
+  align-items: center;
+  margin-top: 6rem;
+  padding: 4rem 0rem;
+}
+
+.DNA-cards {
+  padding: 1.5rem;
+}
+
+.purpose-card {
+  background-color: #fffc85;
+}
+.mission-card {
+  background-color: #85cdff;
+}
+
+.vision-card {
+  background-color: #a2b0ff;
+}
+
+.DNA-Sec {
+  margin-top: 5rem;
+}
+
+.team-sec {
+  background: #eee;
+  padding: 4rem 0rem 0rem;
 }
