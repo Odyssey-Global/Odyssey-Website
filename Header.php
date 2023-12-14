@@ -27,9 +27,7 @@
     <link rel="stylesheet" href="assets/css/theme.minc619.css?v=1.0" />
   </head>
 
-  <header id="header"
-    class="navbar navbar-expand-lg navbar-end navbar-light navbar-absolute-top navbar-show-hide bg-dark"
-    data-hs-header-options='{
+  <header id="header" class="navbar navbar-expand-lg navbar-end navbar-light navbar-absolute-top navbar-show-hide bg-dark" data-hs-header-options='{
             "fixMoment": 0,
             "fixEffect": "slide"
           }'>
@@ -42,8 +40,7 @@
         <!-- End Default Logo -->
 
         <!-- Toggler -->
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-          aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-default">
             <i class="bi-list"></i>
           </span>
@@ -63,8 +60,7 @@
                       "maxWidth": "40rem"
                     }
                   }'>
-                <a id="landingsMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle" aria-current="page"
-                  href="#" role="button" aria-expanded="false">Business</a>
+                <a id="landingsMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle" aria-current="page" href="#" role="button" aria-expanded="false">Business</a>
 
                 <!-- Mega Menu -->
                 <div class="hs-mega-menu dropdown-menu" aria-labelledby="landingsMegaMenu" style="min-width: 15rem">
@@ -75,19 +71,19 @@
                         <a class="dropdown-item active" href="Contract-staffing.php"><i class="bi-building me-2"></i>
                           Contract
                           Staffing</a>
-                        <a class="dropdown-item" href="landing-business.html"><i class="bi-briefcase me-2"></i> Temp to
+                        <a class="dropdown-item" href="TempToPermStaffing.php"><i class="bi-briefcase me-2"></i> Temp to
                           Perm
                           Staffing
                         </a>
-                        <a class="dropdown-item" href="landing-consulting.html"><i class="bi-chat-right-dots me-2"></i>
+                        <a class="dropdown-item" href="directHire.php"><i class="bi-chat-right-dots me-2"></i>
                           Direct Hire
                         </a>
-                        <a class="dropdown-item" href="landing-saas.html"><i class="bi-tropical-storm me-2"></i>
+                        <a class="dropdown-item" href="contractingPayRoll.php"><i class="bi-tropical-storm me-2"></i>
                           Contractor
                           Payrolling</a>
-                        <a class="dropdown-item" href="landing-services.html"><i class="bi-gear me-2"></i> IT
+                        <a class="dropdown-item" href="itConsulting.php"><i class="bi-gear me-2"></i> IT
                           Consulting</a>
-                        <a class="dropdown-item" href="landing-services.html"><i class="bi-gear me-2"></i>
+                        <a class="dropdown-item" href="industries.php"><i class="bi-gear me-2"></i>
                           Industries</a>
                       </div>
                     </div>
@@ -100,8 +96,7 @@
 
               <!-- Pages -->
               <li class="hs-has-mega-menu nav-item">
-                <a id="pagesMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle" href="#" role="button"
-                  aria-expanded="false">Job Seekers</a>
+                <a id="pagesMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle" href="#" role="button" aria-expanded="false">Job Seekers</a>
 
                 <!-- Mega Menu -->
                 <div class="hs-mega-menu hs-position-right dropdown-menu" aria-labelledby="pagesMegaMenu">
@@ -125,8 +120,7 @@
                       "maxWidth": "50rem"
                     }
                   }'>
-                <a id="blogMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle" href="#" role="button"
-                  aria-expanded="false">Resources</a>
+                <a id="blogMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle" href="#" role="button" aria-expanded="false">Resources</a>
 
                 <!-- Mega Menu -->
                 <div class="hs-mega-menu dropdown-menu" aria-labelledby="blogMegaMenu">
@@ -148,8 +142,7 @@
                       "maxWidth": "50rem"
                     }
                   }'>
-                <a id="blogMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle" href="#" role="button"
-                  aria-expanded="false">About</a>
+                <a id="blogMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle" href="#" role="button" aria-expanded="false">About</a>
 
                 <!-- Mega Menu -->
                 <div class="hs-mega-menu dropdown-menu" aria-labelledby="blogMegaMenu">
@@ -174,7 +167,7 @@
 
               <!-- Log in -->
               <li class="nav-item ms-lg-auto">
-                <a class="btn hire-btn-hero me-2 me-lg-0" href="page-login.html">Hire Talent</a>
+                <a class="btn hire-btn-hero me-2 me-lg-0" href="page-login.html">Find top talent</a>
               </li>
               <!-- End Log in -->
             </ul>
@@ -193,7 +186,7 @@
 
   <!-- JS Plugins Init. -->
   <script>
-    (function () {
+    (function() {
       // INITIALIZATION OF NAVBAR
       // =======================================================
       new HSHeader("#header").init();
@@ -290,7 +283,7 @@
           },
         },
         on: {
-          'imagesReady': function (swiper) {
+          'imagesReady': function(swiper) {
             const preloader = swiper.el.querySelector('.js-swiper-preloader')
             preloader.parentNode.removeChild(preloader)
           }
