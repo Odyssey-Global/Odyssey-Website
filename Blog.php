@@ -104,6 +104,6 @@
         </div>
         <!-- End Row -->
       </div>
-      <?php include 'cx.php';?>
+      <!-- <?php include 'cx.php';?> -->
 </body> 
       </html>

@@ -37,13 +37,13 @@
         <div class="row">
           <div class="col-md-6">
             <div class="">
-              <h1 class="mb-3">Empower Your Team with Contract Staffing</h1>
+              <h1 class="mb-3"> Contract Staffing:Flexible Hiring, Agile Workforce, Extraordinary Value</h1>
               <p class="lead mb-3">
-                We are not just a staffing company; we are dedicated to
-                empowering individuals
+              Execute critical projects, access niche skill sets, and redefine business growth with
+               our tailored, top-notch contract staffing solutions.
               </p>
               <div class="d-grid d-sm-flex gap-3 mb-5">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect with us</a>
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
               </div>
             </div>
           </div>
@@ -57,13 +57,11 @@
         <div class="col-md-6 offset-md-3">
           <h2>Why Does Your Business Need Contract Staffing?</h2>
           <p>
-            Every company or organization will be having its own employees. In
-            most cases, companies recruit permanent workers. The businesses
-            arrange training for their workforce and hope that employees will
-            provide excellent productivity in return. In addition to the
-            regular workforce, a business may need specialists to deal with
-            certain projects. Techgene helps you to find those skilled and
-            specialized employees for your short-term projects.
+          Contract staffing helps businesses to hire exceptional talent for a limited duration to fulfill specific long-term-
+           and short-term needs. They can execute critical projects by accessing specialized skill sets.
+            It enables businesses to access top-notch professionals and experts with niche skill sets. They don’t have 
+            to increase their headcount and compensation bills permanently. Contract staffing empowers businesses to hire 
+            the right talent flexibly and quickly for their key projects, avoiding costly hiring mistakes.
           </p>
         </div>
       </div>
@@ -87,26 +85,28 @@
               <div class="pe-lg-5">
                 <div class="mb-5">
                   <h2 class="text-white">
-                    Drive maximum customer-satisfaction
+                  Quick, Flexible Staffing for Maximum Impact
                   </h2>
                   <p class="text-white-70">
-                    Connect with your customers better by giving them an
-                    excellent post-purchase experience. Engage customers,
-                    reduce queries and build trust with automated tracking
-                    notifications and custom branded tracking page.
+                  Flexibly add the right kind of talent, augment your team’s skills to meet business needs. 
+                  Whether you need a single specialist for a project or build an entire team of temporary staff,
+                   we can help. Accelerate the hiring process and get started on your projects quickly to maximize impact.
                   </p>
                 </div>
 
                 <!-- List Checked -->
                 <ul class="list-checked list-checked-soft-bg-primary list-checked-lg mb-5">
                   <li class="list-checked-item text-white-70">
-                    Customize labels, packaging
+                  Boost value by reducing time-to-hire exceptional talent.
                   </li>
                   <li class="list-checked-item text-white-70">
-                    Custom branded tracking page
+                  Flexibly add & remove talent based on business need.
                   </li>
                   <li class="list-checked-item text-white-70">
-                    FREE Email &amp; SMS notifications
+                  Find specialized talent for projects with critical deliverables.
+                  </li>
+                  <li class="list-checked-item text-white-70">
+                   Employ talent flexibly to optimize costs.
                   </li>
                 </ul>
                 <!-- End List Checked -->
@@ -136,25 +136,28 @@
             <div class="col-lg-5">
               <div class="pe-lg-5">
                 <div class="mb-5">
-                  <h2 class="">Drive maximum customer-satisfaction</h2>
+                  <h2 class="">Build an Agile, High-Performing Workforce</h2>
                   <p class="">
-                    Connect with your customers better by giving them an
-                    excellent post-purchase experience. Engage customers,
-                    reduce queries and build trust with automated tracking
-                    notifications and custom branded tracking page.
+                  Relentless change is the only constant in today’s business landscape. Business priorities keep 
+                  shifting and so does the need for talent. We empower you to build an agile, high-performing, 
+                  and effective workforce, providing access to a global talent pool. This helps you remain agile, 
+                  driving competitive advantages.
                   </p>
                 </div>
 
                 <!-- List Checked -->
                 <ul class="list-checked list-checked-soft-bg-primary list-checked-lg mb-5">
                   <li class="list-checked-item">
-                    Customize labels, packaging
+                  Effectively fill skill gaps at an accelerated pace.
                   </li>
                   <li class="list-checked-item">
-                    Custom branded tracking page
+                  Cost-effectively access specialized talent & critical skills. 
                   </li>
                   <li class="list-checked-item">
-                    FREE Email &amp; SMS notifications
+                  Scale up/down your team based on changing needs.
+                  </li>
+                  <li class="list-checked-item">
+                  Flexibly hire the right talent for long- & short-term needs
                   </li>
                 </ul>
                 <!-- End List Checked -->
@@ -176,11 +179,13 @@
         <div class="row">
           <div class="col-md-6 mb-7 mb-lg-0">
             <div class="w-md-75 mb-5">
-              <h2>Collaborative tools to design better user experience</h2>
+              <h2>We are Specialists in Contract Staffing.</h2>
               <p>
-                We help businesses bring ideas to life in the digital world,
-                by designing and implementing the technology tools that they
-                need to win.
+              From matching the best-fit for your temporary/ contractual talent needs to handling 
+              administrative and compliance requirements, we offer end-to-end contract staffing solutions. 
+              We help you build contract hiring strategies, manage documentation, and ensure compliance. 
+              You can hit the ground running on your critical projects with reliable, top-notch professionals,
+               forging ahead on your mission.
               </p>
             </div>
 
@@ -197,11 +202,10 @@
                   <i class="bi-file-earmark-text fs-2 text-dark"></i>
                 </div>
                 <div class="flex-grow-1 ms-5">
-                  <h5>Industry-leading documentation</h5>
+                  <h5>High Scalability</h5>
                   <p>
-                    Our documentation and extensive Client libraries contain
-                    everything a business needs to build a custom integration
-                    in a fraction of the time.
+                  Scale up your access to critical skills with our contract staffing solutions.
+                   Add and remove talent flexibly from your staff as per your changing needs.
                   </p>
                 </div>
               </div>
@@ -213,11 +217,10 @@
                   <i class="bi-chat-right-dots fs-2 text-dark"></i>
                 </div>
                 <div class="flex-grow-1 ms-5">
-                  <h5>Developer community support</h5>
+                  <h5>Cost-Effectiveness</h5>
                   <p>
-                    We actively contribute to open-source projects—giving back
-                    to the community through development, patches, and
-                    sponsorships.
+                  Find the best talent within your budgetary constraints. We leverage cutting-edge
+                   technology to remove hiring complexities, manage risks & optimize costs.
                   </p>
                 </div>
               </div>
@@ -229,10 +232,10 @@
                   <i class="bi-hand-thumbs-up fs-2 text-dark"></i>
                 </div>
                 <div class="flex-grow-1 ms-5">
-                  <h5>Simple and affordable</h5>
+                  <h5>Uninterrupted Processes</h5>
                   <p>
-                    From boarding passes to movie tickets, there's pretty much
-                    nothing you can't store with Unify.
+                  We custom-build your hiring strategies, hire top-quality talent quickly & maintain a healthy talent pipeline.
+                   Overall, we help you keep critical projects on track.
                   </p>
                 </div>
               </div>
@@ -247,6 +250,20 @@
     </div>
 
     <?php include 'Blog.php'; ?>
+    <div class="cx-style"
+        style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
+        <div>
+            <h1 style="color: white;">Ready to supercharge your team </br>with critical skills?
+</br>
+              </h1>
+            <p style="color: white;">Leverage our effective contract staffing solutions to flexibly build agile,</br>
+             high-performing teams and experience unprecedented growth.</p>
+            <div class="d-flex justify-content-center gap-3">
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now
+</a>
+            </div>
+        </div>
+    </div>
 
   </main>
   <!-- ========== END MAIN CONTENT ========== -->

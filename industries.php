@@ -44,7 +44,7 @@
                 sectors but we specialize in staffing for certain industries.
               </p>
               <div class="d-grid d-sm-flex gap-3 mb-5">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect with us</a>
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect now </a>
               </div>
             </div>
           </div>
@@ -53,7 +53,7 @@
     </div>
     <!-- End Hero -->
 
-    <div class="About-page">
+    <!-- <div class="About-page">
       <div class="row">
         <div class="col-md-6 offset-md-3">
           <h2>How Does Temp to Perm Staffing Help Your Business?
@@ -69,7 +69,7 @@
           </p>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <!-- Features -->
     <div class="overflow-hidden mb-5">
@@ -248,7 +248,17 @@
     </div>
 
     <?php include 'Blog.php'; ?>
-
+    <div class="cx-style"
+        style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
+        <div>
+            <h1 style="color: white;">Ready to Experience the Power of Strategic Staffing? </h1>
+            <p style="color: white;">Leverage our premier staffing solutions, tailored to meet your unique needs, challenges, <br/>
+            and industry best practices, enabling you to boost your hiring ROI.</p>
+            <div class="d-flex justify-content-center gap-3">
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now</a>
+            </div>
+        </div>
+    </div>
   </main>
   <!-- ========== END MAIN CONTENT ========== -->
 
