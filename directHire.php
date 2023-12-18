@@ -37,14 +37,13 @@
         <div class="row">
           <div class="col-md-6">
             <div class="">
-              <h1 class="mb-3">Strategic, Stress-Free Hiring. Permanent Impact
-                Staffing </h1>
+              <h1 class="mb-3">Dire Hire Solutions: Strategic, Stress-Free Hiring. Permanent Impact   </h1>
               <p class="lead mb-3">
                 Access a global talent pool to hire exceptional talent for your permanent roles.
                 But without guesswork & stress with our strategic direct hiring solutions.
               </p>
               <div class="d-grid d-sm-flex gap-3 mb-5">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect with us</a>
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
               </div>
             </div>
           </div>
@@ -248,7 +247,19 @@
     </div>
 
     <?php include 'Blog.php'; ?>
-
+    <div class="cx-style"
+        style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
+        <div>
+            <h1 style="color: white;">Ready to Redefine Success </br>& Unlock Your Potential?
+              </h1>
+            <p style="color: white;">Leverage our tailored strategic staffing solutions to build an agile,<br/>
+             high-performing workforce at an accelerated pace without compromising on the quality & cost of hires.  </p>
+            <div class="d-flex justify-content-center gap-3">
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now
+</a>
+            </div>
+        </div>
+    </div>
   </main>
   <!-- ========== END MAIN CONTENT ========== -->
 

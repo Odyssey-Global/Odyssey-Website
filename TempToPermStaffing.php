@@ -37,15 +37,13 @@
         <div class="row">
           <div class="col-md-6">
             <div class="">
-              <h1 class="mb-3">Empower Your Team with Temp to
-                Perm
-                Staffing </h1>
+              <h1 class="mb-3">Temp to Perm Solutions: Transform Potential into Permanence. Drive Lasting Value </h1>
               <p class="lead mb-3">
-                We are not just a staffing company; we are dedicated to
-                empowering individuals
+              Convert excellent temporary staff into permanent hires and augment your team with 
+              critical skills using our effective temp to perm staffing solutions.
               </p>
               <div class="d-grid d-sm-flex gap-3 mb-5">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect with us</a>
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
               </div>
             </div>
           </div>
@@ -254,7 +252,18 @@
     </div>
 
     <?php include 'Blog.php'; ?>
-
+    <div class="cx-style"
+        style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
+        <div>
+            <h1 style="color: white;">Want to ‘Try Before Your Hire’ Talent?</br>
+             </h1>
+            <p style="color: white;">Leverage our tailored temp to perm staffing solutions to build an agile,<br/> blended workforce, amplifying your 
+            impact & boosting hiring ROI.</p>
+            <div class="d-flex justify-content-center gap-3">
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect with us</a>
+            </div>
+        </div>
+    </div>
   </main>
   <!-- ========== END MAIN CONTENT ========== -->
 
