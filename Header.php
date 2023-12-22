@@ -72,7 +72,7 @@
                   <div class="row">
                     <div class="col-xs">
                       <div class="navbar-dropdown-menu-inner">
-                        <a class="dropdown-item active" href="Contract-staffing.php"><i class="bi-building me-2"></i>
+                        <a class="dropdown-item" href="Contract-staffing.php"><i class="bi-building me-2"></i>
                           Contract
                           Staffing</a>
                         <a class="dropdown-item" href="TempToPermStaffing.php"><i class="bi-briefcase me-2"></i> Temp to
@@ -135,7 +135,7 @@
                     <div class="navbar-dropdown-menu-inner">
                       <a class="dropdown-item" href="Blogs.php">Blogs
                       </a>
-                      <a class="dropdown-item" href="blog-grid.html">Testimonials</a>
+                      <a class="dropdown-item" href="testimonials.php">Testimonials</a>
                     </div>
                   </div>
                   <!-- End Main Content -->
@@ -158,7 +158,7 @@
                     <div class="navbar-dropdown-menu-inner">
                       <a class="dropdown-item" href="Who-we-are.php">Who we are
                       </a>
-                      <a class="dropdown-item" href="blog-grid.html">Our Impact</a>
+                      <a class="dropdown-item" href="our-impact.php">Our Impact</a>
                       <a class="dropdown-item" href="our-locations.php">Office Locations</a>
                     </div>
                   </div>

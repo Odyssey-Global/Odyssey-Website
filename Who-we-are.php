@@ -9,7 +9,7 @@
     <!-- Hero -->
     <div class="container content-space-t-3 content-space-t-lg-4">
       <div class="w-lg-65 text-center mx-lg-auto mb-5 mb-sm-7 mb-lg-10">
-        <h2 class="display-5">We’re A Company That Cares For Others</h2>
+        <h2 class="display-5">We are odyssey global</h2>
         <p class="lead">We are on a mission to smartly transform Corporate
           HR, Hiring and Staffing Businesses.</p>
       </div>
@@ -21,48 +21,67 @@
     <!-- End Hero -->
 
 
-    <div class="container DNA-Sec">
-      <!-- Heading -->
-      <div class="w-lg-65 text-center mx-lg-auto">
-        <h2>Our DNA</h2>
-        <p>At Odyssey Global, our purpose, vision, mission and values guide who we are and who we aspire to be, serving
-          as the building blocks for the way we conduct business and build relationships.
-
-        </p>
-      </div>
-      <!-- End Heading -->
-
+    <div class="container content-space-2 content-space-lg-3">
       <div class="row justify-content-lg-between">
-        <div class="col-sm-2 col-md-4 mb-5">
-          <div class="">
-            <div class="DNA-cards purpose-card mr-42">
-              <h4>Our Purpose</h4>
-              <p>Leading the world's most respected organizations to create and grow emotionally connected, valuable,
-                lasting relationships.</p>
+        <div class="col-md-6 mb-5 mb-md-0">
+          <h2>Work environment</h2>
+          <p>Only by seeking out diverse talent around the globe and by creating an inclusive workplace can we access
+            the breadth of skills, abilities and creativity that we need to create exceptional and innovative products
+            and services for our customers.</p>
+          <p>We strongly believe that an inclusive working environment enables everyone to realise their full potential
+            and to deliver outstanding service to our customers. We continually strive to use all the experiences that
+            our employees bring with them to influence and shape our decision making process.</p>
+          <p>We are an equal opportunities employer and we aim to recruit, train and promote based on individual
+            aptitudes and skills.</p>
+        </div>
+        <!-- End Col -->
+
+        <div class="col-md-6 col-lg-5">
+          <div class="d-grid gap-5">
+            <!-- Media -->
+            <div class="d-flex">
+              <div class="flex-shrink-0">
+                <i class="bi-building fs-2"></i>
+              </div>
+
+              <div class="flex-grow-1 ms-4">
+                <h5>High quality Co-Living spaces</h5>
+                <p>Our fully furnished spaces are designed and purpose-built with Co-Living in mind, featuring high-end
+                  finishes and amenities that go far beyond traditional apartment buildings.</p>
+              </div>
             </div>
+            <!-- End Media -->
+
+            <!-- Media -->
+            <div class="d-flex">
+              <div class="flex-shrink-0">
+                <i class="bi-people fs-2"></i>
+              </div>
+
+              <div class="flex-grow-1 ms-4">
+                <h5>Fostering vibrant communities</h5>
+                <p>Our passion is bringing people together. Beyond creating beautiful spaces, we provide shared
+                  experiences.</p>
+              </div>
+            </div>
+            <!-- End Media -->
+
+            <!-- Media -->
+            <div class="d-flex">
+              <div class="flex-shrink-0">
+                <i class="bi-shield-check fs-2"></i>
+              </div>
+
+              <div class="flex-grow-1 ms-4">
+                <h5>Simple and all-inclusive</h5>
+                <p>We worry about the details so that our residents don't have to. From our online application process
+                  to simple, all-inclusive billing we aim to make the living experience as effortless as possible.</p>
+              </div>
+            </div>
+            <!-- End Media -->
           </div>
         </div>
-
-        <div class="col-sm-2 col-md-4 mb-5">
-          <div class="">
-            <div class="DNA-cards mission-card mr-42">
-              <h4>Our Mission</h4>
-              <p>Leading the world's most respected organizations to create and grow emotionally connected, valuable,
-                lasting relationships.</p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-2 col-md-4 mb-5">
-          <div class="">
-            <div class="DNA-cards vision-card mr-42">
-              <h4>Our Vision</h4>
-              <p>Leading the world's most respected organizations to create and grow emotionally connected, valuable,
-                lasting relationships.</p>
-            </div>
-          </div>
-        </div>
-
+        <!-- End Col -->
       </div>
       <!-- End Row -->
     </div>
