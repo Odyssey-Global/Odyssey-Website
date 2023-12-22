@@ -69,12 +69,12 @@
   border: none !important;
 }
 
-.card-footer {
+.card-footer-home {
   background-color: #133971 !important;
   color: #fff !important;
 }
 
-.card-footer h6 {
+.card-footer-home h6 {
   color: #fff !important;
 }
 
@@ -162,4 +162,26 @@
 .team-sec {
   background: #eee;
   padding: 4rem 0rem 0rem;
+}
+
+.cards-gaps {
+  margin-top: 16px !important;
+}
+
+.test-footer-card {
+  background-color: #e7effa !important;
+  padding: 16px;
+}
+
+.our-value-sec {
+  background: #fff;
+  border-radius: 24px;
+}
+
+.our-value-text-sec {
+  padding: 30px;
+}
+
+.our-value-section {
+  padding: 4rem 0rem 4rem 0rem !important;
 }

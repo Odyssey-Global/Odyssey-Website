@@ -45,7 +45,8 @@
                 <span class="text-primaryt">Staffing Partner in Canada</span>
               </h1>
               <p class="fs-3">
-                Experience boundless success by building high-performing teams with our premier tailored staffing solutions.
+                Experience boundless success by building high-performing teams with our premier tailored staffing
+                solutions.
 
               </p>
             </div>
@@ -328,10 +329,12 @@
                 <!-- Card -->
                 <div class="card testimonial-card">
                   <div class="card-body testimonial-body">
-                    <p class="card-text fs-3"><em>" I'm absolutely floored by the level of care and attention to detail the team at HS have put into this theme and for one can guarantee that I will be a return customer. "</em></p>
+                    <p class="card-text fs-3"><em>" I'm absolutely floored by the level of care and attention to detail
+                        the team at HS have put into this theme and for one can guarantee that I will be a return
+                        customer. "</em></p>
                   </div>
 
-                  <div class="card-footer">
+                  <div class="card-footer card-footer-home">
                     <!-- Media -->
                     <div class="d-sm-flex align-items-sm-center">
                       <div class="flex-shrink-0 mb-3 mb-sm-0">
@@ -353,10 +356,12 @@
                 <!-- Card -->
                 <div class="card testimonial-card">
                   <div class="card-body testimonial-body">
-                    <p class="card-text fs-3"><em>" I'm absolutely floored by the level of care and attention to detail the team at HS have put into this theme and for one can guarantee that I will be a return customer. "</em></p>
+                    <p class="card-text fs-3"><em>" I'm absolutely floored by the level of care and attention to detail
+                        the team at HS have put into this theme and for one can guarantee that I will be a return
+                        customer. "</em></p>
                   </div>
 
-                  <div class="card-footer">
+                  <div class="card-footer card-footer-home">
                     <!-- Media -->
                     <div class="d-sm-flex align-items-sm-center">
                       <div class="flex-shrink-0 mb-3 mb-sm-0">
@@ -378,10 +383,12 @@
                 <!-- Card -->
                 <div class="card testimonial-card">
                   <div class="card-body testimonial-body">
-                    <p class="card-text fs-3"><em>" I'm absolutely floored by the level of care and attention to detail the team at HS have put into this theme and for one can guarantee that I will be a return customer. "</em></p>
+                    <p class="card-text fs-3"><em>" I'm absolutely floored by the level of care and attention to detail
+                        the team at HS have put into this theme and for one can guarantee that I will be a return
+                        customer. "</em></p>
                   </div>
 
-                  <div class="card-footer">
+                  <div class="card-footer card-footer-home">
                     <!-- Media -->
                     <div class="d-sm-flex align-items-sm-center">
                       <div class="flex-shrink-0 mb-3 mb-sm-0">
@@ -403,10 +410,12 @@
                 <!-- Card -->
                 <div class="card testimonial-card">
                   <div class="card-body testimonial-body">
-                    <p class="card-text fs-3"><em>" I'm absolutely floored by the level of care and attention to detail the team at HS have put into this theme and for one can guarantee that I will be a return customer. "</em></p>
+                    <p class="card-text fs-3"><em>" I'm absolutely floored by the level of care and attention to detail
+                        the team at HS have put into this theme and for one can guarantee that I will be a return
+                        customer. "</em></p>
                   </div>
 
-                  <div class="card-footer">
+                  <div class="card-footer card-footer-home">
                     <!-- Media -->
                     <div class="d-sm-flex align-items-sm-center">
                       <div class="flex-shrink-0 mb-3 mb-sm-0">
@@ -505,7 +514,7 @@
 
   <!-- JS Plugins Init. -->
   <script>
-    (function() {
+    (function () {
       // INITIALIZATION OF NAVBAR
       // =======================================================
       new HSHeader("#header").init();
@@ -602,7 +611,7 @@
           },
         },
         on: {
-          'imagesReady': function(swiper) {
+          'imagesReady': function (swiper) {
             const preloader = swiper.el.querySelector('.js-swiper-preloader')
             preloader.parentNode.removeChild(preloader)
           }

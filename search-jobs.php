@@ -21,106 +21,6 @@
 
 
 
-    <!-- Step Features -->
-    <div class="container content-space-1 content-space-lg-3">
-      <!-- Heading -->
-      <div class="w-lg-65 text-center mx-lg-auto mb-5 mb-sm-7 mb-lg-10">
-        <h2>How we hire our team</h2>
-        <p>We like to keep things as simple as possible so we can get to what's really important - finding out more
-          about you.</p>
-      </div>
-      <!-- End Heading -->
-
-      <ul class="list-unstyled list-timeline list-py-3">
-        <li class="list-timeline-item">
-          <!-- Card -->
-          <div class="card card-lg">
-            <div class="card-body">
-              <!-- Media -->
-              <div class="d-flex">
-                <div class="flex-shrink-0">
-                  <i class="bi-file-earmark-check text-dark fs-2"></i>
-                </div>
-                <div class="flex-grow-1 ms-4">
-                  <h4 class="card-title"><span class="fs-2 text-primary">01.</span> Application and recruiter screen
-                  </h4>
-                  <p class="card-text">The start of our application process is the same for all of our roles. We want to
-                    learn a bit about you through a casual conversation.</p>
-                </div>
-              </div>
-              <!-- End Media -->
-            </div>
-          </div>
-          <!-- End Card -->
-        </li>
-
-        <li class="list-timeline-item ms-auto">
-          <!-- Card -->
-          <div class="card card-lg">
-            <div class="card-body">
-              <!-- Media -->
-              <div class="d-flex">
-                <div class="flex-shrink-0">
-                  <i class="bi-clock-history text-dark fs-2"></i>
-                </div>
-                <div class="flex-grow-1 ms-4">
-                  <h4 class="card-title"><span class="fs-2 text-primary">02.</span> First round interview</h4>
-                  <p class="card-text">We love connecting with people who believe they'll make a difference. At this
-                    stage, an interview will help us both decide whether the interest is mutual.</p>
-                </div>
-              </div>
-              <!-- End Media -->
-            </div>
-          </div>
-          <!-- End Card -->
-        </li>
-
-        <li class="list-timeline-item">
-          <!-- Card -->
-          <div class="card card-lg">
-            <div class="card-body">
-              <!-- Media -->
-              <div class="d-flex">
-                <div class="flex-shrink-0">
-                  <i class="bi-pencil-square text-dark fs-2"></i>
-                </div>
-                <div class="flex-grow-1 ms-4">
-                  <h4 class="card-title"><span class="fs-2 text-primary">03.</span> Task or challenge</h4>
-                  <p class="card-text">Now it's time to apply your thinking to some real life situations. Whether it's
-                    completing a technical test, engaging in a role play or preparing a presentation to address a
-                    challenge - we want to see you in action.</p>
-                </div>
-              </div>
-              <!-- End Media -->
-            </div>
-          </div>
-          <!-- End Card -->
-        </li>
-
-        <li class="list-timeline-item ms-auto">
-          <!-- Card -->
-          <div class="card card-lg">
-            <div class="card-body">
-              <!-- Media -->
-              <div class="d-flex">
-                <div class="flex-shrink-0">
-                  <i class="bi-hand-thumbs-up text-dark fs-2"></i>
-                </div>
-                <div class="flex-grow-1 ms-4">
-                  <h4 class="card-title"><span class="fs-2 text-primary">04.</span> Final interview and offer</h4>
-                  <p class="card-text">Once you've met the team, and we've gotten to know each other, it's time for us
-                    to both decide whether we're a match.</p>
-                </div>
-              </div>
-              <!-- End Media -->
-            </div>
-          </div>
-          <!-- End Card -->
-        </li>
-      </ul>
-    </div>
-    <!-- End Step Features -->
-
 
 
     <!-- List Directory -->
@@ -286,7 +186,7 @@
         <div class="w-lg-65 text-center mx-lg-auto mt-7">
           <p>Don't worry if you don't see any roles you want to apply for now. Register your interest to be notified of
             any roles that come along that meet your criteria.</p>
-          <a class="btn btn-primary" href="page-contacts.html">Register your interest</a>
+          <a class="btn btn-primary" href="contact-us.php">Register your interest</a>
         </div>
       </div>
     </div>
