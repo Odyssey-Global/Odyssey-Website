@@ -37,12 +37,13 @@
         <div class="row">
           <div class="col-md-6">
             <div class="left-career-content">
-              <h1 class="mb-3">Life at Odyssey Global</h1>
+              <h1 class="mb-3">Ready to Fuel Career Growth?</h1>
               <p class="lead mb-3">
-                We are a global team with a passion for people - both our customers and our employees.
+              We are a dynamic, global team of professionals with a passion for nurturing ambitions, 
+              fueling thriving careers and architecting professional growth.
               </p>
               <div class="d-grid d-sm-flex gap-3 mb-5">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect with us</a>
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Join Us</a>
               </div>
             </div>
           </div>
@@ -65,34 +66,32 @@
             </div>
           </div>
           <div class="col-md-6">
-            <h2 class="text-drblue mb-3">Welcome to Odyssey Global life</h2>
-            <h5 class="mb-3">When it comes to our employees, only the best will do.
+            <h2 class="text-drblue mb-3">The Vibrant Life & Culture @ Odyssey Global</h2>
+            <h5 class="mb-3">We prioritize our people and embrace excellence in every aspect of our being.
             </h5>
             <p class="mb-3">
-              Every company or organization will be having its own employees. In
-              most cases, companies recruit permanent workers. The businesses
-              arrange training for their workforce and hope that employees will
-              provide excellent productivity in return. In addition to the
-              regular workforce, a business may need specialists to deal with
-              certain projects. Techgene helps you to find those skilled and
-              specialized employees for your short-term projects.
+            Odyssey Global is a people-first staffing company. Whether it is our employees or clients, 
+            we value them and want to help them unleash their full potential. We don’t just want our people 
+            to have a job; we want everyone to grow professionally and build thriving careers. Our growth lies
+             in the growth of our people. That’s why we keep empowering them and augmenting their capabilities.
             </p>
             <div class="row">
               <div class="col-6 col-md-4 mb-5 mb-md-0">
                 <span class="display-6 text-primary">99.95%</span>
-                <p class="">in fulfilling orders</p>
+                <p class="">Diversity, Inclusion & Equity</p>
               </div>
               <!-- End Col -->
 
               <div class="col-6 col-md-4 mb-5 mb-md-0">
                 <span class="display-6 text-primary">2,000+</span>
-                <p class="">partner with Unify</p>
+                <p class="">Continuous improvement
+</p>
               </div>
               <!-- End Col -->
 
               <div class="col-6 col-md-4">
                 <span class="display-6 text-primary">85%</span>
-                <p class="">this year alone</p>
+                <p class=""> Mutual trust, respect & collaboration</p>
               </div>
               <!-- End Col -->
             </div>
@@ -127,10 +126,11 @@
     <div class="container">
       <!-- Heading -->
       <div class="w-lg-65 text-center mx-lg-auto mb-5 mb-sm-7 mb-lg-10">
-        <h2>9 reasons to join Us</h2>
-        <p>At Odyssey Global, we value diversity, inclusivity, and camaraderie, which boosts morale, confidence, and
-          productivity
-          in the workforce. Here are 9 reasons to work at V3</p>
+        <h2>8 reasons to join Us</h2>
+        <p>At Odyssey Global, diversity, inclusion and equity are central aspects of our functioning. 
+          These values help us to nurture a workplace where everyone feels welcome, respected, 
+          and motivated to work, directly impacting our productivity, impact and success.
+           Here are 8 reasons why you should join Odyssey Global.  </p>
       </div>
       <!-- End Heading -->
 
@@ -142,8 +142,8 @@
               <i class="bi-circle-square fs-1 text-dark"></i>
             </div>
             <div class="flex-grow-1 ms-5">
-              <h5>Best Compensation Structure</h5>
-              <p>We embrace both to continuously learn, evolve, and grow as a team.</p>
+              <h5>Competitive Compensation Structure</h5>
+              <p>We value the contribution of each of our team members and offer competitive compensation packages.</p>
             </div>
           </div>
           <!-- End Icon Block -->
@@ -158,8 +158,7 @@
             </div>
             <div class="flex-grow-1 ms-5">
               <h5>Rewards and Recognition’s</h5>
-              <p>Being kind makes us stronger. We’re humble, authentic, and treat each other with respect. We’re
-                trusting and always assume positive intent.</p>
+              <p>Everyone is recognized and rewarded for their hard work & contributions. This helps keep our team motivated.</p>
             </div>
           </div>
           <!-- End Icon Block -->
@@ -173,9 +172,9 @@
               <i class="bi-bar-chart fs-1 text-dark"></i>
             </div>
             <div class="flex-grow-1 ms-5">
-              <h5>Medical Insurance</h5>
-              <p>Excellence from each of us is required for our shared success. We‘re focused on results and work with
-                a sense of ownership and urgency.</p>
+              <h5>Comprehensive Medical Insurance</h5>
+              <p>We care about our people and their families. Our holistic medical insurance helps 
+                ensure their health and well-being.</p>
             </div>
           </div>
           <!-- End Icon Block -->
@@ -212,22 +211,52 @@
           </div>
           <!-- End Icon Block -->
         </div>
-        <!-- End Col -->
-
-        <div class="col-sm-6 col-lg-5">
+        <div class="col-sm-6 col-lg-5 mb-5 mb-sm-0">
           <!-- Icon Block -->
           <div class="d-flex">
             <div class="flex-shrink-0">
-              <i class="bi-bicycle fs-1 text-dark"></i>
+              <i class="bi-bell fs-1 text-dark"></i>
             </div>
             <div class="flex-grow-1 ms-5">
-              <h5>Festival Celebrations</h5>
-              <p>Everyone needs a healthy, happy, and productive life. This means you'll need time to rest and recover
-                without restrictive holiday limits..</p>
+              <h5>Inclusive & Respectful Workplace</h5>
+              <p>We treat everyone with respect and strive to keep our workplace safe, non-discriminatory, equitable,
+                 and inclusive for all.</p>
             </div>
           </div>
           <!-- End Icon Block -->
         </div>
+        <div class="col-sm-6 col-lg-5 mb-5 mb-sm-0">
+          <!-- Icon Block -->
+          <div class="d-flex">
+            <div class="flex-shrink-0">
+              <i class="bi-bell fs-1 text-dark"></i>
+            </div>
+            <div class="flex-grow-1 ms-5">
+              <h5>Impactful Work
+</h5>
+              <p> Our employees are part of impactful projects that make a difference and do work which 
+                challenges and inspires them every day.</p>
+            </div>
+          </div>
+          <!-- End Icon Block -->
+        </div>
+        <div class="col-sm-6 col-lg-5 mb-5 mb-sm-0">
+          <!-- Icon Block -->
+          <div class="d-flex">
+            <div class="flex-shrink-0">
+              <i class="bi-bell fs-1 text-dark"></i>
+            </div>
+            <div class="flex-grow-1 ms-5">
+              <h5>Festival Celebrations</h5>
+              <p> To upkeep our commitment to diversity and inclusion, we celebrate various 
+                festivals in the office to honor different cultures and traditions.</p>
+            </div>
+          </div>
+          <!-- End Icon Block -->
+        </div>
+        <!-- End Col -->
+
+      
         <!-- End Col -->
       </div>
       <!-- End Row -->
@@ -240,10 +269,11 @@
           <div>
             <h1 style="color: white;">Join our talent community
             </h1>
-            <p style="color: white;">Whether you like working with clients, customers, or in a business
-              support role, we have a position you'll rock.</p>
+            <p style="color: white;">Be part of a global community of professionals with varying expertise, experience, 
+            and skills. You will have an international network, learning diverse
+             perspectives and unlock unmatched growth opportunities.</p>
             <div class="d-flex justify-content-center gap-3">
-              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Join Our</a>
+              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Apply Now</a>
             </div>
           </div>
         </div>
