@@ -1,6 +1,6 @@
 .hero-bg {
   background-color: #031f4a;
-  height: 95vh;
+  min-height: 95vh;
 }
 .fs-3 {
   color: #fff;

@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
   <!-- Title -->
-  <title>Corporate | Unify - Multipurpose Responsive Template</title>
+  <title>Odyssey Global - Your Staffing Partner</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="favicon.ico" />
@@ -165,27 +165,27 @@
           <div class="col-lg-9 mb-5">
             <div class="row">
               <div class="col-sm-6 col-lg-4 mb-5">
-                <div class="text-center text-white border-bottom border-white-10">
+                <div class=" text-white border-bottom border-white-10">
                   <p>Jobs in IT</p>
                 </div>
               </div>
               <div class="col-sm-6 col-lg-4 mb-5">
-                <div class="text-center text-white border-bottom border-white-10">
+                <div class="text-white border-bottom border-white-10">
                   <p>Jobs in Manufacturing</p>
                 </div>
               </div>
               <div class="col-sm-6 col-lg-4 mb-5">
-                <div class="text-center text-white border-bottom border-white-10">
+                <div class=" text-white border-bottom border-white-10">
                   <p>Jobs in Banking</p>
                 </div>
               </div>
               <div class="col-sm-6 col-lg-4 mb-5">
-                <div class="text-center text-white border-bottom border-white-10">
+                <div class="text-white border-bottom border-white-10">
                   <p>Jobs in Insurance</p>
                 </div>
               </div>
               <div class="col-sm-6 col-lg-4 mb-5">
-                <div class="text-center text-white border-bottom border-white-10">
+                <div class=" text-white border-bottom border-white-10">
                   <p>Jobs in Healthcare</p>
                 </div>
               </div>
@@ -205,7 +205,7 @@
                 </div>
               </div> -->
               <div class="col-sm-6 col-lg-4 mb-5">
-                <div class="text-center text-white border-bottom border-white-10">
+                <div class="text-white border-bottom border-white-10">
                   <p>See All Jobs</p>
                 </div>
               </div>

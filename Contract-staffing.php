@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <!-- Required Meta Tags Always Come First -->
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
-  <!-- Title -->
-  <title>Careers | Unify - Multipurpose Responsive Template</title>
-
-  <!-- Favicon -->
-  <link rel="shortcut icon" href="favicon.ico" />
-
-  <!-- Font -->
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet" />
-
-  <!-- CSS Implementing Plugins -->
-  <link rel="stylesheet" href="assets/css/vendor.min.css" />
-  <link rel="stylesheet" href="assets/css/style.css" />
-
-  <!-- CSS Unify Template -->
-  <link rel="stylesheet" href="assets/css/theme.minc619.css?v=1.0" />
-</head>
-
 <body>
   <!-- ========== HEADER ========== -->
   <?php include 'Header.php'; ?>
@@ -39,8 +14,8 @@
             <div class="">
               <h1 class="mb-3"> Contract Staffing:Flexible Hiring, Agile Workforce, Extraordinary Value</h1>
               <p class="lead mb-3">
-              Execute critical projects, access niche skill sets, and redefine business growth with
-               our tailored, top-notch contract staffing solutions.
+                Execute critical projects, access niche skill sets, and redefine business growth with
+                our tailored, top-notch contract staffing solutions.
               </p>
               <div class="d-grid d-sm-flex gap-3 mb-5">
                 <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
@@ -57,10 +32,12 @@
         <div class="col-md-6 offset-md-3">
           <h2>Why Does Your Business Need Contract Staffing?</h2>
           <p>
-          Contract staffing helps businesses to hire exceptional talent for a limited duration to fulfill specific long-term-
-           and short-term needs. They can execute critical projects by accessing specialized skill sets.
-            It enables businesses to access top-notch professionals and experts with niche skill sets. They don’t have 
-            to increase their headcount and compensation bills permanently. Contract staffing empowers businesses to hire 
+            Contract staffing helps businesses to hire exceptional talent for a limited duration to fulfill specific
+            long-term-
+            and short-term needs. They can execute critical projects by accessing specialized skill sets.
+            It enables businesses to access top-notch professionals and experts with niche skill sets. They don’t have
+            to increase their headcount and compensation bills permanently. Contract staffing empowers businesses to
+            hire
             the right talent flexibly and quickly for their key projects, avoiding costly hiring mistakes.
           </p>
         </div>
@@ -85,28 +62,29 @@
               <div class="pe-lg-5">
                 <div class="mb-5">
                   <h2 class="text-white">
-                  Quick, Flexible Staffing for Maximum Impact
+                    Quick, Flexible Staffing for Maximum Impact
                   </h2>
                   <p class="text-white-70">
-                  Flexibly add the right kind of talent, augment your team’s skills to meet business needs. 
-                  Whether you need a single specialist for a project or build an entire team of temporary staff,
-                   we can help. Accelerate the hiring process and get started on your projects quickly to maximize impact.
+                    Flexibly add the right kind of talent, augment your team’s skills to meet business needs.
+                    Whether you need a single specialist for a project or build an entire team of temporary staff,
+                    we can help. Accelerate the hiring process and get started on your projects quickly to maximize
+                    impact.
                   </p>
                 </div>
 
                 <!-- List Checked -->
                 <ul class="list-checked list-checked-soft-bg-primary list-checked-lg mb-5">
                   <li class="list-checked-item text-white-70">
-                  Boost value by reducing time-to-hire exceptional talent.
+                    Boost value by reducing time-to-hire exceptional talent.
                   </li>
                   <li class="list-checked-item text-white-70">
-                  Flexibly add & remove talent based on business need.
+                    Flexibly add & remove talent based on business need.
                   </li>
                   <li class="list-checked-item text-white-70">
-                  Find specialized talent for projects with critical deliverables.
+                    Find specialized talent for projects with critical deliverables.
                   </li>
                   <li class="list-checked-item text-white-70">
-                   Employ talent flexibly to optimize costs.
+                    Employ talent flexibly to optimize costs.
                   </li>
                 </ul>
                 <!-- End List Checked -->
@@ -138,26 +116,26 @@
                 <div class="mb-5">
                   <h2 class="">Build an Agile, High-Performing Workforce</h2>
                   <p class="">
-                  Relentless change is the only constant in today’s business landscape. Business priorities keep 
-                  shifting and so does the need for talent. We empower you to build an agile, high-performing, 
-                  and effective workforce, providing access to a global talent pool. This helps you remain agile, 
-                  driving competitive advantages.
+                    Relentless change is the only constant in today’s business landscape. Business priorities keep
+                    shifting and so does the need for talent. We empower you to build an agile, high-performing,
+                    and effective workforce, providing access to a global talent pool. This helps you remain agile,
+                    driving competitive advantages.
                   </p>
                 </div>
 
                 <!-- List Checked -->
                 <ul class="list-checked list-checked-soft-bg-primary list-checked-lg mb-5">
                   <li class="list-checked-item">
-                  Effectively fill skill gaps at an accelerated pace.
+                    Effectively fill skill gaps at an accelerated pace.
                   </li>
                   <li class="list-checked-item">
-                  Cost-effectively access specialized talent & critical skills. 
+                    Cost-effectively access specialized talent & critical skills.
                   </li>
                   <li class="list-checked-item">
-                  Scale up/down your team based on changing needs.
+                    Scale up/down your team based on changing needs.
                   </li>
                   <li class="list-checked-item">
-                  Flexibly hire the right talent for long- & short-term needs
+                    Flexibly hire the right talent for long- & short-term needs
                   </li>
                 </ul>
                 <!-- End List Checked -->
@@ -181,11 +159,11 @@
             <div class="w-md-75 mb-5">
               <h2>We are Specialists in Contract Staffing.</h2>
               <p>
-              From matching the best-fit for your temporary/ contractual talent needs to handling 
-              administrative and compliance requirements, we offer end-to-end contract staffing solutions. 
-              We help you build contract hiring strategies, manage documentation, and ensure compliance. 
-              You can hit the ground running on your critical projects with reliable, top-notch professionals,
-               forging ahead on your mission.
+                From matching the best-fit for your temporary/ contractual talent needs to handling
+                administrative and compliance requirements, we offer end-to-end contract staffing solutions.
+                We help you build contract hiring strategies, manage documentation, and ensure compliance.
+                You can hit the ground running on your critical projects with reliable, top-notch professionals,
+                forging ahead on your mission.
               </p>
             </div>
 
@@ -204,8 +182,8 @@
                 <div class="flex-grow-1 ms-5">
                   <h5>High Scalability</h5>
                   <p>
-                  Scale up your access to critical skills with our contract staffing solutions.
-                   Add and remove talent flexibly from your staff as per your changing needs.
+                    Scale up your access to critical skills with our contract staffing solutions.
+                    Add and remove talent flexibly from your staff as per your changing needs.
                   </p>
                 </div>
               </div>
@@ -219,8 +197,8 @@
                 <div class="flex-grow-1 ms-5">
                   <h5>Cost-Effectiveness</h5>
                   <p>
-                  Find the best talent within your budgetary constraints. We leverage cutting-edge
-                   technology to remove hiring complexities, manage risks & optimize costs.
+                    Find the best talent within your budgetary constraints. We leverage cutting-edge
+                    technology to remove hiring complexities, manage risks & optimize costs.
                   </p>
                 </div>
               </div>
@@ -234,8 +212,9 @@
                 <div class="flex-grow-1 ms-5">
                   <h5>Uninterrupted Processes</h5>
                   <p>
-                  We custom-build your hiring strategies, hire top-quality talent quickly & maintain a healthy talent pipeline.
-                   Overall, we help you keep critical projects on track.
+                    We custom-build your hiring strategies, hire top-quality talent quickly & maintain a healthy talent
+                    pipeline.
+                    Overall, we help you keep critical projects on track.
                   </p>
                 </div>
               </div>
@@ -251,18 +230,18 @@
 
     <?php include 'Blog.php'; ?>
     <div class="cx-style"
-        style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
-        <div>
-            <h1 style="color: white;">Ready to supercharge your team </br>with critical skills?
-</br>
-              </h1>
-            <p style="color: white;">Leverage our effective contract staffing solutions to flexibly build agile,</br>
-             high-performing teams and experience unprecedented growth.</p>
-            <div class="d-flex justify-content-center gap-3">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now
-</a>
-            </div>
+      style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
+      <div>
+        <h1 style="color: white;">Ready to supercharge your team </br>with critical skills?
+          </br>
+        </h1>
+        <p style="color: white;">Leverage our effective contract staffing solutions to flexibly build agile,</br>
+          high-performing teams and experience unprecedented growth.</p>
+        <div class="d-flex justify-content-center gap-3">
+          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now
+          </a>
         </div>
+      </div>
     </div>
 
   </main>
