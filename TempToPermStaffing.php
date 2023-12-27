@@ -32,15 +32,15 @@
   <!-- ========== MAIN CONTENT ========== -->
   <main id="content" role="main">
     <!-- Hero -->
-    <div class="d-flex bg-img-center" style="background-image: url(assets/img/Contractstaff.jpg)">
+    <div class="d-flex bg-img-center" style="background-image: url(assets/img/banner-busines/temptoperm.webp)">
       <div class="container d-flex justify-content-end flex-column mmin-vh-lg-85 business-banner">
         <div class="row">
           <div class="col-md-6">
-            <div class="">
-              <h1 class="mb-3">Temp to Perm Solutions: Transform Potential into Permanence. Drive Lasting Value </h1>
-              <p class="lead mb-3">
-              Convert excellent temporary staff into permanent hires and augment your team with 
-              critical skills using our effective temp to perm staffing solutions.
+            <div class="temp-perm-banner-text">
+              <h1 class="mb-3 text-white">Transform Potential into Permanence. Drive Lasting Value </h1>
+              <p class="lead mb-3 text-white">
+                Convert excellent temporary staff into permanent hires and augment your team with
+                critical skills using our effective temp to perm staffing solutions.
               </p>
               <div class="d-grid d-sm-flex gap-3 mb-5">
                 <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
@@ -78,7 +78,8 @@
             <div class="col-lg-7 order-lg-2 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75 ms-auto">
-                  <img class="img-fluid rounded-3" src="assets/img/test.jpg" alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/banner-busines/temptoperm1.png"
+                    alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -92,8 +93,10 @@
                   </h2>
                   <p class="text-white-70">
                     Bad hires are detrimental to any business’ morale, engagement,
-                    and productivity. Temp to perm staffing solutions empower businesses to reduce this risk. They enable businesses
-                    to evaluate talent in real world conditions over a time period, extending permanent jobs only to the best fits.
+                    and productivity. Temp to perm staffing solutions empower businesses to reduce this risk. They
+                    enable businesses
+                    to evaluate talent in real world conditions over a time period, extending permanent jobs only to the
+                    best fits.
                   </p>
                 </div>
 
@@ -131,7 +134,8 @@
             <div class="col-lg-7 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75">
-                  <img class="img-fluid rounded-3" src="assets/img/test.jpg" alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/banner-busines/temptoperm2.png"
+                    alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -144,7 +148,8 @@
                     Bad hires cause businesses to lose thousands of dollars in high
                     turnover costs and productivity losses. Our tailored temp to perm staffing
                     solutions enable businesses to hire talent on a contract
-                    basis without expanding their headcount. They can try the talent before employing them on a permanent basis.
+                    basis without expanding their headcount. They can try the talent before employing them on a
+                    permanent basis.
                   </p>
                 </div>
 
@@ -185,7 +190,8 @@
               <p>
                 Powered by cutting-edge technology and seasoned hiring experts,
                 Odyssey Global accelerates the temporary staffing process, reducing the time-to-hire significantly.
-                How? We pre-recruit great talent and maintain a global pool of qualified professionals. Based on your needs,
+                How? We pre-recruit great talent and maintain a global pool of qualified professionals. Based on your
+                needs,
                 we help you to quickly hire the right talent on a contract basis. If you find a great candidate,
                 we aid you to convert them into a permanent employee, thus boosting ROI and value.
               </p>
@@ -237,7 +243,8 @@
                   <h5>Highly Customized</h5>
                   <p>
                     Leverage tailored staffing strategies to build an agile,
-                    high-performing workforce with the right mix of permanent & temporary talent to meet your strategic needs.
+                    high-performing workforce with the right mix of permanent & temporary talent to meet your strategic
+                    needs.
                   </p>
                 </div>
               </div>
@@ -253,16 +260,17 @@
 
     <?php include 'Blog.php'; ?>
     <div class="cx-style"
-        style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
-        <div>
-            <h1 style="color: white;">Want to ‘Try Before Your Hire’ Talent?</br>
-             </h1>
-            <p style="color: white;">Leverage our tailored temp to perm staffing solutions to build an agile,<br/> blended workforce, amplifying your 
-            impact & boosting hiring ROI.</p>
-            <div class="d-flex justify-content-center gap-3">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect with us</a>
-            </div>
+      style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
+      <div>
+        <h1 style="color: white;">Want to ‘Try Before Your Hire’ Talent?</br>
+        </h1>
+        <p style="color: white;">Leverage our tailored temp to perm staffing solutions to build an agile,<br /> blended
+          workforce, amplifying your
+          impact & boosting hiring ROI.</p>
+        <div class="d-flex justify-content-center gap-3">
+          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect with us</a>
         </div>
+      </div>
     </div>
   </main>
   <!-- ========== END MAIN CONTENT ========== -->
@@ -299,7 +307,7 @@
 
   <!-- JS Plugins Init. -->
   <script>
-    (function() {
+    (function () {
       // INITIALIZATION OF NAVBAR
       // =======================================================
       new HSHeader("#header").init();

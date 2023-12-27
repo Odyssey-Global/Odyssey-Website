@@ -32,14 +32,14 @@
   <!-- ========== MAIN CONTENT ========== -->
   <main id="content" role="main">
     <!-- Hero -->
-    <div class="d-flex bg-img-center" style="background-image: url(assets/img/Contractstaff.jpg)">
+    <div class="d-flex bg-img-center" style="background-image: url(assets/img/Industries.webp)">
       <div class="container d-flex justify-content-end flex-column mmin-vh-lg-85 business-banner">
         <div class="row">
           <div class="col-md-6">
             <div class="">
-              <h1 class="mb-3">Tailored Staffing Solutions to Drive Excellence Across Industries
+              <h1 class="mb-3 text-white">Tailored Staffing Solutions to Drive Excellence Across Industries
               </h1>
-              <p class="lead mb-3">
+              <p class="lead mb-3 text-white">
                 At Odyssey Global, we are well-equipped to find great candidates for each and every position across
                 sectors but we specialize in staffing for certain industries.
               </p>
@@ -53,7 +53,7 @@
     </div>
     <!-- End Hero -->
 
-    <!-- <div class="About-page">
+    <div class="About-page">
       <div class="row">
         <div class="col-md-6 offset-md-3">
           <h2>How Does Temp to Perm Staffing Help Your Business?
@@ -69,7 +69,7 @@
           </p>
         </div>
       </div>
-    </div> -->
+    </div>
 
     <!-- Features -->
     <div class="overflow-hidden mb-5">
@@ -79,7 +79,7 @@
             <div class="col-lg-7 order-lg-2 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75 ms-auto">
-                  <img class="img-fluid rounded-3" src="assets/img/test.jpg" alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/industry1.webp" alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -132,7 +132,7 @@
             <div class="col-lg-7 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75">
-                  <img class="img-fluid rounded-3" src="assets/img/test.jpg" alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/industry2.webp" alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -143,7 +143,8 @@
                   <h2 class="">Diversity, Equity, and Inclusion</h2>
                   <p class="">
                     Our commitment to Diversity, Equity & Inclusion (DEI) is unwavering. We strive to build workplaces
-                    that are inclusive, diverse, equitable, safe, and welcoming for all. Our staffing practices and strategies
+                    that are inclusive, diverse, equitable, safe, and welcoming for all. Our staffing practices and
+                    strategies
                     are non-discriminatory. We also advise clients on how to create a
                     work culture that is equitable, inclusive, and diverse where people can be their true selves.</p>
                 </div>
@@ -249,15 +250,16 @@
 
     <?php include 'Blog.php'; ?>
     <div class="cx-style"
-        style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
-        <div>
-            <h1 style="color: white;">Ready to Experience the Power of Strategic Staffing? </h1>
-            <p style="color: white;">Leverage our premier staffing solutions, tailored to meet your unique needs, challenges, <br/>
-            and industry best practices, enabling you to boost your hiring ROI.</p>
-            <div class="d-flex justify-content-center gap-3">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now</a>
-            </div>
+      style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
+      <div>
+        <h1 style="color: white;">Ready to Experience the Power of Strategic Staffing? </h1>
+        <p style="color: white;">Leverage our premier staffing solutions, tailored to meet your unique needs,
+          challenges, <br />
+          and industry best practices, enabling you to boost your hiring ROI.</p>
+        <div class="d-flex justify-content-center gap-3">
+          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now</a>
         </div>
+      </div>
     </div>
   </main>
   <!-- ========== END MAIN CONTENT ========== -->
@@ -294,7 +296,7 @@
 
   <!-- JS Plugins Init. -->
   <script>
-    (function() {
+    (function () {
       // INITIALIZATION OF NAVBAR
       // =======================================================
       new HSHeader("#header").init();
