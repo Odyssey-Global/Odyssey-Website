@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <!-- Required Meta Tags Always Come First -->
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-
-  <!-- Title -->
-  <title>Careers | Unify - Multipurpose Responsive Template</title>
-
-  <!-- Favicon -->
-  <link rel="shortcut icon" href="favicon.ico" />
-
-  <!-- Font -->
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet" />
-
-  <!-- CSS Implementing Plugins -->
-  <link rel="stylesheet" href="assets/css/vendor.min.css" />
-  <link rel="stylesheet" href="assets/css/style.css" />
-
-  <!-- CSS Unify Template -->
-  <link rel="stylesheet" href="assets/css/theme.minc619.css?v=1.0" />
-</head>
-
 <body>
   <!-- ========== HEADER ========== -->
   <?php include 'Header.php'; ?>
@@ -39,8 +14,8 @@
             <div class="left-career-content">
               <h1 class="mb-3">Ready to Fuel Career Growth?</h1>
               <p class="lead mb-3">
-              We are a dynamic, global team of professionals with a passion for nurturing ambitions, 
-              fueling thriving careers and architecting professional growth.
+                We are a dynamic, global team of professionals with a passion for nurturing ambitions,
+                fueling thriving careers and architecting professional growth.
               </p>
               <div class="d-grid d-sm-flex gap-3 mb-5">
                 <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Join Us</a>
@@ -70,10 +45,10 @@
             <h5 class="mb-3">We prioritize our people and embrace excellence in every aspect of our being.
             </h5>
             <p class="mb-3">
-            Odyssey Global is a people-first staffing company. Whether it is our employees or clients, 
-            we value them and want to help them unleash their full potential. We don’t just want our people 
-            to have a job; we want everyone to grow professionally and build thriving careers. Our growth lies
-             in the growth of our people. That’s why we keep empowering them and augmenting their capabilities.
+              Odyssey Global is a people-first staffing company. Whether it is our employees or clients,
+              we value them and want to help them unleash their full potential. We don’t just want our people
+              to have a job; we want everyone to grow professionally and build thriving careers. Our growth lies
+              in the growth of our people. That’s why we keep empowering them and augmenting their capabilities.
             </p>
             <div class="row">
               <div class="col-6 col-md-4 mb-5 mb-md-0">
@@ -85,7 +60,7 @@
               <div class="col-6 col-md-4 mb-5 mb-md-0">
                 <span class="display-6 text-primary">2,000+</span>
                 <p class="">Continuous improvement
-</p>
+                </p>
               </div>
               <!-- End Col -->
 
@@ -127,10 +102,10 @@
       <!-- Heading -->
       <div class="w-lg-65 text-center mx-lg-auto mb-5 mb-sm-7 mb-lg-10">
         <h2>8 reasons to join Us</h2>
-        <p>At Odyssey Global, diversity, inclusion and equity are central aspects of our functioning. 
-          These values help us to nurture a workplace where everyone feels welcome, respected, 
+        <p>At Odyssey Global, diversity, inclusion and equity are central aspects of our functioning.
+          These values help us to nurture a workplace where everyone feels welcome, respected,
           and motivated to work, directly impacting our productivity, impact and success.
-           Here are 8 reasons why you should join Odyssey Global.  </p>
+          Here are 8 reasons why you should join Odyssey Global. </p>
       </div>
       <!-- End Heading -->
 
@@ -158,7 +133,8 @@
             </div>
             <div class="flex-grow-1 ms-5">
               <h5>Rewards and Recognition’s</h5>
-              <p>Everyone is recognized and rewarded for their hard work & contributions. This helps keep our team motivated.</p>
+              <p>Everyone is recognized and rewarded for their hard work & contributions. This helps keep our team
+                motivated.</p>
             </div>
           </div>
           <!-- End Icon Block -->
@@ -173,7 +149,7 @@
             </div>
             <div class="flex-grow-1 ms-5">
               <h5>Comprehensive Medical Insurance</h5>
-              <p>We care about our people and their families. Our holistic medical insurance helps 
+              <p>We care about our people and their families. Our holistic medical insurance helps
                 ensure their health and well-being.</p>
             </div>
           </div>
@@ -220,7 +196,7 @@
             <div class="flex-grow-1 ms-5">
               <h5>Inclusive & Respectful Workplace</h5>
               <p>We treat everyone with respect and strive to keep our workplace safe, non-discriminatory, equitable,
-                 and inclusive for all.</p>
+                and inclusive for all.</p>
             </div>
           </div>
           <!-- End Icon Block -->
@@ -233,8 +209,8 @@
             </div>
             <div class="flex-grow-1 ms-5">
               <h5>Impactful Work
-</h5>
-              <p> Our employees are part of impactful projects that make a difference and do work which 
+              </h5>
+              <p> Our employees are part of impactful projects that make a difference and do work which
                 challenges and inspires them every day.</p>
             </div>
           </div>
@@ -248,7 +224,7 @@
             </div>
             <div class="flex-grow-1 ms-5">
               <h5>Festival Celebrations</h5>
-              <p> To upkeep our commitment to diversity and inclusion, we celebrate various 
+              <p> To upkeep our commitment to diversity and inclusion, we celebrate various
                 festivals in the office to honor different cultures and traditions.</p>
             </div>
           </div>
@@ -256,7 +232,7 @@
         </div>
         <!-- End Col -->
 
-      
+
         <!-- End Col -->
       </div>
       <!-- End Row -->
@@ -269,9 +245,9 @@
           <div>
             <h1 style="color: white;">Join our talent community
             </h1>
-            <p style="color: white;">Be part of a global community of professionals with varying expertise, experience, 
-            and skills. You will have an international network, learning diverse
-             perspectives and unlock unmatched growth opportunities.</p>
+            <p style="color: white;">Be part of a global community of professionals with varying expertise, experience,
+              and skills. You will have an international network, learning diverse
+              perspectives and unlock unmatched growth opportunities.</p>
             <div class="d-flex justify-content-center gap-3">
               <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Apply Now</a>
             </div>
