@@ -32,7 +32,7 @@
   <!-- ========== MAIN CONTENT ========== -->
   <main id="content" role="main">
     <!-- Hero -->
-    <div class="d-flex bg-img-center" style="background-image: url(assets/img/Contractstaff.jpg)">
+    <div class="d-flex bg-img-center" style="background-image: url(assets/img/ITConsulting.webp)">
       <div class="container d-flex justify-content-end flex-column mmin-vh-lg-85 business-banner">
         <div class="row">
           <div class="col-md-6">
@@ -76,7 +76,7 @@
             <div class="col-lg-7 order-lg-2 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75 ms-auto">
-                  <img class="img-fluid rounded-3" src="assets/img/test.jpg" alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/Itc1.webp" alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -133,7 +133,7 @@
             <div class="col-lg-7 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75">
-                  <img class="img-fluid rounded-3" src="assets/img/test.jpg" alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/Itc2.webp" alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -253,15 +253,16 @@
 
     <?php include 'Blog.php'; ?>
     <div class="cx-style"
-        style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
-        <div>
-            <h1 style="color: white;">Want to Experience the Power </br>of World-Class IT Solutions?
-               </h1>
-            <p style="color: white;">Leverage our tailored, end-to-end & secure IT solutions to change your challenges into growth opportunities.</p>
-            <div class="d-flex justify-content-center gap-3">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now</a>
-            </div>
+      style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
+      <div>
+        <h1 style="color: white;">Want to Experience the Power </br>of World-Class IT Solutions?
+        </h1>
+        <p style="color: white;">Leverage our tailored, end-to-end & secure IT solutions to change your challenges into
+          growth opportunities.</p>
+        <div class="d-flex justify-content-center gap-3">
+          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now</a>
         </div>
+      </div>
     </div>
   </main>
   <!-- ========== END MAIN CONTENT ========== -->
@@ -298,7 +299,7 @@
 
   <!-- JS Plugins Init. -->
   <script>
-    (function() {
+    (function () {
       // INITIALIZATION OF NAVBAR
       // =======================================================
       new HSHeader("#header").init();

@@ -32,12 +32,12 @@
   <!-- ========== MAIN CONTENT ========== -->
   <main id="content" role="main">
     <!-- Hero -->
-    <div class="d-flex bg-img-center" style="background-image: url(assets/img/Contractstaff.jpg)">
+    <div class="d-flex bg-img-center" style="background-image: url(assets/img/directhiring.webp)">
       <div class="container d-flex justify-content-end flex-column mmin-vh-lg-85 business-banner">
         <div class="row">
           <div class="col-md-6">
             <div class="">
-              <h1 class="mb-3">Dire Hire Solutions: Strategic, Stress-Free Hiring. Permanent Impact   </h1>
+              <h1 class="mb-3">Strategic, Stress-Free Hiring. Permanent Impact </h1>
               <p class="lead mb-3">
                 Access a global talent pool to hire exceptional talent for your permanent roles.
                 But without guesswork & stress with our strategic direct hiring solutions.
@@ -77,7 +77,7 @@
             <div class="col-lg-7 order-lg-2 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75 ms-auto">
-                  <img class="img-fluid rounded-3" src="assets/img/test.jpg" alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/HD1.webp" alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -90,8 +90,10 @@
                     Take Guesswork out of Direct Hiring
                   </h2>
                   <p class="text-white-70">
-                    Hiring is an art and a science, and Odyssey Global excels in it. It doesn’t matter if clients need a C-suite leader
-                    or an entry-level worker, we use cutting-edge technology to help you find, recruit, and onboard exceptional, right-fit candidates.
+                    Hiring is an art and a science, and Odyssey Global excels in it. It doesn’t matter if clients need a
+                    C-suite leader
+                    or an entry-level worker, we use cutting-edge technology to help you find, recruit, and onboard
+                    exceptional, right-fit candidates.
                     Wave goodbye to guesswork in staffing, drive unparalleled business value. </p>
                 </div>
 
@@ -129,7 +131,7 @@
             <div class="col-lg-7 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75">
-                  <img class="img-fluid rounded-3" src="assets/img/test.jpg" alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/DH2.webp" alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -182,7 +184,8 @@
               <p>
                 Powered by industry-leading technology and seasoned hiring experts, Odyssey Global is a
                 trusted staffing partner for several businesses across Canada and beyond. We apply multidimensional
-                approaches, fresh perspectives, and the latest talent best practices to help you augment your workforce with
+                approaches, fresh perspectives, and the latest talent best practices to help you augment your workforce
+                with
                 the right skills and talent. Our hiring experts work as an extension of your business,
                 developing tailored strategies to help you find the best talent for permanent positions. </p>
             </div>
@@ -248,17 +251,17 @@
 
     <?php include 'Blog.php'; ?>
     <div class="cx-style"
-        style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
-        <div>
-            <h1 style="color: white;">Ready to Redefine Success </br>& Unlock Your Potential?
-              </h1>
-            <p style="color: white;">Leverage our tailored strategic staffing solutions to build an agile,<br/>
-             high-performing workforce at an accelerated pace without compromising on the quality & cost of hires.  </p>
-            <div class="d-flex justify-content-center gap-3">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now
-</a>
-            </div>
+      style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
+      <div>
+        <h1 style="color: white;">Ready to Redefine Success </br>& Unlock Your Potential?
+        </h1>
+        <p style="color: white;">Leverage our tailored strategic staffing solutions to build an agile,<br />
+          high-performing workforce at an accelerated pace without compromising on the quality & cost of hires. </p>
+        <div class="d-flex justify-content-center gap-3">
+          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now
+          </a>
         </div>
+      </div>
     </div>
   </main>
   <!-- ========== END MAIN CONTENT ========== -->
@@ -295,7 +298,7 @@
 
   <!-- JS Plugins Init. -->
   <script>
-    (function() {
+    (function () {
       // INITIALIZATION OF NAVBAR
       // =======================================================
       new HSHeader("#header").init();

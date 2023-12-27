@@ -32,14 +32,15 @@
   <!-- ========== MAIN CONTENT ========== -->
   <main id="content" role="main">
     <!-- Hero -->
-    <div class="d-flex bg-img-center" style="background-image: url(assets/img/Contractstaff.jpg)">
+    <div class="d-flex bg-img-center" style="background-image: url(assets/img/payrolling.webp)">
       <div class="container d-flex justify-content-end flex-column mmin-vh-lg-85 business-banner">
         <div class="row">
           <div class="col-md-6">
             <div class="">
               <h1 class="mb-3">Efficient Contractor Payrolling Solutions That Drive Strategic Advantages</h1>
               <p class="lead mb-3">
-                Wave goodbye to complexity, risks, and poor compliance in contractor payrolling with our end-to-end solutions.
+                Wave goodbye to complexity, risks, and poor compliance in contractor payrolling with our end-to-end
+                solutions.
               </p>
               <div class="d-grid d-sm-flex gap-3 mb-5">
                 <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
@@ -59,9 +60,11 @@
           <p>
             The use of alternate workforce in the form of contractors, temp workers, consultants, etc.
             are on the rise. And it brings with it several challenges and risks for businesses since contractor
-            payrolling is not the same as traditional payrolling for full-time employees. By outsourcing contractor payrolling to
+            payrolling is not the same as traditional payrolling for full-time employees. By outsourcing contractor
+            payrolling to
             experts like Odyssey Global,
-            businesses can effectively manage contractor payrolls, ensure statutory compliance, minimize risks, and save costs.
+            businesses can effectively manage contractor payrolls, ensure statutory compliance, minimize risks, and save
+            costs.
           </p>
         </div>
       </div>
@@ -75,7 +78,7 @@
             <div class="col-lg-7 order-lg-2 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75 ms-auto">
-                  <img class="img-fluid rounded-3" src="assets/img/test.jpg" alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/Payrolling1.webp" alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -129,7 +132,7 @@
             <div class="col-lg-7 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75">
-                  <img class="img-fluid rounded-3" src="assets/img/test.jpg" alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/Payrolling2.webp" alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -140,8 +143,10 @@
                   <h2 class="">Streamlined Processes, Effective Cost Savings</h2>
                   <p class="">
                     The seasoned experts at Odyssey Global enable you to standardize and
-                    streamline the payrolling of contractors, minimizing risks and costs. We offer end-to-end, tailored solutions that
-                    leverage technology to help you ensure timely payments to contractors. You can better engage your contractors. </p>
+                    streamline the payrolling of contractors, minimizing risks and costs. We offer end-to-end, tailored
+                    solutions that
+                    leverage technology to help you ensure timely payments to contractors. You can better engage your
+                    contractors. </p>
                 </div>
 
                 <!-- List Checked -->
@@ -233,7 +238,8 @@
                 <div class="flex-grow-1 ms-5">
                   <h5>Stay Responsive</h5>
                   <p>
-                    We enable clients to stay on top of the ever-changing contractor payrolling regulations and compliances,
+                    We enable clients to stay on top of the ever-changing contractor payrolling regulations and
+                    compliances,
                     reducing risks of non-compliance.</p>
                 </div>
               </div>
@@ -249,16 +255,17 @@
 
     <?php include 'Blog.php'; ?>
     <div class="cx-style"
-        style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
-        <div>
-            <h1 style="color: white;">Ready to Experience the Power </br>of Effective Contractor Payrolling? 
-                </h1>
-            <p style="color: white;">Leverage our tailored, end-to-end contractor payrolling services to optimize costs,</br> minimize risks, and boost contractor experiences</p>
-            <div class="d-flex justify-content-center gap-3">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now
-</a>
-            </div>
+      style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
+      <div>
+        <h1 style="color: white;">Ready to Experience the Power </br>of Effective Contractor Payrolling?
+        </h1>
+        <p style="color: white;">Leverage our tailored, end-to-end contractor payrolling services to optimize
+          costs,</br> minimize risks, and boost contractor experiences</p>
+        <div class="d-flex justify-content-center gap-3">
+          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now
+          </a>
         </div>
+      </div>
     </div>
   </main>
   <!-- ========== END MAIN CONTENT ========== -->
@@ -295,7 +302,7 @@
 
   <!-- JS Plugins Init. -->
   <script>
-    (function() {
+    (function () {
       // INITIALIZATION OF NAVBAR
       // =======================================================
       new HSHeader("#header").init();
