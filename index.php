@@ -23,6 +23,8 @@
 
   <!-- CSS Unify Template -->
   <link rel="stylesheet" href="assets/css/theme.minc619.css?v=1.0" />
+
+
 </head>
 
 <body>
@@ -506,6 +508,7 @@
   </a>
   <!-- ========== END SECONDARY CONTENTS ========== -->
 
+
   <!-- JS Implementing Plugins -->
   <script src="assets/js/vendor.min.js"></script>
 
@@ -515,21 +518,11 @@
   <!-- JS Plugins Init. -->
   <script>
     (function () {
-      // INITIALIZATION OF NAVBAR
-      // =======================================================
-      new HSHeader("#header").init();
 
-      // INITIALIZATION OF MEGA MENU
-      // =======================================================
-      const megaMenu = new HSMegaMenu(".js-mega-menu", {
-        desktop: {
-          position: "left",
-        },
-      });
 
       // INITIALIZATION OF GO TO
       // =======================================================
-      new HSGoTo(".js-go-to");
+
 
       // INITIALIZATION OF SWIPER
       // =======================================================
