@@ -19405,7 +19405,7 @@ input[type="number"] {
   .navbar-absolute-sm-top .navbar-absolute-top-scroller,
   .navbar-absolute-top .navbar-absolute-top-scroller {
     max-height: 75vh;
-    background-color: #fff;
+    background-color: #031f4a;
     overflow: hidden;
     overflow-y: auto;
   }

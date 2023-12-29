@@ -17,7 +17,7 @@
                 Execute critical projects, access niche skill sets, and redefine business growth with
                 our tailored, top-notch contract staffing solutions.
               </p>
-              <div class="d-grid d-sm-flex gap-3 mb-5">
+              <div class="d-sm-flex gap-3 mb-5">
                 <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
               </div>
             </div>
@@ -253,7 +253,7 @@
 
   <!-- ========== SECONDARY CONTENTS ========== -->
   <!-- Go To -->
-  <a class="js-go-to go-to position-fixed" href="javascript:;" style="visibility: hidden" data-hs-go-to-options='{
+  <!-- <a class="js-go-to go-to position-fixed" href="javascript:;" style="visibility: hidden" data-hs-go-to-options='{
        "offsetTop": 700,
        "position": {
          "init": {
@@ -268,7 +268,7 @@
        }
      }'>
     <i class="bi-chevron-up"></i>
-  </a>
+  </a> -->
   <!-- ========== END SECONDARY CONTENTS ========== -->
 
   <!-- JS Implementing Plugins -->
@@ -286,11 +286,7 @@
 
       // INITIALIZATION OF MEGA MENU
       // =======================================================
-      const megaMenu = new HSMegaMenu(".js-mega-menu", {
-        desktop: {
-          position: "left",
-        },
-      });
+
 
       // INITIALIZATION OF GO TO
       // =======================================================

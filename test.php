@@ -19,7 +19,6 @@
 
   <!-- CSS Implementing Plugins -->
   <link rel="stylesheet" href="assets/css/vendor.min.css">
-  <link rel="stylesheet" href="assets/css/style.css" />
 
   <!-- CSS Unify Template -->
   <link rel="stylesheet" href="assets/css/theme.minc619.css?v=1.0">
@@ -56,7 +55,7 @@
 
         <!-- Collapse -->
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
-          <div class="navbar-absolute-top-scroller mobile-menu-bg">
+          <div class="navbar-absolute-top-scroller">
             <ul class="navbar-nav nav-pills">
               <!-- Landings -->
               <li class="hs-has-mega-menu nav-item" data-hs-mega-menu-item-options='{
@@ -239,9 +238,30 @@
       // =======================================================
       new HSGoTo('.js-go-to')
 
+
+      // INITIALIZATION OF SWIPER
+      // =======================================================
+      var swiper = new Swiper('.js-swiper-clients', {
+        slidesPerView: 2,
+        breakpoints: {
+          380: {
+            slidesPerView: 3,
+            spaceBetween: 15,
+          },
+          768: {
+            slidesPerView: 4,
+            spaceBetween: 15,
+          },
+          1024: {
+            slidesPerView: 5,
+            spaceBetween: 15,
+          },
+        },
+      });
     })()
   </script>
 </body>
 
+<!-- Mirrored from htmlstream.com/unify/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 Nov 2023 11:20:01 GMT -->
 
 </html>

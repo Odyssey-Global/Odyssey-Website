@@ -17,7 +17,7 @@
                 The seasoned IT experts at Odyssey Global extend tailored IT consulting services to
                 digitally enable clients, fueling strategic advantages.
               </p>
-              <div class="d-grid d-sm-flex gap-3 mb-5">
+              <div class="d-sm-flex gap-3 mb-5">
                 <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
               </div>
             </div>
@@ -248,22 +248,7 @@
 
   <!-- ========== SECONDARY CONTENTS ========== -->
   <!-- Go To -->
-  <a class="js-go-to go-to position-fixed" href="javascript:;" style="visibility: hidden" data-hs-go-to-options='{
-       "offsetTop": 700,
-       "position": {
-         "init": {
-           "right": "2rem"
-         },
-         "show": {
-           "bottom": "2rem"
-         },
-         "hide": {
-           "bottom": "-2rem"
-         }
-       }
-     }'>
-    <i class="bi-chevron-up"></i>
-  </a>
+
   <!-- ========== END SECONDARY CONTENTS ========== -->
 
   <!-- JS Implementing Plugins -->
@@ -279,13 +264,6 @@
       // =======================================================
       new HSHeader("#header").init();
 
-      // INITIALIZATION OF MEGA MENU
-      // =======================================================
-      const megaMenu = new HSMegaMenu(".js-mega-menu", {
-        desktop: {
-          position: "left",
-        },
-      });
 
       // INITIALIZATION OF GO TO
       // =======================================================
