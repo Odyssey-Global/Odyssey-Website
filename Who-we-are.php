@@ -9,9 +9,10 @@
     <!-- Hero -->
     <div class="container content-space-t-3 content-space-t-lg-4">
       <div class="w-lg-65 text-center mx-lg-auto mb-5 mb-sm-7 mb-lg-10">
-        <h2 class="display-5">We are odyssey global</h2>
-        <p class="lead">We are on a mission to smartly transform Corporate
-          HR, Hiring and Staffing Businesses.</p>
+        <h2 class="display-5">We are a premier staffing agency in Canada.
+        </h2>
+        <p class="lead">Odyssey Global empowers businesses to drive lasting value and unlock growth opportunities by
+          helping them build exceptional, high-performing teams.</p>
       </div>
 
       <div class="position-relative bg-img-center min-vh-35 min-vh-md-75"
