@@ -200,3 +200,17 @@
 .about-sec2-text {
   padding-top: 4rem;
 }
+
+.mt-24 {
+  margin-top: 24px !important;
+}
+
+.locatiion-flat {
+  margin-bottom: 24px;
+  height: 42px !important;
+  width: auto;
+}
+
+.p-30 {
+  padding: 0px 30px !important;
+}

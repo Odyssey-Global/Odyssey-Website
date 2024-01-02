@@ -65,14 +65,14 @@
           <div class="row">
             <div class="col-md-6 mb-5 mb-md-0">
               <div class="position-relative bg-img-center min-vh-35 min-vh-md-75"
-                style="background-image: url(assets/img/1920x1080/img11.jpg);">
+                style="background-image: url(assets/img/1920x1080/img11.jpg); height: 100%;">
               </div>
             </div>
             <!-- End Col -->
 
             <div class="col-md-6 col-lg-5 our-value-text-sec">
-              <h3 class="mb-6">Our Values</h3>
-              <div class="d-grid gap-5">
+              <h3 class="mb-6 p-30">Our Values</h3>
+              <div class="d-grid gap-5 p-30">
                 <!-- Media -->
                 <div class="d-flex">
                   <div class="flex-shrink-0">
