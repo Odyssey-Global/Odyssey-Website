@@ -117,7 +117,7 @@
 }
 
 .Career-banner {
-  padding: 10rem 0rem 6rem !important;
+  padding: 9rem 1rem 4rem !important;
 }
 
 .left-career-content {
@@ -184,4 +184,19 @@
 
 .our-value-section {
   padding: 4rem 0rem 4rem 0rem !important;
+}
+
+.job-search-bnr {
+  padding-top: 12.5rem !important;
+  padding-bottom: 6.5rem !important;
+}
+
+.join-sec-about {
+  border-left: 4px solid #ffa500;
+  padding-left: 10px;
+  font-weight: 600;
+}
+
+.about-sec2-text {
+  padding-top: 4rem;
 }

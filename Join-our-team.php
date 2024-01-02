@@ -1,3 +1,7 @@
+<style>
+  <?php include "assets/css/style.css" ?>
+</style>
+
 <body>
   <!-- ========== HEADER ========== -->
   <?php include 'Header.php'; ?>
@@ -37,7 +41,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="">
-              <img class="img-fluid rounded-3" src="assets/img/about1.png" alt="Image Description" />
+              <img class="img-fluid rounded-3" src="assets/img/offculture.webp" alt="Image Description" />
             </div>
           </div>
           <div class="col-md-6">
@@ -52,21 +56,21 @@
             </p>
             <div class="row">
               <div class="col-6 col-md-4 mb-5 mb-md-0">
-                <span class="display-6 text-primary">99.95%</span>
-                <p class="">Diversity, Inclusion & Equity</p>
+                <!-- <span class="display-6 text-primary">99.95%</span> -->
+                <p class="join-sec-about">Diversity, Inclusion & Equity</p>
               </div>
               <!-- End Col -->
 
               <div class="col-6 col-md-4 mb-5 mb-md-0">
-                <span class="display-6 text-primary">2,000+</span>
-                <p class="">Continuous improvement
+                <!-- <span class="display-6 text-primary">2,000+</span> -->
+                <p class="join-sec-about">Continuous improvement
                 </p>
               </div>
               <!-- End Col -->
 
               <div class="col-6 col-md-4">
-                <span class="display-6 text-primary">85%</span>
-                <p class=""> Mutual trust, respect & collaboration</p>
+                <!-- <span class="display-6 text-primary">85%</span> -->
+                <p class="join-sec-about"> Mutual trust, respect & collaboration</p>
               </div>
               <!-- End Col -->
             </div>

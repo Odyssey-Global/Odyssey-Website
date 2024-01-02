@@ -53,7 +53,7 @@
               </p>
             </div>
 
-            <div class="d-grid d-sm-flex gap-3 mb-5">
+            <div class="d-sm-flex gap-3 mb-5">
               <a class="btn btn-ghost-dark btn-pointer hero-btn" href="#">Find the right job today</a>
             </div>
           </div>

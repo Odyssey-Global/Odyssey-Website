@@ -1,3 +1,7 @@
+<style>
+  <?php include "assets/css/style.css" ?>
+</style>
+
 <body>
   <!-- ========== HEADER ========== -->
   <?php include 'Header.php'; ?>
@@ -8,7 +12,7 @@
   <main id="content" role="main">
     <!-- Hero -->
     <div class="d-flex bg-img-center" style="background-image: url(assets/img/job-search-bnr.webp);">
-      <div class="container d-flex justify-content-end flex-column min-vh-lg-75 content-space-1 content-space-lg-b-3">
+      <div class="container d-flex justify-content-end flex-column job-search-bnr">
         <div class="w-lg-65">
           <span class="d-block text-white mb-3">We're hiring for <span class="fw-bold">72 positions</span> <a
               class="badge bg-dark text-white rounded-pill ms-1" href="#openingsSection">View opening</a></span>
