@@ -1,3 +1,8 @@
+<style>
+  <?php include "assets/css/style.css" ?>
+</style>
+
+
 <body>
   <!-- ========== HEADER ========== -->
   <?php include 'Header.php'; ?>
@@ -25,15 +30,15 @@
     <div class="container content-space-2 content-space-lg-3">
       <div class="row justify-content-lg-between">
         <div class="col-md-6 mb-5 mb-md-0">
-          <h2>Work environment</h2>
-          <p>Only by seeking out diverse talent around the globe and by creating an inclusive workplace can we access
-            the breadth of skills, abilities and creativity that we need to create exceptional and innovative products
-            and services for our customers.</p>
-          <p>We strongly believe that an inclusive working environment enables everyone to realise their full potential
-            and to deliver outstanding service to our customers. We continually strive to use all the experiences that
-            our employees bring with them to influence and shape our decision making process.</p>
-          <p>We are an equal opportunities employer and we aim to recruit, train and promote based on individual
-            aptitudes and skills.</p>
+          <h2>More than an Ordinary Staffing Company</h2>
+          <h5>Enabling businesses to source exceptional talent from across the world.</h5>
+          <p>Headquartered in Toronto, Canada, Odyssey Global was established to empower businesses to reach their goals
+            by building teams that drive tangible business results. What sets us apart from the rest is that we simply
+            don’t stop with matching talent to organizations. We go above and beyond to ensure that every client is
+            equipped to unleash their full potential.</p>
+          <p>Our team combines their seasoned expertise with leading- edge technology to create custom strategies and
+            cost-effective solutions for each client. We work as an extension of the client’s team and help them find
+            and onboard talent aligning well with their vision, values, and purpose.</p>
         </div>
         <!-- End Col -->
 
@@ -46,9 +51,11 @@
               </div>
 
               <div class="flex-grow-1 ms-4">
-                <h5>High quality Co-Living spaces</h5>
-                <p>Our fully furnished spaces are designed and purpose-built with Co-Living in mind, featuring high-end
-                  finishes and amenities that go far beyond traditional apartment buildings.</p>
+                <h5>Nurturing Trusting Relationships</h5>
+                <p>At Odyssey Global, we aren’t interested in offering clinical services to clients. We are
+                  hyper-focused on building and nurturing long-term, trusting relationships with each of our clients.
+                  Only then can we understand pain points and help develop solutions that work & yield tangible results.
+                </p>
               </div>
             </div>
             <!-- End Media -->
@@ -60,9 +67,10 @@
               </div>
 
               <div class="flex-grow-1 ms-4">
-                <h5>Fostering vibrant communities</h5>
-                <p>Our passion is bringing people together. Beyond creating beautiful spaces, we provide shared
-                  experiences.</p>
+                <h5>Agile and Responsive to Change</h5>
+                <p>The business environment, HR landscape and labor market are transforming at an accelerated pace. We
+                  keep ourselves abreast of the changes and quickly adapt to such changes. This agility and adaptability
+                  helps our clients stay ahead of the curve.</p>
               </div>
             </div>
             <!-- End Media -->
@@ -74,9 +82,10 @@
               </div>
 
               <div class="flex-grow-1 ms-4">
-                <h5>Simple and all-inclusive</h5>
-                <p>We worry about the details so that our residents don't have to. From our online application process
-                  to simple, all-inclusive billing we aim to make the living experience as effortless as possible.</p>
+                <h5>Benefits for Startups & SMBs</h5>
+                <p>Our tailored staffing solutions work wonders for all kinds of organizations. SMBs & startups, in
+                  particular, do not need full-time in-house HR teams/ recruiters, saving on time and costs of hiring.
+                  They can flexibly hire specialists and employees without having to commit to permanent hires.</p>
               </div>
             </div>
             <!-- End Media -->
@@ -142,41 +151,19 @@
         <div class="row">
           <div class="col-md-6">
             <div class="">
-              <img class="img-fluid rounded-3" src="assets/img/about1.png" alt="Image Description" />
+              <img class="img-fluid rounded-3" src="assets/img/about1.webp" alt="Image Description" />
             </div>
           </div>
-          <div class="col-md-6">
-            <h2 class="text-drblue mb-3">Welcome to Odyssey Global life</h2>
-            <h5 class="mb-3">When it comes to our employees, only the best will do.
+          <div class="col-md-6 about-sec2-text">
+            <h2 class="text-drblue mb-3">Life at Odyssey Global</h2>
+            <h5 class="mb-3">A people-first organization where we leave no one behind.
             </h5>
             <p class="mb-3">
-              Every company or organization will be having its own employees. In
-              most cases, companies recruit permanent workers. The businesses
-              arrange training for their workforce and hope that employees will
-              provide excellent productivity in return. In addition to the
-              regular workforce, a business may need specialists to deal with
-              certain projects. Techgene helps you to find those skilled and
-              specialized employees for your short-term projects.
+              Being a people-first organization, Odyssey Global is deeply committed to offering an inclusive, equitable
+              and safe environment for all our employees. We make sure everyone stays ahead of the curve, growing and
+              thriving in their careers. We keep ourselves abreast of the latest developments in the labor market,
+              industry, and regulatory standards, upskilling our people to grow professionally.
             </p>
-            <div class="row">
-              <div class="col-6 col-md-4 mb-5 mb-md-0">
-                <span class="display-6 text-primary">99.95%</span>
-                <p class="">in fulfilling orders</p>
-              </div>
-              <!-- End Col -->
-
-              <div class="col-6 col-md-4 mb-5 mb-md-0">
-                <span class="display-6 text-primary">2,000+</span>
-                <p class="">partner with Unify</p>
-              </div>
-              <!-- End Col -->
-
-              <div class="col-6 col-md-4">
-                <span class="display-6 text-primary">85%</span>
-                <p class="">this year alone</p>
-              </div>
-              <!-- End Col -->
-            </div>
           </div>
         </div>
         <div>
@@ -192,12 +179,12 @@
       <div class="row">
         <div class="col-md-6 offset-md-3">
           <div>
-            <h1 style="color: white;">Join our talent community
+            <h1 style="color: white;">Experience unparalleled career growth. Join our Talent Community!
             </h1>
-            <p style="color: white;">Whether you like working with clients, customers, or in a business
-              support role, we have a position you'll rock.</p>
+            <p style="color: white;">Whether you want to work with our clients, us or in a business support role, we
+              have a perfectly suited position for you.</p>
             <div class="d-flex justify-content-center gap-3">
-              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Join Our</a>
+              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us">Join Our</a>
             </div>
           </div>
         </div>

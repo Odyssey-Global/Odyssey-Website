@@ -386,12 +386,7 @@
 
 
       // INITIALIZATION OF MEGA MENU
-      // =======================================================
-      const megaMenu = new HSMegaMenu('.js-mega-menu', {
-        desktop: {
-          position: 'left'
-        }
-      })
+      // =======================================================  
 
 
       // INITIALIZATION OF GO TO
