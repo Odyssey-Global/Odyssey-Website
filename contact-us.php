@@ -12,18 +12,19 @@
         <div class="row justify-content-lg-between align-items-lg-center">
           <div class="col-lg-5 mb-7 mb-lg-0">
             <div class="mb-6">
-              <h1>Find Top Talents</h1>
-              <p class="lead">We help brands and platforms turn big ideas into beautiful digital products and
-                experiences.</p>
+              <h1>Find Top Talent!</h1>
+              <p class="lead">Your search ends here! Odyssey Global is your strategic staffing partner offering agile, flexible, scalable and cost-effective solutions.</p>
             </div>
 
-            <h5>What can I expect?</h5>
+            <h5>What to expect?</h5>
 
             <!-- List -->
             <ul class="list-checked list-checked-dark mb-6">
-              <li class="list-checked-item">Industry-leading design</li>
-              <li class="list-checked-item">Developer community support</li>
-              <li class="list-checked-item">Simple and affordable</li>
+              <li class="list-checked-item"> Accelerated time-to-hire</li>
+              <li class="list-checked-item">  Lower cost-to-hire
+</li>
+              <li class="list-checked-item">High-quality hires 
+</li>
             </ul>
             <!-- End List -->
 

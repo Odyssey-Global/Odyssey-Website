@@ -33,7 +33,7 @@
                   <!-- End Media -->
 
                   <div class="mb-5">
-                    <h2 class="h1 text-white">Odyssey Corporate - let's work together</h2>
+                    <h2 class="h1 text-white">5 Key Trends Shaping the Future of Work in Canada</h2>
                   </div>
 
                   <a class="btn btn-light btn-pointer" href="Blogs-articles.php">Read article</a>
@@ -60,16 +60,16 @@
                     </div>
 
                     <div class="flex-grow-1 ms-3">
-                      <a class="text-white" href="Blogs-articles.php">Louise Donadieu</a>
+                      <a class="text-white" href="Blogs-articles1.php">Louise Donadieu</a>
                     </div>
                   </div>
                   <!-- End Media -->
 
                   <div class="mb-5">
-                    <h2 class="h1 text-white">How Google Assistant now helps you record stories</h2>
+                    <h2 class="h1 text-white">Agile Recruitment: Revolutionizing Talent Acquisition in the Dynamic Job Market & Driving Greater Efficiency and Growth</h2>
                   </div>
 
-                  <a class="btn btn-light btn-pointer" href="Blogs-articles.php">Read article</a>
+                  <a class="btn btn-light btn-pointer" href="Blogs-articles1.php">Read article</a>
                 </div>
                 <!-- End Col -->
               </div>
@@ -92,16 +92,16 @@
                       </div>
                     </div>
                     <div class="flex-grow-1 ms-3">
-                      <a class="text-white" href="Blogs-articles.php">Jeff Fisher</a>
+                      <a class="text-white" href="Blogs-articles2.php">Jeff Fisher</a>
                     </div>
                   </div>
                   <!-- End Media -->
 
                   <div class="mb-5">
-                    <h2 class="h1 text-white">Odyssey Interview with a Lead Designer of the Hubble</h2>
+                    <h2 class="h1 text-white">Crafting Your Career Story: A Guide to Writing a Compelling Resume</h2>
                   </div>
 
-                  <a class="btn btn-light btn-pointer" href="Blogs-articles.php">Read article</a>
+                  <a class="btn btn-light btn-pointer" href="Blogs-articles2.php">Read article</a>
                 </div>
                 <!-- End Col -->
               </div>
@@ -125,19 +125,19 @@
             <div class="swiper-wrapper">
               <!-- Slide -->
               <div class="swiper-slide">
-                <span class="swiper-step-pagination-title">Odyssey Corporate - let's work together</span>
+                <span class="swiper-step-pagination-title">5 Key Trends Shaping the Future of Work in Canada</span>
               </div>
               <!-- End Slide -->
 
               <!-- Slide -->
               <div class="swiper-slide">
-                <span class="swiper-step-pagination-title">How Google Assistant now helps you record stories</span>
+                <span class="swiper-step-pagination-title">Agile Recruitment: Revolutionizing Talent Acquisition in the Dynamic Job Market & Driving Greater Efficiency and Growth</span>
               </div>
               <!-- End Slide -->
 
               <!-- Slide -->
               <div class="swiper-slide">
-                <span class="swiper-step-pagination-title">Odyssey Interview with a Lead Designer of the Hubble</span>
+                <span class="swiper-step-pagination-title">Crafting Your Career Story: A Guide to Writing a Compelling Resume</span>
               </div>
               <!-- End Slide -->
             </div>

@@ -27,8 +27,7 @@
           <div class="">
             <div class="DNA-cards purpose-card">
               <h4>Our Purpose</h4>
-              <p>Leading the world's most respected organizations to create and grow emotionally connected, valuable,
-                lasting relationships.</p>
+              <p>We are dedicated to equipping clients with unparalleled staffing solutions and providing access to top-tier talent aligned with their organizational needs. We exceed client expectations continuously by investing in the growth of our own people.</p>
             </div>
           </div>
         </div>
@@ -37,8 +36,7 @@
           <div class="">
             <div class="DNA-cards mission-card">
               <h4>Our Mission</h4>
-              <p>Leading the world's most respected organizations to create and grow emotionally connected, valuable,
-                lasting relationships.</p>
+              <p>We envision a future where individuals flourish in their careers, and organizations thrive through strategic talent acquisition, creating dynamic, inclusive, innovative, and high-performing teams that fuel boundless growth.</p>
             </div>
           </div>
         </div>
@@ -47,8 +45,7 @@
           <div class="">
             <div class="DNA-cards vision-card">
               <h4>Our Vision</h4>
-              <p>Leading the world's most respected organizations to create and grow emotionally connected, valuable,
-                lasting relationships.</p>
+              <p>We are on a mission to seamlessly bridge the gap between forward-thinking organizations and exceptional talent, catalyzing growth, progress, and prosperity for not just the stakeholders but society as a whole.</p>
             </div>
           </div>
         </div>
@@ -80,9 +77,8 @@
                   </div>
 
                   <div class="flex-grow-1 ms-4">
-                    <h5>High quality Co-Living spaces</h5>
-                    <p>Our fully furnished spaces are designed and purpose-built with Co-Living in mind, featuring
-                      high-end finishes and amenities that go far beyond traditional apartment buildings.</p>
+                    <h5>Integrity</h5>
+                    <p>We uphold the highest ethical standards and conduct our operations transparently to ensure unwavering integrity.</p>
                   </div>
                 </div>
                 <!-- End Media -->
@@ -94,9 +90,9 @@
                   </div>
 
                   <div class="flex-grow-1 ms-4">
-                    <h5>Fostering vibrant communities</h5>
-                    <p>Our passion is bringing people together. Beyond creating beautiful spaces, we provide shared
-                      experiences.</p>
+                    <h5>Mutual Trust & Respect</h5>
+                    <p>We foster a culture where mutual respect and trust reign supreme and everyone is treated with dignity.
+</p>
                   </div>
                 </div>
                 <!-- End Media -->
@@ -108,11 +104,8 @@
                   </div>
 
                   <div class="flex-grow-1 ms-4">
-                    <h5>Simple and all-inclusive</h5>
-                    <p>We worry about the details so that our residents don't have to. From our online application
-                      process
-                      to simple, all-inclusive billing we aim to make the living experience as effortless as possible.
-                    </p>
+                    <h5>Diversity, Inclusion & Equity</h5>
+                    <p>everyone feels safe to be their authentic self.</p>
                   </div>
                 </div>
                 <!-- End Media -->
@@ -145,7 +138,7 @@
             <div class="card-img-overlay top-auto">
               <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4">
                 <h4 class="card-title">Environment</h4>
-                <p class="m-0">Committed to our shared future.
+                <p class="m-0">We are committed to the principles of sustainability and want to leave a world where future generations can thrive too.
                 </p>
               </div>
             </div>
@@ -163,7 +156,7 @@
             <div class="card-img-overlay top-auto">
               <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4">
                 <h4 class="card-title">Social</h4>
-                <p class="m-0">Because everyone matters.
+                <p class="m-0">Odyssey Global is a socially responsible staffing company. We strive to make a difference to the local community and the world through our CSR initiatives.
                 </p>
               </div>
             </div>
@@ -183,7 +176,7 @@
             <div class="card-img-overlay top-auto">
               <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4">
                 <h4 class="card-title">Governance</h4>
-                <p class="m-0">Our shared values guide everything we do.
+                <p class="m-0">Transparency, alignment and representation form the core of our management principles and enable us to make significant decisions that align with our vision and values.
                 </p>
               </div>
             </div>
@@ -201,7 +194,7 @@
             <div class="card-img-overlay top-auto">
               <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4">
                 <h4 class="card-title">Women Empowered</h4>
-                <p class="m-0">Because everyone matters.
+                <p class="m-0">We committed to empowering the diverse set of women working in our organization, helping them advance within the organizations and forge ahead in their career.
                 </p>
               </div>
             </div>
@@ -219,7 +212,7 @@
             <div class="card-img-overlay top-auto">
               <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4">
                 <h4 class="card-title">Empowered management</h4>
-                <p class="m-0">Because everyone matters.
+                <p class="m-0">Our leaders are entrusted with autonomy, enabling agile decision-making aligned with our values. This drives innovation, nurtures a dynamic management approach and propels collective success.  
                 </p>
               </div>
             </div>

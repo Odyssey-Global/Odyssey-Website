@@ -11,13 +11,13 @@
   <!-- ========== MAIN CONTENT ========== -->
   <main id="content" role="main">
     <!-- Hero -->
-    <div class="d-flex bg-img-center" style="background-image: url(assets/img/job-search-bnr.webp);">
+    <div class="d-flex bg-img-center" style=" background-image: url(assets/img/job-search-bnr.webp);">
       <div class="container d-flex justify-content-end flex-column job-search-bnr">
         <div class="w-lg-65">
           <span class="d-block text-white mb-3">We're hiring for <span class="fw-bold">72 positions</span> <a
               class="badge bg-dark text-white rounded-pill ms-1" href="#openingsSection">View opening</a></span>
-          <h1 class="display-4 text-white">Come work with us</h1>
-          <p class="lead text-white">We're on a mission to make high-quality sites accessible for all.</p>
+          <h1 class="display-4 text-white">Find Jobs</h1>
+          <p class="lead text-white">Join us or work with a client in jobs that perfectly fit your needs, career goals and professional aspirations.</p>
         </div>
       </div>
     </div>
@@ -33,7 +33,7 @@
         <!-- Heading -->
         <div class="w-lg-65 text-center mx-lg-auto mb-5 mb-sm-7 mb-lg-10">
           <h2>Explore opportunities</h2>
-          <p>We're looking for passionate, self-motivated and daring individuals to join our team.</p>
+          <p>We're looking for passionate, self-motivated and highly skilled professionals to join us and/or work with clients. Find and apply for job opportunities that align with your needs and values.</p>
         </div>
         <!-- End Heading -->
 
