@@ -10,7 +10,7 @@
 
 
   <!-- Title -->
-  <title>Corporate | Unify - Multipurpose Responsive Template</title>
+  <title>Odyssey Global - Your Staffing Partner</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="favicon.ico">
@@ -46,10 +46,10 @@
         <!-- Toggler -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
           aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-default">
+          <span class="navbar-toggler-default" id="defaultMenuIcon">
             <i class="bi-list"></i>
           </span>
-          <span class="navbar-toggler-toggled">
+          <span class="navbar-toggler-toggled" id="closeMenuIcon">
             <i class="bi-x"></i>
           </span>
         </button>
@@ -238,8 +238,30 @@
 
       // INITIALIZATION OF GO TO
       // =======================================================
-      new HSGoTo('.js-go-to')
+      new HSGoTo('.js-go-to');
+      var elementsToggle = document.getElementsByClassName("navbar-toggler-toggled");
+      var elementsDefault = document.getElementsByClassName("navbar-toggler-default");
+      var navBar = document.getElementsByClassName("navbar-collapse");
 
+      var hideMenu = function () {
+        document.getElementById("navbarNavDropdown").style.display = "none";
+        document.getElementById("defaultMenuIcon").style.display = "block";
+        document.getElementById("closeMenuIcon").style.display = "none";
+      };
+
+      for (var i = 0; i < elementsToggle.length; i++) {
+        elementsToggle[i].addEventListener('click', hideMenu, false);
+      }
+
+      var showMenu = function () {
+        document.getElementById("navbarNavDropdown").style.display = "block";
+        document.getElementById("closeMenuIcon").style.display = "block";
+        document.getElementById("defaultMenuIcon").style.display = "none";
+      };
+
+      for (var i = 0; i < elementsToggle.length; i++) {
+        elementsDefault[i].addEventListener('click', showMenu, false);
+      }
     })()
   </script>
 </body>

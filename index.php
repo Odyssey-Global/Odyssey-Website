@@ -303,6 +303,56 @@
     </div>
     <!-- End Features -->
 
+    <!-- Services -->
+    <div class="container content-space-2 content-space-lg-3">
+      <!-- Heading -->
+      <div class="mb-5">
+        <h2 class="fw400">How we works</h2>
+        <p>Join the people creating a one-stop shop for financial freedom.</p>
+      </div>
+
+      <div>
+        <section class="py-5">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-5th-1 col-sm-4 col-md-offset-0 col-sm-offset-2">
+                <div class="text-center position-relative">
+                  <div
+                    class="step-icon mx-auto bg-primary border rounded-circle d-flex align-items-center justify-content-center"
+                    style="width:120px;height:120px;">
+                    <svg class="bi bi-basket text-white" fill="currentColor" height="40" viewbox="0 0 16 16" width="40"
+                      xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9H2zM1 7v1h14V7H1zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5z">
+                      </path>
+                    </svg>
+                  </div>
+                  <h4 class="mt-3 fs-5">Step 1</h4>
+                  <p class="lead text-muted mt-4 fs-5 px-lg-3 mb-5 mb-lg-0">Lorem ipsum dolor sit ame consectetur Lorem.
+                  </p>
+                  <div class="arrow-icon position-absolute d-none d-lg-block" style="top:50px; right:-25px">
+                    <svg class="bi bi-arrow-right" fill="currentColor" height="30" viewbox="0 0 16 16" width="30"
+                      xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"
+                        fill-rule="evenodd"></path>
+                    </svg>
+                  </div>
+                </div>
+              </div>
+
+
+
+            </div>
+          </div>
+        </section>
+      </div>
+      <!-- End Heading -->
+
+
+    </div>
+    <!-- End Features -->
+
     <!-- Stats -->
     <div class="bg-dark overflow-hidden">
       <div class="container position-relative content-space-2 content-space-lg-3">
