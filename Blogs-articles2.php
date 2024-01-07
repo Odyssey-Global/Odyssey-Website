@@ -28,7 +28,7 @@
             <!-- End Media -->
 
             <div class="mb-6">
-              <h1 class="h2">5 Key Trends Shaping the Future of Work in Canada</h1>
+              <h1 class="h2">Crafting Your Career Story: A Guide to Writing a Compelling Resume</h1>
               <!-- <p class="lead">Top talent’s there for the picking, regardless of industry.</p> -->
             </div>
           </div>
@@ -52,8 +52,7 @@
       <div class="row mb-5">
         <div class="col-md-10 col-lg-8 offset-md-1 offset-lg-2">
           <figure class="blockquote-lg text-center mb-3">
-            <blockquote class="blockquote">“ A closer look at key the latest trends in the post-pandemic era that are influencing how and where we work. 
- “</blockquote>
+            <blockquote class="blockquote">“ Understand the nuances of writing compelling resumes that land you dream jobs and help you forge a great career path.“</blockquote>
           </figure>
         </div>
         <!-- End Col -->
@@ -62,17 +61,8 @@
 
       <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
-       <p>2020 was a landmark year that led to paradigm shifts in the world of work across the globe. 
-        The Covid-19 pandemic created a sea of changes in the way people look at work and life in general.
-         Further, the complexities and dynamism of markets are increasing. As a result, the nature of work
-          and the workplace is changing at a rapid pace to accommodate shifting employee exceptions and 
-          market demands. And Canada is no exception to the rule. 
-From rapid technological advancements and widening skill gaps to increasing demand for 
-flexibility and the rising popularity of contract work and remote work, certain key trends are 
-influencing the future of work in Canada. Businesses need to adapt to these trends and make changes 
-       in their staffing strategies. In doing so, they can drive competitive advantages and thrive in the ever-evolving, dynamic business landscape. 
-In this blog, we will take a closer look at 5 key trends shaping the future of work in Canada.  </p> 
-
+       <p>Job search is probably one of the toughest, most anxious periods for many. And getting rejected even before an interview call can be extremely demotivating. To improve your chances of getting an interview and getting hired by the right employers, you need to make a great first impression. A powerful, well-crafted resume will help you make that great first impression on recruiters.   </p> 
+<p>In this blog, we will help guide you through the process of crafting an amazing resume that helps you find your dream job. </p>
         </div>
         <!-- End Col -->
       </div>
@@ -88,27 +78,15 @@ In this blog, we will take a closer look at 5 key trends shaping the future of w
 
       <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
-          <h5>Technological Advancements & the Widening Skill Gap 
-</h5>
+          <h5>Why is a Resume So Important?</h5>
 
-          <p>Technology is advancing at an accelerated pace and is disrupting the world of work in more ways than one. 
-            Advanced technology such as intelligent automation, Artificial Intelligence (AI), Machine Learning (ML), robotics,
-             and big data, among others is now being used widely across industries. Such technologies are creating a paradigm shift 
-             in how work is done. 
+          <p>Recruiters and hiring managers are often flooded with hundreds and thousands of resumes. This means that they will not be able to spend equal or enough time on each resume. They often spend a few seconds to minutes skimming through each resume. Candidates have just those many seconds or minutes to capture and retain the attention of the recruiter/ hiring manager. 
 </p>
 
-<p>While technology will cause job loss, it will also add new jobs and change the nature of jobs that remain. This trend is already 
-  underway and is disrupting the labor market. New jobs and careers are already emerging across sectors, and specialized skills 
-  are in high demand. </p>
+<p>Amid the noise and clutter, your resume must provide them with all the necessary details. It should give them a snapshot of your skills, accomplishments, experience and other relevant information. It needs to be unique, engaging and compelling, which is why generic resumes never work!  </p>
 
-  <p>Secondly, there is an increasing adoption of automation and AI by businesses to remove repetitive, low-value, manual jobs,
-     freeing up employee bandwidth. Employees can use the time saved on innovation, strategy and other high-value activities 
-     that need their skills and expertise. </p>
-     <p>Thirdly, technological advancements are also transforming the skills required by organizations. The demand for skills 
-      isn’t adequately met by a supply of skilled professionals, leading to a widening skill gap. 
-      In the face of the skill gap, organizations are investing in learning and development initiatives to upskill and reskill 
-      employees to keep pace with rapidly evolving technology. It is also in the best interest of individuals in the job market to 
-      upskill and reskill themselves to improve their chances of getting hired. </p>
+  <p>If you do not want your resume to be tossed into the reject pile, you must learn the art and science of making an effective resume. Your resume should be effective in winning the recruiter’s attention and boosting your chances of getting interview calls. 
+ </p>
         </div>
         <!-- End Col -->
       </div>
@@ -116,32 +94,23 @@ In this blog, we will take a closer look at 5 key trends shaping the future of w
 
       <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
-          <h5>The Increasing Focus on Flexibility 
+          <h5>A Guide to Crafting Effective, Compelling Resumes 
 </h5>
+<h6>Resume Writing Mistakes to Avoid </h6>
 
-          <p>Ever since 2020, there has been an increasing demand for flexibility among employees.
-             Job flexibility, whether in terms of flexi shifts or flexi workweek, helps employees maintain a 
-             healthy work-life balance. It has several physical, mental and emotional benefits. It helps in reducing
-              stress and improving the overall well-being of employees.</p>
+The following mistakes often reduce the candidate’s chances of getting interview calls. </p>
+<ul>
+  <li>
+  Your resume is generic or follows the biodata pattern.   </li>
+<li>Your resume is too wordy. </li>
+<li>You have not chronologically listed your work experience and the work experience section does not appear in the first half of the resume. </li>
+<li>Your work experience highlights your job responsibilities rather than your impact and accomplishments. </li>
+<li>There are grammatical and spelling errors in the resume or formatting flaws. </li>
+<li>The references provided in the resume aren’t strong enough. </li>
+<li>The cover letter is generic or too short. </li>
 
-          <p>While employers are increasingly offering job flexibility to white-collar/ office workers, blue- and grey-collar
-             workers don’t enjoy the same benefits. But it is as important a consideration to non-office workers as office workers.</p>
 
-            <p>In fact, 46% of non-office workers believe that flexibility is as important or more important than their compensation.
-               39% of these workers end up using medical leave to manage personal responsibilities. 30% even left their job due to lack 
-               of flexibility. </p>
-               <p>There is a need for a shift in management philosophy towards a result-focused measurement of performance rather than 
-                the physical presence of employees. It requires more employers to understand that employees can 
-                be successful while working in flexible environments. </p>
-                <p>For improved equity in the workplace and retention of top talent in the office and non-office workforce, employers 
-                  must redefine work for non-office workers, expanding the scope to include tasks that can be performed offsite.
-                   They must offer enhanced support to non-office workers to help them meet their personal obligations including care work.
-                    Employers should also establish holistic wellness plans to help non-office workers reduce their stress levels and build a healthier,
-                     more productive workforce. </p>
-
-                     <p>Job flexibility is a significant factor for a growing number of candidates, especially among millennials and Gen Z. 
-                      So, employers need to redesign strategies to offer greater flexibility to employees to stay competitive 
-                      in the job market and retain top-quality talent. </p>
+</ul>
         </div>
         <!-- End Col -->
       </div>
@@ -157,51 +126,73 @@ In this blog, we will take a closer look at 5 key trends shaping the future of w
 
       <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
-          <h5>The Mainstreaming of Remote and Hybrid Work </h5>
-
-          <p>Remote and hybrid work used to be a good-to-have in the pre-pandemic era with only a handful of companies offering these options. 
-            The pandemic showed both employees and employers that work can happen anywhere, thanks to the rapidly advancing technology.
-             Today, remote and hybrid work models have become mainstream with more companies establishing formal work-from-home policies
-              and offering remote/hybrid work options. </p>
-
-          <p>Offering hybrid and remote work options boosts the morale of employees and keeps the workforce happier,
-             healthier and more productive. It enables employers to stay competitive in the job market and improve 
-             their chances of attracting and retaining the best talent.</p>
-
-          <p>While remote/hybrid work improves job flexibility and boosts employee satisfaction levels, employers 
-            need to ensure that employees still have a sense of belonging. Employees’ need for mentoring,
-             networking and personal connections should be fulfilled while offering the choice to work from wherever they are. </p>
+      <h5>  Keep Your Resume Short and Direct </h5>
+<p>The most important rule to writing an effective resume is keeping it short, to the point and direct. The general rule is to keep it no longer than 2 pages, unless you have good reason to make it any longer. Even if you are a highly experienced professional with a long career, it is best to highlight your work experience for the previous 10-15 years.
+</p>
         </div>
         <!-- End Col -->
       </div>
       <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
-          <h5>The Rising Popularity of Contract Work 
- </h5>
-
-          <p>The rise of the gig economy, a tight labor market, a widening skill gap and the demand for flexibility have led to the rising popularity of contract work. Contract work has powerful benefits for employees and employers. </p>
-
-          <p>For employees, there is greater flexibility when they can choose employers and roles. They can work with more than one employer at a time or shift more smoothly between employers. They can strengthen and develop a specialized skillset. They can build strong networks and relationships across the industry. </p>
-
-          <p>For employers, contract work helps them reduce labor shortages and fill in positions in an accelerated manner. They can quickly fill skill gaps and have the flexibility to offer long- and short-term contracts to professionals. For SMEs and startups, they can access highly specialized skills without making a permanent hire, saving significantly on their compensation bills. </p>
-             <p>By employing the services of strategic contract staffing agencies like Odyssey Global, employers gain access to a global pool of highly qualified professionals. Odyssey Global not only matches great talent with the employer but takes care of onboarding and training. With staffing partners like Odyssey, employers can infuse greater agility, scalability and efficiency into the hiring process, hitting the ground running on critical projects. </p>
-              
+       <h5> Tell Your Story Concisely  </h5>
+<p>You must coherently narrate your story within the 2 pages of the resume. The storytelling in the resume must be precise, compelling and interesting. Text-heavy, wordy resumes will make the recruiter lose interest in getting to its end. So, it is best to write your resume in a way that it answers every question that a recruiter may have about your professional journey, story and skills.
+</p>
         </div>
         <!-- End Col -->
       </div>
       <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
-          <h5>Demographic Shifts and Growing Labor Shortages  </h5>
-
-          <p>Canada is undergoing demographic shifts leading to an aging population, increasing average age of the workforce, and increasing retirements. This is creating a massive labor shortage in the country and the loss of skills. Data suggests that Canada will have 4.4 million job vacancies in the future owing to demographic shifts and the aging workforce.  </p>
-
-          <p>To navigate the growing labor shortage and skill deficit, employers need to redesign their staffing strategies.  They must encourage more labor force participation from among underrepresented groups including indigenous groups, older workers, women from marginalized backgrounds and so on while strengthening their diversity, inclusion and equity (DEI) policies. They must access workers from beyond their local labor markets and find talent from diverse, global talent pools. </p>
-
-          <p>With premier staffing agencies like Odyssey Global, employers can effortlessly access such diverse talent pools and fill in vacancies at an accelerated pace. </p>
-             <p>These are the 5 key trends that will shape the future of work in Canada. Organizations need to relook and redesign their staffing and HR strategies to adapt to these trends to more effectively navigate the ever-evolving business landscape and drive competitive advantage.  </p>
-        </div>
+       <h5> Showcase Your Experience and Skills </h5>
+<p>You should show rather than tell the recruiter about your skills, accomplishments, etc. For instance, you could quantify your experience, skills, and accomplishments, wherever possible, using quantifiable metrics. 
+</p>
+<p>You should use action verbs such as completed, managed, led, developed, created, sold, designed, achieved, etc. along with superlatives such as highest, fastest and best, among others. It is important to be assertive but not pompous. 
+</p>  
+<p>You can use infographics or other pictorial representations to showcase your skillset. 
+</p>
+</div>
         <!-- End Col -->
       </div>
+      </div>
+      <div class="row mb-3">
+        <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
+       <h5> Customize Your Resume to Each Job  </h5>
+<p>Your resume is your marketing document, and it works best when it is tailored to target the job that you are applying to. So, ensure that you take your time to research the company and role thoroughly before applying for the job. Using these insights, you should tailor your resume to highlight all relevant aspects of your experience, skillset, accomplishments, etc. </p>
+<p>You should tell the recruiter how your vision and values align with the company’s values and culture. Find 10-15 keywords from the job description to use in the resume. You could embolden them to highlight it to the recruiter.  </p>  
+
+</div>
+        <!-- End Col -->
+      </div>
+      </div>
+      <div class="row mb-3">
+        <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
+       <h5> Write a Strong and Compelling Summary </h5>
+      <p>
+      
+      Your resume must include a succinct, strong executive summary right at the top. Keep it clear, concise and persuasive using no more
+       than 30-40 words. It should clearly convey your USP and suitability to the recruiter. Think of the professional summary as a
+        branding statement rather than an objective statement. </p>
+ 
+    </div>
+        <!-- End Col -->
+      </div> </div>
+      <div class="row mb-3">
+        <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
+       <h5> Presentation and Readability Are Critical </h5>
+<p>A cluttered, verbose resume isn’t going to resonate with the recruiter. For your resume to stand out amid the pile of resumes, you need to make sure it is clean and readable. Choose a unique template with proper spacing and alignment, readable fonts and a simple yet effective design. The content in the resume should flow seamlessly and have clear sections. The navigation should be easy and the details easily readable. It is best to use headers, sub-headers, bullet points, diagrams/ pictorial representations, and so on. </p>
+</div>
+        <!-- End Col -->
+      </div>
+      </div>
+      <div class="row mb-3">
+        <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
+       <h5> Proofread Carefully </h5>
+<p>Errors in your resume can detract from professionalism, which is why you must thoroughly proofread and edit the document several times. Get feedback from your peers and mentors and incorporate it into your resume. </p>
+<p>In a highly competitive job market, a compelling resume is your ticket to secure interviews with companies you want to work with and advance your career. We hope this guide helps you craft a powerful resume that resonates with recruiters and improves your chances of getting those interview calls. </p>  
+ 
+</div>
+        <!-- End Col -->
+      </div>
+
       <!-- End Row -->
 
       <!-- <div class="row mb-3">

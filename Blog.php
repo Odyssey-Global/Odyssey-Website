@@ -27,15 +27,14 @@
               </div>
 
               <div class="card-body">
-                <h4>Virtual Venue</h4>
+                <h4>5 Key Trends Shaping the Future of Work in Canada</h4>
                 <p class="card-text">
-                  Create an immersive attendee experience with interactive
-                  programming for both digital and onsite audiences
-                </p>
+                A closer look at key the latest trends in the post-pandemic 
+                era that are influencing how and where we work.  </p>
               </div>
 
               <div class="blog-footer">
-                <span class="card-link">Explore Virtual Venue</span>
+                <a class="card-link" href="Blogs-articles1.php">Explore </a>
               </div>
             </a>
             <!-- End Card -->
@@ -57,15 +56,14 @@
               </div>
 
               <div class="card-body">
-                <h4>Studio by Htmlstream</h4>
+                <h4>Revolutionizing Talent Acquisition in the Dynamic Job Market & Driving Greater Efficiency and Growth</h4>
                 <p class="card-text">
-                  Produce professional, reliable streams easily leveraging
-                  Htmlstream's innovative broadcast studio
+                A blog that looks at the concept of agile recruitment, its benefits and how staffing agencies help drive agility in staffing processes. 
                 </p>
               </div>
 
               <div class="blog-footer">
-                <span class="card-link">Explore Studio</span>
+              <span class="card-link">  <a  href="Blogs-articles1.php"> Explore</a></span>
               </div>
             </a>
             <!-- End Card -->
@@ -87,15 +85,14 @@
               </div>
 
               <div class="card-body">
-                <h4>Onsite</h4>
+                <h4> A Guide to Writing a Compelling Resume</h4>
                 <p class="card-text">
-                  Optimize your in-person experience with best-in-class
-                  capabilities like badge printing and lead retrieval
+                  Optimize your in-person experiUnderstand the nuances of writing compelling resumes that land you dream jobs and help you forge a great career path.
                 </p>
               </div>
 
               <div class="blog-footer">
-                <span class="card-link">Explore Onsite</span>
+              <span class="card-link">  <a  href="Blogs-articles2.php"> Explore</a></span>
               </div>
             </a>
             <!-- End Card -->
@@ -105,5 +102,7 @@
         <!-- End Row -->
       </div>
       <!-- <?php include 'cx.php';?> -->
+
+      
 </body> 
       </html>
