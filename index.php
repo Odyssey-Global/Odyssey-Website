@@ -237,7 +237,7 @@
           <!-- Card -->
           <a class="card card-borderless card-transition-zoom bg-soft-blue h-100" href="#">
             <div class="card-transition-zoom-item">
-              <img class="card-img" src="assets/svg/components/card-7.svg" alt="Image Description">
+              <img class="card-img" src="assets/img/card-13.svg" alt="Image Description">
             </div>
             <div class="card-body">
               <!-- <span class="card-subtitle text-body"><span class="fw-bold text-dark">6</span> positions</span> -->
@@ -254,7 +254,7 @@
           <!-- Card -->
           <a class="card card-borderless card-transition-zoom bg-soft-blue h-100" href="#">
             <div class="card-transition-zoom-item">
-              <img class="card-img" src="assets/svg/components/card-8.svg" alt="Image Description">
+              <img class="card-img" src="assets/img/Group-14.svg" alt="Image Description">
             </div>
             <div class="card-body">
               <!-- <span class="card-subtitle text-body"><span class="fw-bold text-dark">2</span> positions</span> -->
@@ -271,7 +271,7 @@
           <!-- Card -->
           <a class="card card-borderless card-transition-zoom bg-soft-blue h-100" href="#">
             <div class="card-transition-zoom-item">
-              <img class="card-img" src="assets/svg/components/card-10.svg" alt="Image Description">
+              <img class="card-img" src="assets/img/Group-15.svg" alt="Image Description">
             </div>
             <div class="card-body">
               <!-- <span class="card-subtitle text-body"><span class="fw-bold text-dark">19</span> positions</span> -->
@@ -287,7 +287,7 @@
           <!-- Card -->
           <a class="card card-borderless card-transition-zoom bg-soft-blue h-100" href="#">
             <div class="card-transition-zoom-item">
-              <img class="card-img" src="assets/svg/components/card-9.svg" alt="Image Description">
+              <img class="card-img" src="assets/img/Group-16.svg" alt="Image Description">
             </div>
             <div class="card-body">
               <!-- <span class="card-subtitle text-body"><span class="fw-bold text-dark">25</span> positions</span> -->
@@ -304,52 +304,116 @@
     <!-- End Features -->
 
     <!-- Services -->
-    <div class="container content-space-2 content-space-lg-3">
-      <!-- Heading -->
-      <div class="mb-5">
-        <h2 class="fw400">How we works</h2>
-        <p>Join the people creating a one-stop shop for financial freedom.</p>
+    <div class="container content-space-b-1 content-space-b-lg-3">
+      <div class="row align-items-md-center mb-7">
+        <div class="col-md mb-3 mb-md-0">
+          <div class="mb-5">
+            <h2 class="fw400">Simple Staffing Process</h2>
+            <p>Odyssey Global empowers clients to quickly hire exceptional talent within their budget.</p>
+          </div>
+        </div>
+        <!-- End Col -->
+
+        <div class="col-md-auto">
+          <!-- Arrows -->
+          <div class="js-swiper-timeline-button-prev swiper-button-prev swiper-static-button-prev"></div>
+          <div class="js-swiper-timeline-button-next swiper-button-next swiper-static-button-next"></div>
+        </div>
+        <!-- End Col -->
       </div>
+      <!-- End Row -->
 
-      <div>
-        <section class="py-5">
-          <div class="container">
-            <div class="row">
-              <div class="col-md-5th-1 col-sm-4 col-md-offset-0 col-sm-offset-2">
-                <div class="text-center position-relative">
-                  <div
-                    class="step-icon mx-auto bg-primary border rounded-circle d-flex align-items-center justify-content-center"
-                    style="width:120px;height:120px;">
-                    <svg class="bi bi-basket text-white" fill="currentColor" height="40" viewbox="0 0 16 16" width="40"
-                      xmlns="http://www.w3.org/2000/svg">
-                      <path
-                        d="M5.757 1.071a.5.5 0 0 1 .172.686L3.383 6h9.234L10.07 1.757a.5.5 0 1 1 .858-.514L13.783 6H15a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1v4.5a2.5 2.5 0 0 1-2.5 2.5h-9A2.5 2.5 0 0 1 1 13.5V9a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h1.217L5.07 1.243a.5.5 0 0 1 .686-.172zM2 9v4.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V9H2zM1 7v1h14V7H1zm3 3a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 4 10zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 6 10zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3A.5.5 0 0 1 8 10zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5zm2 0a.5.5 0 0 1 .5.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 1 .5-.5z">
-                      </path>
-                    </svg>
-                  </div>
-                  <h4 class="mt-3 fs-5">Step 1</h4>
-                  <p class="lead text-muted mt-4 fs-5 px-lg-3 mb-5 mb-lg-0">Lorem ipsum dolor sit ame consectetur Lorem.
-                  </p>
-                  <div class="arrow-icon position-absolute d-none d-lg-block" style="top:50px; right:-25px">
-                    <svg class="bi bi-arrow-right" fill="currentColor" height="30" viewbox="0 0 16 16" width="30"
-                      xmlns="http://www.w3.org/2000/svg">
-                      <path
-                        d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"
-                        fill-rule="evenodd"></path>
-                    </svg>
-                  </div>
-                </div>
-              </div>
+      <!-- Swiper Slider -->
+      <div class="swiper-center-mode-end">
+        <div class="js-swiper-timeline swiper swiper-step">
+          <div class="swiper-wrapper">
+            <!-- Slide -->
+            <div class="swiper-slide">
+              <!-- <span class="h5 fw-normal text-body mb-0">1</span> -->
+              <span class="display-5 d-block text-primary">
+                <img style="max-height:130px;" src="assets/img/step1.gif" />
+              </span>
 
+              <div class="swiper-step-divider"></div>
 
+              <h6>1. Reach Out to Us</h6>
+              <p>Client raises their staffing request with us by filling the form in the website or getting in touch
+                with us. </p>
+            </div>
+            <!-- End Slide -->
 
+            <!-- Slide -->
+            <div class="swiper-slide">
+              <!-- <span class="h5 fw-normal text-body mb-0">2</span> -->
+              <span class="display-5 d-block text-primary">
+                <img style="max-height:130px;" src="assets/img/step2.gif" />
+              </span>
+
+              <div class="swiper-step-divider"></div>
+
+              <h6>2. We Connect with You</h6>
+              <p>We assign a dedicated hiring expert for client who connects with the client to understand requirements.
+              </p>
+            </div>
+            <!-- End Slide -->
+
+            <!-- Slide -->
+            <div class="swiper-slide">
+              <!-- <span class="h5 fw-normal text-body mb-0">3</span> -->
+              <span class="display-5 d-block text-primary">
+                <img style="max-height:130px;" src="assets/img/step3.gif" />
+              </span>
+
+              <div class="swiper-step-divider"></div>
+
+              <h6>3. Review Candidates</h6>
+              <p> Based on client needs, we quickly search the talent pool and curate & share a qualified list of
+                candidates. </p>
+            </div>
+            <!-- End Slide -->
+
+            <!-- Slide -->
+            <div class="swiper-slide">
+              <span class="display-5 d-block text-primary">
+                <img style="max-height:130px;" src="assets/img/step4.gif" />
+              </span>
+
+              <div class="swiper-step-divider"></div>
+
+              <h6>4. Interview & Offer</h6>
+              <p>We facilitate interviews and extend our support to the client in making an offer to the selected
+                candidates</p>
+            </div>
+            <!-- End Slide -->
+
+            <!-- Slide -->
+            <div class="swiper-slide">
+              <span class="display-5 d-block text-primary">
+                <img style="max-height:130px;" src="assets/img/step5.gif" />
+              </span>
+
+              <div class="swiper-step-divider"></div>
+
+              <h6>5. Hire & Onboard</h6>
+              <p>Once the offer is accepted by the candidates and the client hires them, we help onboard the new
+                recruits.</p>
+            </div>
+            <!-- End Slide -->
+
+            <!-- Slide -->
+            <!-- End Slide -->
+          </div>
+
+          <!-- Preloader -->
+          <div class="js-swiper-preloader swiper-preloader">
+            <div class="spinner-border text-primary" role="status">
+              <span class="visually-hidden">Loading...</span>
             </div>
           </div>
-        </section>
+          <!-- End Preloader -->
+        </div>
       </div>
-      <!-- End Heading -->
-
-
+      <!-- End Swiper Slider -->
     </div>
     <!-- End Features -->
 
@@ -657,6 +721,34 @@
           'imagesReady': function (swiper) {
             const preloader = swiper.el.querySelector('.js-swiper-preloader')
             preloader.parentNode.removeChild(preloader)
+          }
+        }
+      });
+
+      var swiper = new Swiper('.js-swiper-timeline', {
+        navigation: {
+          nextEl: '.js-swiper-timeline-button-next',
+          prevEl: '.js-swiper-timeline-button-prev',
+        },
+        slidesPerView: 1,
+        spaceBetween: 30,
+        breakpoints: {
+          480: {
+            slidesPerView: 2
+          },
+          768: {
+            slidesPerView: 3
+          },
+          1024: {
+            slidesPerView: 4
+          },
+        },
+        on: {
+          'afterInit': function (swiper) {
+            setTimeout(() => {
+              const preloader = swiper.el.querySelector('.js-swiper-preloader')
+              preloader.parentNode.removeChild(preloader)
+            }, 1000)
           }
         }
       });

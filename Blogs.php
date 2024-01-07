@@ -13,7 +13,7 @@
       <div class="js-swiper-blog-modern-hero swiper swiper-equal-height">
         <div class="swiper-wrapper">
           <div class="swiper-slide bg-img-start content-space-2 content-space-t-sm-3 content-space-b-sm-4"
-            style="background-image: url(assets/img/1920x1080/img1.jpg);">
+            style="background-image: url(assets/img/blog1.webp);">
             <!-- Container -->
             <div class="container content-space-b-sm-2">
               <div class="row">
@@ -46,11 +46,11 @@
           </div>
 
           <div class="swiper-slide bg-img-start content-space-2 content-space-t-sm-3 content-space-b-sm-4"
-            style="background-image: url(assets/img/1920x1080/img12.jpg);">
+            style="background-image: url(assets/img/blog2.webp);">
             <!-- Container -->
             <div class="container content-space-b-sm-2">
               <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-10">
                   <!-- Media -->
                   <div class="d-flex align-items-center mb-3">
                     <div class="flex-shrink-0">
@@ -66,7 +66,8 @@
                   <!-- End Media -->
 
                   <div class="mb-5">
-                    <h2 class="h1 text-white">Agile Recruitment: Revolutionizing Talent Acquisition in the Dynamic Job Market & Driving Greater Efficiency and Growth</h2>
+                    <h2 class="h1 text-white">Agile Recruitment: Revolutionizing Talent Acquisition in the Dynamic Job
+                      Market & Driving Greater Efficiency and Growth</h2>
                   </div>
 
                   <a class="btn btn-light btn-pointer" href="Blogs-articles1.php">Read article</a>
@@ -79,7 +80,7 @@
           </div>
 
           <div class="swiper-slide bg-img-start content-space-2 content-space-t-sm-3 content-space-b-sm-4"
-            style="background-image: url(assets/img/1920x1080/img3.jpg);">
+            style="background-image: url(assets/img/blog3.webp);">
             <!-- Container -->
             <div class="container content-space-b-sm-2">
               <div class="row">
@@ -131,13 +132,15 @@
 
               <!-- Slide -->
               <div class="swiper-slide">
-                <span class="swiper-step-pagination-title">Agile Recruitment: Revolutionizing Talent Acquisition in the Dynamic Job Market & Driving Greater Efficiency and Growth</span>
+                <span class="swiper-step-pagination-title">Revolutionizing Talent Acquisition in the
+                  Dynamic Job Market & Driving Greater Efficiency and Growth</span>
               </div>
               <!-- End Slide -->
 
               <!-- Slide -->
               <div class="swiper-slide">
-                <span class="swiper-step-pagination-title">Crafting Your Career Story: A Guide to Writing a Compelling Resume</span>
+                <span class="swiper-step-pagination-title">Crafting Your Career Story: A Guide to Writing a Compelling
+                  Resume</span>
               </div>
               <!-- End Slide -->
             </div>
@@ -157,7 +160,7 @@
             <div class="card card-borderless card-flush card-stretched-vertical">
               <div class="row">
                 <div class="col-sm-5">
-                  <img class="card-img" src="assets/img/400x500/img7.jpg" alt="Image Description">
+                  <img class="card-img" src="assets/img/blog1.webp" alt="Image Description">
                 </div>
                 <!-- End Col -->
 
@@ -165,13 +168,12 @@
                   <!-- Card Body -->
                   <div class="card-body">
                     <h4 class="card-title">
-                      <a class="text-dark" href="Blogs-articles.php">Odyssey becomes an official Instagram Marketing
-                        Partner</a>
+                      <a class="text-dark" href="Blogs-articles.php">5 Key Trends Shaping the Future of Work in
+                        Canada</a>
                     </h4>
 
-                    <p class="card-text">Are you an accountant? Are you a company formation advisor? Would you like to
-                      partner with one of the world's most popular and fastest-growing Fintech startups?
-
+                    <p class="card-text">A closer look at key the latest trends in the post-pandemic era that are
+                      influencing how and where we work.
                     </p>
 
                     <!-- Card Footer -->
@@ -203,7 +205,7 @@
             <div class="card card-borderless card-flush card-stretched-vertical">
               <div class="row">
                 <div class="col-sm-5">
-                  <img class="card-img" src="assets/img/400x500/img7.jpg" alt="Image Description">
+                  <img class="card-img" src="assets/img/blog2.webp" alt="Image Description">
                 </div>
                 <!-- End Col -->
 
@@ -211,12 +213,13 @@
                   <!-- Card Body -->
                   <div class="card-body">
                     <h4 class="card-title">
-                      <a class="text-dark" href="Blogs-articles.php">Odyssey becomes an official Instagram Marketing
-                        Partner</a>
+                      <a class="text-dark" href="Blogs-articles.php">Revolutionizing Talent Acquisition in the Dynamic
+                        Job Market & Driving Greater Efficiency and Growth</a>
                     </h4>
 
-                    <p class="card-text">Are you an accountant? Are you a company formation advisor? Would you like to
-                      partner with one of the world's most popular and fastest-growing Fintech startups?
+                    <p class="card-text">A blog that looks at the concept of agile recruitment, its benefits and how
+                      staffing agencies help drive agility in staffing processes.
+
 
                     </p>
 
@@ -251,26 +254,7 @@
           <!-- Sticky Block End Point -->
           <div id="stickyBlockEndPoint"></div>
 
-          <!-- Pagination -->
-          <nav aria-label="Page navigation">
-            <ul class="pagination justify-content-center justify-content-sm-start mb-0">
-              <li class="page-item disabled">
-                <a class="page-link" href="#" tabindex="-1">
-                  <span aria-hidden="true">&laquo;</span>
-                </a>
-              </li>
-              <li class="page-item active"><a class="page-link" href="#">1</a></li>
-              <li class="page-item"><a class="page-link" href="#">2</a></li>
-              <li class="page-item"><a class="page-link" href="#">3</a></li>
-              <li class="page-item">
-                <a class="page-link" href="#">
-                  <span aria-hidden="true">&raquo;</span>
-                </a>
-              </li>
-            </ul>
-            <!-- End Col -->
-          </nav>
-          <!-- End Pagination -->
+
         </div>
         <!-- End Col -->
 
@@ -288,11 +272,11 @@
                }'>
             <div class="mb-7">
               <div class="mb-3">
-                <h4>Odyssey culture</h4>
+                <!-- <h4>Odyssey culture</h4> -->
               </div>
 
-              <div class="d-grid gap-3">
-                <!-- Card -->
+              <!-- <div class="d-grid gap-3">
+
                 <a class="d-block" href="Blogs-articles.php">
                   <div class="d-flex align-items-center">
                     <div class="flex-shrink-0">
@@ -305,9 +289,7 @@
                     </div>
                   </div>
                 </a>
-                <!-- End Card -->
 
-                <!-- Card -->
                 <a class="d-block" href="Blogs-articles.php">
                   <div class="d-flex align-items-center">
                     <div class="flex-shrink-0">
@@ -320,9 +302,7 @@
                     </div>
                   </div>
                 </a>
-                <!-- End Card -->
 
-                <!-- Card -->
                 <a class="d-block" href="Blogs-articles.php">
                   <div class="d-flex align-items-center">
                     <div class="flex-shrink-0">
@@ -335,14 +315,14 @@
                     </div>
                   </div>
                 </a>
-                <!-- End Card -->
-              </div>
+
+              </div> -->
             </div>
           </div>
         </div>
-        <!-- End Col -->
+
       </div>
-      <!-- End Row -->
+
     </div>
     <!-- End Card Grid -->
   </main>

@@ -229,6 +229,7 @@
     </div>
 
     <?php include 'Blog.php'; ?>
+
     <div class="cx-style"
       style="background-color: #1A5AA5; text-align: center; height: 390px; display: flex; align-items: center; justify-content: center;">
       <div>
@@ -290,7 +291,7 @@
 
       // INITIALIZATION OF GO TO
       // =======================================================
-      new HSGoTo(".js-go-to");
+
     })();
   </script>
 </body>
