@@ -13,7 +13,8 @@
           <div class="col-lg-5 mb-7 mb-lg-0">
             <div class="mb-6">
               <h1>Find Top Talent!</h1>
-              <p class="lead">Your search ends here! Odyssey Global is your strategic staffing partner offering agile, flexible, scalable and cost-effective solutions.</p>
+              <p class="lead">Your search ends here! Odyssey Global is your strategic staffing partner offering agile,
+                flexible, scalable and cost-effective solutions.</p>
             </div>
 
             <h5>What to expect?</h5>
@@ -21,10 +22,10 @@
             <!-- List -->
             <ul class="list-checked list-checked-dark mb-6">
               <li class="list-checked-item"> Accelerated time-to-hire</li>
-              <li class="list-checked-item">  Lower cost-to-hire
-</li>
-              <li class="list-checked-item">High-quality hires 
-</li>
+              <li class="list-checked-item"> Lower cost-to-hire
+              </li>
+              <li class="list-checked-item">High-quality hires
+              </li>
             </ul>
             <!-- End List -->
 
@@ -93,89 +94,44 @@
                   <h4>Fill in the form</h4>
 
                   <!-- Form -->
-                  <form>
+                  <form method="post" action="process_form.php">
                     <div class="row gx-3">
-                      <div class="col-sm-6">
-                        <!-- Form -->
-                        <div class="mb-3">
-                          <label class="form-label visually-hidden" for="hireUsFormFirstName">First name</label>
-                          <input type="text" class="form-control form-control-lg" name="hireUsFormNameFirstName"
-                            id="hireUsFormFirstName" placeholder="First name" aria-label="First name">
-                        </div>
-                        <!-- End Form -->
+                      <!-- Form -->
+                      <div class="mb-3">
+                        <label class="form-label visually-hidden" for="fullName">Your Name</label>
+                        <input type="text" class="form-control form-control-lg" name="fullName" id="fullName"
+                          placeholder="Enter your name" aria-label="Your Name">
                       </div>
-
-                      <div class="col-sm-6">
-                        <!-- Form -->
-                        <div class="mb-3">
-                          <label class="form-label visually-hidden" for="hireUsFormLasttName">Last name</label>
-                          <input type="text" class="form-control form-control-lg" name="hireUsFormNameLastName"
-                            id="hireUsFormLasttName" placeholder="Last name" aria-label="Last name">
-                        </div>
-                        <!-- End Form -->
-                      </div>
+                      <!-- End Form -->
                     </div>
                     <!-- End Form -->
-
                     <!-- Form -->
                     <div class="mb-3">
-                      <label class="form-label visually-hidden" for="hireUsFormWorkEmail">Email address</label>
-                      <input type="text" class="form-control form-control-lg" name="hireUsFormNameWorkEmail"
-                        id="hireUsFormWorkEmail" placeholder="email@site.com" aria-label="email@site.com">
+                      <label class="form-label visually-hidden" for="email">Email address</label>
+                      <input type="email" class="form-control form-control-lg" name="email" id="email"
+                        placeholder="Enter your email" aria-label="email@site.com">
                     </div>
                     <!-- End Form -->
-
                     <!-- Form -->
                     <div class="mb-3">
-                      <label class="form-label visually-hidden" for="hireUsFormCompanyName">Company name <span
+                      <label class="form-label visually-hidden" for="phoneNumber">Phone Number<span
                           class="form-label-secondary">(Optional)</span></label>
-                      <input type="text" class="form-control form-control-lg" name="hireUsFormNameCompanyName"
-                        id="hireUsFormCompanyName" placeholder="Htmlstream" aria-label="Htmlstream">
+                      <input type="tel" class="form-control form-control-lg" name="phoneNumber" id="phoneNumber"
+                        placeholder="Enter your phone number" aria-label="Phone number">
                     </div>
                     <!-- End Form -->
-
-                    <!-- Select -->
-                    <div class="mb-3">
-                      <label class="form-label visually-hidden" for="hireUsFormBudget">Budget</label>
-                      <select name="hireUsFormNameBudget" id="hireUsFormBudget" class="form-select form-select-lg"
-                        aria-label="Tell us about your budget">
-                        <option selected>Tell us about your budget</option>
-                        <option value="1">$1,000 - $10,000</option>
-                        <option value="2">$10,000 - $20,000</option>
-                        <option value="3">$20,000 - $30,000</option>
-                        <option value="4">$30,000 - $40,000</option>
-                        <option value="5">$40,000 - $50,000</option>
-                        <option value="6">$50,000 - and more</option>
-                      </select>
-                    </div>
-                    <!-- End Select -->
-
                     <!-- Form -->
                     <div class="mb-3">
-                      <label class="form-label visually-hidden" for="hireUsFormDetails">Details</label>
-                      <textarea class="form-control form-control-lg" name="hireUsFormNameDetails" id="hireUsFormDetails"
-                        placeholder="Tell us about your project" aria-label="Tell us about your project"
-                        rows="4"></textarea>
+                      <label class="form-label visually-hidden" for="message">Message</label>
+                      <textarea class="form-control form-control-lg" name="message" id="message"
+                        placeholder="Your message" aria-label="Your message" rows="4"></textarea>
                     </div>
                     <!-- End Form -->
-
-                    <!-- Checkbox -->
-                    <div class="form-check mb-3">
-                      <input type="checkbox" class="form-check-input" id="signupFormPrivacyCheck"
-                        name="signupFormPrivacyCheck" required data-msg="Please accept our Privacy Policy.">
-                      <label class="form-check-label" for="signupFormPrivacyCheck"> By submitting this form I have read
-                        and acknowledged the <a href=page-privacy.html>Privacy Policy</a></label>
-                    </div>
-                    <!-- End Checkbox -->
-
                     <div class="d-grid mb-2">
                       <button type="submit" class="btn btn-primary btn-lg">Send inquiry</button>
                     </div>
-
-                    <div class="text-center">
-                      <span class="form-text">We'll get back to you in 1-2 business days.</span>
-                    </div>
                   </form>
+
                   <!-- End Form -->
                 </div>
               </div>
