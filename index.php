@@ -36,7 +36,7 @@
   <!-- ========== MAIN CONTENT ========== -->
   <main id="content" role="main">
     <!-- Hero -->
-    <div class="hero-bg">
+    <div class="hero-bg" style="min-height: 650px;">
       <div class="container content-space-t-3">
         <div class="row justify-content-lg-between align-items-lg-center">
           <div class="col-lg-5 mb-5 mb-lg-0">

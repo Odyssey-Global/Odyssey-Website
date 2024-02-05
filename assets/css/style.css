@@ -1,6 +1,6 @@
 .hero-bg {
   background-color: #031f4a;
-  min-height: 95vh;
+  min-height: 650px;
 }
 .fs-3 {
   color: #fff;
@@ -161,7 +161,7 @@
 
 .team-sec {
   background: #eee;
-  padding: 4rem 0rem 0rem;
+  padding: 4rem 0rem;
 }
 
 .cards-gaps {

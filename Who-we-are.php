@@ -98,49 +98,31 @@
 
 
     <!-- Team -->
-    <div class="team-sec">
+    <div class="team-sec" style="padding: 4rem 0rem;">
       <div class="container">
-        <!-- Heading -->
-        <div class="w-lg-65 text-center mx-lg-auto mb-10">
-          <h2>Our Master Mind's</h2>
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6" style="padding-top: 32px;">
+              <h2 class="text-drblue mb-3">Our Ultimate Goal </h2>
+
+              </h5>
+              <p class="mb-3">
+                Our ultimate goal, at Odyssey Global, is to build a future where the organizations drive exceptional
+                value by building high performing teams. To this end, we work to ensure that every organization finds
+                the best-in-class, highly qualified talent in timely, flexible and agile manner, within their budgetary
+                constraints.
+              </p>
+            </div>
+            <div class="col-md-6">
+              <div class="">
+                <img class="img-fluid rounded-3" src="assets/img/purpose.jpg" alt="Image Description" />
+              </div>
+            </div>
+          </div>
+          <div>
+          </div>
         </div>
-        <!-- End Heading -->
-
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3">
-          <div class="col mb-10">
-            <!-- Team -->
-            <div class="w-sm-65 text-center mx-auto">
-              <img class="img-fluid rounded-3 mb-4" src="assets/img/350x350/img4.jpg" alt="Image Description">
-              <h5 class="mb-1">David Forren</h5>
-              <span class="d-block">Founder / CEO</span>
-            </div>
-            <!-- End Team -->
-          </div>
-          <!-- End Col -->
-
-          <div class="col mb-10">
-            <!-- Team -->
-            <div class="w-sm-65 text-center mx-auto">
-              <img class="img-fluid rounded-3 mb-4" src="assets/img/350x350/img5.jpg" alt="Image Description">
-              <h5 class="mb-1">Amil Evara</h5>
-              <span class="d-block">UI/UX Designer</span>
-            </div>
-            <!-- End Team -->
-          </div>
-          <!-- End Col -->
-
-          <div class="col mb-10">
-            <!-- Team -->
-            <div class="w-sm-65 text-center mx-auto">
-              <img class="img-fluid rounded-3 mb-4" src="assets/img/350x350/img9.jpg" alt="Image Description">
-              <h5 class="mb-1">Ebele Egbuna</h5>
-              <span class="d-block">Support Consultant</span>
-            </div>
-            <!-- End Team -->
-          </div>
-
-        </div>
-        <!-- End Row -->
       </div>
     </div>
     <!-- End Team -->
