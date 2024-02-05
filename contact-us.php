@@ -59,13 +59,13 @@
                 <!-- Avatar Group -->
                 <div class="avatar-group avatar-group-sm">
                   <span class="avatar avatar-circle">
-                    <img class="avatar-img" src="assets/img/160x160/img10.jpg" alt="Image Description">
+                    <img class="avatar-img" src="assets/img/img3.jpg" alt="Image Description">
                   </span>
                   <span class="avatar avatar-circle">
-                    <img class="avatar-img" src="assets/img/160x160/img3.jpg" alt="Image Description">
+                    <img class="avatar-img" src="assets/img/img9.jpg" alt="Image Description">
                   </span>
                   <span class="avatar avatar-circle">
-                    <img class="avatar-img" src="assets/img/160x160/img9.jpg" alt="Image Description">
+                    <img class="avatar-img" src="assets/img/img10.jpg" alt="Image Description">
                   </span>
                   <span class="avatar avatar-primary avatar-circle">
                     <span class="avatar-initials">

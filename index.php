@@ -114,17 +114,17 @@
           <div class="col-lg-7 me-auto ms-lg-n10 mb-5 mb-lg-0">
             <div class="row align-items-center">
               <div class="col-4">
-                <img class="img-fluid rounded-3" src="assets/img/580x480/img1.jpg" alt="Image Description" />
+                <img class="img-fluid rounded-3" src="assets/img/img1.jpg" alt="Image Description" />
               </div>
               <!-- End Col -->
 
               <div class="col-3">
-                <img class="img-fluid rounded-3" src="assets/img/350x700/img1.jpg" alt="Image Description" />
+                <img class="img-fluid rounded-3" src="assets/img/homeimg2.jpg" alt="Image Description" />
               </div>
               <!-- End Col -->
 
               <div class="col-5">
-                <img class="img-fluid rounded-3" src="assets/img/400x700/img1.jpg" alt="Image Description" />
+                <img class="img-fluid rounded-3" src="assets/img/homeimg3.jpg" alt="Image Description" />
               </div>
               <!-- End Col -->
             </div>
