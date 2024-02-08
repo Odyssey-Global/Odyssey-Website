@@ -94,7 +94,7 @@
                   <h4>Fill in the form</h4>
 
                   <!-- Form -->
-                  <form method="post" action="process_form.php">
+                  <form id="inquiryForm" method="post" action="">
                     <div class="row gx-3">
                       <!-- Form -->
                       <div class="mb-3">
@@ -131,6 +131,10 @@
                       <button type="submit" class="btn btn-primary btn-lg">Send inquiry</button>
                     </div>
                   </form>
+                  <div id="thankYouMessage" style="display:none;">
+                    Thank you for submitting your inquiry!
+                  </div>
+
 
                   <!-- End Form -->
                 </div>
@@ -190,6 +194,26 @@
 
   <!-- JS Unify -->
   <script src="assets/js/theme.min.js"></script>
+
+  <script>
+    document.getElementById('inquiryForm').addEventListener('submit', function (event) {
+      event.preventDefault(); // Prevent default form submission
+      var form = this;
+      var formData = new FormData(form); // Create form data object
+      var xhr = new XMLHttpRequest(); // Create new XHR object
+
+      xhr.open('POST', 'process_form.php', true); // Open POST request to process_form.php
+      xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+          // When request is completed successfully
+          form.style.display = 'none'; // Hide the form
+          document.getElementById('thankYouMessage').style.display = 'block'; // Show thank you message
+        }
+      };
+      xhr.send(formData); // Send form data
+    });
+  </script>
+
 
   <!-- JS Plugins Init. -->
 
