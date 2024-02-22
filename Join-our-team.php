@@ -22,7 +22,7 @@
                 fueling thriving careers and architecting professional growth.
               </p>
               <div class="d-grid d-sm-flex gap-3 mb-5">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Join Us</a>
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="registerYourSelfOrApply.php">Join Us</a>
               </div>
             </div>
           </div>
@@ -88,7 +88,7 @@
     <!-- Sliding Image -->
     <div class="office-images">
       <div class="sliding-img mb-3">
-        <div class="sliding-img-frame-to-start" style="background-image: url(assets/img/others/img1.png)"></div>
+        <div class="sliding-img-frame-to-start" style="background-image: url(assets/img/img1.png)"></div>
       </div>
       <!-- End Sliding Image -->
 
@@ -184,7 +184,7 @@
               <i class="bi-bell fs-1 text-dark"></i>
             </div>
             <div class="flex-grow-1 ms-5">
-              <h5>Fun @ Work</h5>
+              <h5>Fun@Work</h5>
               <p>Our most important job is to help our customers be successful. We’re detail-oriented and earn their
                 trust through our expertise, integrity, and reliability.</p>
             </div>
@@ -253,7 +253,7 @@
               and skills. You will have an international network, learning diverse
               perspectives and unlock unmatched growth opportunities.</p>
             <div class="d-flex justify-content-center gap-3">
-              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Apply Now</a>
+              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="registerYourSelfOrApply.php">Apply Now</a>
             </div>
           </div>
         </div>

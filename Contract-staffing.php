@@ -18,7 +18,7 @@
                 our tailored, top-notch contract staffing solutions.
               </p>
               <div class="d-sm-flex gap-3 mb-5">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Connect Now</a>
               </div>
             </div>
           </div>
@@ -27,9 +27,9 @@
     </div>
     <!-- End Hero -->
 
-    <div class="About-page">
+    <div class="About-page container">
       <div class="row">
-        <div class="col-md-6 offset-md-3">
+        <div class="col-md-8 offset-md-2">
           <h2>Why Does Your Business Need Contract Staffing?</h2>
           <p>
             Contract staffing helps businesses to hire exceptional talent for a limited duration to fulfill specific
@@ -167,7 +167,7 @@
               </p>
             </div>
 
-            <a class="btn btn-ghost-dark btn-pointer border-button" href="#">Connect wiht us</a>
+            <a class="btn btn-ghost-dark btn-pointer border-button" href="contact-us.php">Connect wiht us</a>
           </div>
           <!-- End Col -->
 
@@ -239,7 +239,7 @@
         <p style="color: white;">Leverage our effective contract staffing solutions to flexibly build agile,</br>
           high-performing teams and experience unprecedented growth.</p>
         <div class="d-flex justify-content-center gap-3">
-          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now
+          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Get in touch now
           </a>
         </div>
       </div>

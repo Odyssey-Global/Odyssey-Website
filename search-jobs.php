@@ -17,7 +17,8 @@
           <span class="d-block text-white mb-3">We're hiring for <span class="fw-bold">72 positions</span> <a
               class="badge bg-dark text-white rounded-pill ms-1" href="#openingsSection">View opening</a></span>
           <h1 class="display-4 text-white">Find Jobs</h1>
-          <p class="lead text-white">Join us or work with a client in jobs that perfectly fit your needs, career goals and professional aspirations.</p>
+          <p class="lead text-white">Join us or work with a client in jobs that perfectly fit your needs, career goals
+            and professional aspirations.</p>
         </div>
       </div>
     </div>
@@ -33,7 +34,8 @@
         <!-- Heading -->
         <div class="w-lg-65 text-center mx-lg-auto mb-5 mb-sm-7 mb-lg-10">
           <h2>Explore opportunities</h2>
-          <p>We're looking for passionate, self-motivated and highly skilled professionals to join us and/or work with clients. Find and apply for job opportunities that align with your needs and values.</p>
+          <p>We're looking for passionate, self-motivated and highly skilled professionals to join us and/or work with
+            clients. Find and apply for job opportunities that align with your needs and values.</p>
         </div>
         <!-- End Heading -->
 
@@ -59,7 +61,7 @@
                 <!-- End Col -->
 
                 <div class="col-sm-2 text-sm-end">
-                  <span class="link link-pointer" >Apply</span>
+                  <span class="link link-pointer">Apply</span>
                 </div>
                 <!-- End Col -->
               </div>
@@ -88,7 +90,7 @@
                 <!-- End Col -->
 
                 <div class="col-sm-2 text-sm-end">
-                  <span class="link link-pointer" >Apply</span>
+                  <span class="link link-pointer">Apply</span>
                 </div>
                 <!-- End Col -->
               </div>
@@ -188,9 +190,10 @@
         </div>
 
         <div class="w-lg-65 text-center mx-lg-auto mt-7">
-          <p>Don't see a role that interests you? Register now with your interest and we'll notify you new roles that match your criteria.</p>
+          <p>Don't see a role that interests you? Register now with your interest and we'll notify you new roles that
+            match your criteria.</p>
 
-                     <a class="btn btn-primary" href="registerYourSelfOrApply.php">Register your interest</a>
+          <a class="btn btn-primary" href="registerYourSelfOrApply.php">Register your interest</a>
         </div>
       </div>
     </div>

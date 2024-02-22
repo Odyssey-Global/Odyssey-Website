@@ -214,3 +214,7 @@
 .p-30 {
   padding: 0px 30px !important;
 }
+
+.text-over-bg {
+  --bs-bg-opacity: 0.9 !important;
+}

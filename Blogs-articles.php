@@ -52,8 +52,9 @@
       <div class="row mb-5">
         <div class="col-md-10 col-lg-8 offset-md-1 offset-lg-2">
           <figure class="blockquote-lg text-center mb-3">
-            <blockquote class="blockquote">“ A closer look at key the latest trends in the post-pandemic era that are influencing how and where we work. 
- “</blockquote>
+            <blockquote class="blockquote">“ A closer look at key the latest trends in the post-pandemic era that are
+              influencing how and where we work.
+              “</blockquote>
           </figure>
         </div>
         <!-- End Col -->
@@ -62,16 +63,17 @@
 
       <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
-       <p>2020 was a landmark year that led to paradigm shifts in the world of work across the globe. 
-        The Covid-19 pandemic created a sea of changes in the way people look at work and life in general.
-         Further, the complexities and dynamism of markets are increasing. As a result, the nature of work
-          and the workplace is changing at a rapid pace to accommodate shifting employee exceptions and 
-          market demands. And Canada is no exception to the rule. 
-From rapid technological advancements and widening skill gaps to increasing demand for 
-flexibility and the rising popularity of contract work and remote work, certain key trends are 
-influencing the future of work in Canada. Businesses need to adapt to these trends and make changes 
-       in their staffing strategies. In doing so, they can drive competitive advantages and thrive in the ever-evolving, dynamic business landscape. 
-In this blog, we will take a closer look at 5 key trends shaping the future of work in Canada.  </p> 
+          <p>2020 was a landmark year that led to paradigm shifts in the world of work across the globe.
+            The Covid-19 pandemic created a sea of changes in the way people look at work and life in general.
+            Further, the complexities and dynamism of markets are increasing. As a result, the nature of work
+            and the workplace is changing at a rapid pace to accommodate shifting employee exceptions and
+            market demands. And Canada is no exception to the rule.
+            From rapid technological advancements and widening skill gaps to increasing demand for
+            flexibility and the rising popularity of contract work and remote work, certain key trends are
+            influencing the future of work in Canada. Businesses need to adapt to these trends and make changes
+            in their staffing strategies. In doing so, they can drive competitive advantages and thrive in the
+            ever-evolving, dynamic business landscape.
+            In this blog, we will take a closer look at 5 key trends shaping the future of work in Canada. </p>
 
         </div>
         <!-- End Col -->
@@ -88,27 +90,36 @@ In this blog, we will take a closer look at 5 key trends shaping the future of w
 
       <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
-          <h5>Technological Advancements & the Widening Skill Gap 
-</h5>
+          <h5>Technological Advancements & the Widening Skill Gap
+          </h5>
 
-          <p>Technology is advancing at an accelerated pace and is disrupting the world of work in more ways than one. 
-            Advanced technology such as intelligent automation, Artificial Intelligence (AI), Machine Learning (ML), robotics,
-             and big data, among others is now being used widely across industries. Such technologies are creating a paradigm shift 
-             in how work is done. 
-</p>
+          <p>Technology is advancing at an accelerated pace and is disrupting the world of work in more ways than one.
+            Advanced technology such as intelligent automation, Artificial Intelligence (AI), Machine Learning (ML),
+            robotics,
+            and big data, among others is now being used widely across industries. Such technologies are creating a
+            paradigm shift
+            in how work is done.
+          </p>
 
-<p>While technology will cause job loss, it will also add new jobs and change the nature of jobs that remain. This trend is already 
-  underway and is disrupting the labor market. New jobs and careers are already emerging across sectors, and specialized skills 
-  are in high demand. </p>
+          <p>While technology will cause job loss, it will also add new jobs and change the nature of jobs that remain.
+            This trend is already
+            underway and is disrupting the labor market. New jobs and careers are already emerging across sectors, and
+            specialized skills
+            are in high demand. </p>
 
-  <p>Secondly, there is an increasing adoption of automation and AI by businesses to remove repetitive, low-value, manual jobs,
-     freeing up employee bandwidth. Employees can use the time saved on innovation, strategy and other high-value activities 
-     that need their skills and expertise. </p>
-     <p>Thirdly, technological advancements are also transforming the skills required by organizations. The demand for skills 
-      isn’t adequately met by a supply of skilled professionals, leading to a widening skill gap. 
-      In the face of the skill gap, organizations are investing in learning and development initiatives to upskill and reskill 
-      employees to keep pace with rapidly evolving technology. It is also in the best interest of individuals in the job market to 
-      upskill and reskill themselves to improve their chances of getting hired. </p>
+          <p>Secondly, there is an increasing adoption of automation and AI by businesses to remove repetitive,
+            low-value, manual jobs,
+            freeing up employee bandwidth. Employees can use the time saved on innovation, strategy and other high-value
+            activities
+            that need their skills and expertise. </p>
+          <p>Thirdly, technological advancements are also transforming the skills required by organizations. The demand
+            for skills
+            isn’t adequately met by a supply of skilled professionals, leading to a widening skill gap.
+            In the face of the skill gap, organizations are investing in learning and development initiatives to upskill
+            and reskill
+            employees to keep pace with rapidly evolving technology. It is also in the best interest of individuals in
+            the job market to
+            upskill and reskill themselves to improve their chances of getting hired. </p>
         </div>
         <!-- End Col -->
       </div>
@@ -116,32 +127,42 @@ In this blog, we will take a closer look at 5 key trends shaping the future of w
 
       <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
-          <h5>The Increasing Focus on Flexibility 
-</h5>
+          <h5>The Increasing Focus on Flexibility
+          </h5>
 
           <p>Ever since 2020, there has been an increasing demand for flexibility among employees.
-             Job flexibility, whether in terms of flexi shifts or flexi workweek, helps employees maintain a 
-             healthy work-life balance. It has several physical, mental and emotional benefits. It helps in reducing
-              stress and improving the overall well-being of employees.</p>
+            Job flexibility, whether in terms of flexi shifts or flexi workweek, helps employees maintain a
+            healthy work-life balance. It has several physical, mental and emotional benefits. It helps in reducing
+            stress and improving the overall well-being of employees.</p>
 
-          <p>While employers are increasingly offering job flexibility to white-collar/ office workers, blue- and grey-collar
-             workers don’t enjoy the same benefits. But it is as important a consideration to non-office workers as office workers.</p>
+          <p>While employers are increasingly offering job flexibility to white-collar/ office workers, blue- and
+            grey-collar
+            workers don’t enjoy the same benefits. But it is as important a consideration to non-office workers as
+            office workers.</p>
 
-            <p>In fact, 46% of non-office workers believe that flexibility is as important or more important than their compensation.
-               39% of these workers end up using medical leave to manage personal responsibilities. 30% even left their job due to lack 
-               of flexibility. </p>
-               <p>There is a need for a shift in management philosophy towards a result-focused measurement of performance rather than 
-                the physical presence of employees. It requires more employers to understand that employees can 
-                be successful while working in flexible environments. </p>
-                <p>For improved equity in the workplace and retention of top talent in the office and non-office workforce, employers 
-                  must redefine work for non-office workers, expanding the scope to include tasks that can be performed offsite.
-                   They must offer enhanced support to non-office workers to help them meet their personal obligations including care work.
-                    Employers should also establish holistic wellness plans to help non-office workers reduce their stress levels and build a healthier,
-                     more productive workforce. </p>
+          <p>In fact, 46% of non-office workers believe that flexibility is as important or more important than their
+            compensation.
+            39% of these workers end up using medical leave to manage personal responsibilities. 30% even left their job
+            due to lack
+            of flexibility. </p>
+          <p>There is a need for a shift in management philosophy towards a result-focused measurement of performance
+            rather than
+            the physical presence of employees. It requires more employers to understand that employees can
+            be successful while working in flexible environments. </p>
+          <p>For improved equity in the workplace and retention of top talent in the office and non-office workforce,
+            employers
+            must redefine work for non-office workers, expanding the scope to include tasks that can be performed
+            offsite.
+            They must offer enhanced support to non-office workers to help them meet their personal obligations
+            including care work.
+            Employers should also establish holistic wellness plans to help non-office workers reduce their stress
+            levels and build a healthier,
+            more productive workforce. </p>
 
-                     <p>Job flexibility is a significant factor for a growing number of candidates, especially among millennials and Gen Z. 
-                      So, employers need to redesign strategies to offer greater flexibility to employees to stay competitive 
-                      in the job market and retain top-quality talent. </p>
+          <p>Job flexibility is a significant factor for a growing number of candidates, especially among millennials
+            and Gen Z.
+            So, employers need to redesign strategies to offer greater flexibility to employees to stay competitive
+            in the job market and retain top-quality talent. </p>
         </div>
         <!-- End Col -->
       </div>
@@ -159,46 +180,71 @@ In this blog, we will take a closer look at 5 key trends shaping the future of w
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
           <h5>The Mainstreaming of Remote and Hybrid Work </h5>
 
-          <p>Remote and hybrid work used to be a good-to-have in the pre-pandemic era with only a handful of companies offering these options. 
-            The pandemic showed both employees and employers that work can happen anywhere, thanks to the rapidly advancing technology.
-             Today, remote and hybrid work models have become mainstream with more companies establishing formal work-from-home policies
-              and offering remote/hybrid work options. </p>
+          <p>Remote and hybrid work used to be a good-to-have in the pre-pandemic era with only a handful of companies
+            offering these options.
+            The pandemic showed both employees and employers that work can happen anywhere, thanks to the rapidly
+            advancing technology.
+            Today, remote and hybrid work models have become mainstream with more companies establishing formal
+            work-from-home policies
+            and offering remote/hybrid work options. </p>
 
           <p>Offering hybrid and remote work options boosts the morale of employees and keeps the workforce happier,
-             healthier and more productive. It enables employers to stay competitive in the job market and improve 
-             their chances of attracting and retaining the best talent.</p>
+            healthier and more productive. It enables employers to stay competitive in the job market and improve
+            their chances of attracting and retaining the best talent.</p>
 
-          <p>While remote/hybrid work improves job flexibility and boosts employee satisfaction levels, employers 
+          <p>While remote/hybrid work improves job flexibility and boosts employee satisfaction levels, employers
             need to ensure that employees still have a sense of belonging. Employees’ need for mentoring,
-             networking and personal connections should be fulfilled while offering the choice to work from wherever they are. </p>
+            networking and personal connections should be fulfilled while offering the choice to work from wherever they
+            are. </p>
         </div>
         <!-- End Col -->
       </div>
       <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
-          <h5>The Rising Popularity of Contract Work 
- </h5>
+          <h5>The Rising Popularity of Contract Work
+          </h5>
 
-          <p>The rise of the gig economy, a tight labor market, a widening skill gap and the demand for flexibility have led to the rising popularity of contract work. Contract work has powerful benefits for employees and employers. </p>
+          <p>The rise of the gig economy, a tight labor market, a widening skill gap and the demand for flexibility have
+            led to the rising popularity of contract work. Contract work has powerful benefits for employees and
+            employers. </p>
 
-          <p>For employees, there is greater flexibility when they can choose employers and roles. They can work with more than one employer at a time or shift more smoothly between employers. They can strengthen and develop a specialized skillset. They can build strong networks and relationships across the industry. </p>
+          <p>For employees, there is greater flexibility when they can choose employers and roles. They can work with
+            more than one employer at a time or shift more smoothly between employers. They can strengthen and develop a
+            specialized skillset. They can build strong networks and relationships across the industry. </p>
 
-          <p>For employers, contract work helps them reduce labor shortages and fill in positions in an accelerated manner. They can quickly fill skill gaps and have the flexibility to offer long- and short-term contracts to professionals. For SMEs and startups, they can access highly specialized skills without making a permanent hire, saving significantly on their compensation bills. </p>
-             <p>By employing the services of strategic contract staffing agencies like Odyssey Global, employers gain access to a global pool of highly qualified professionals. Odyssey Global not only matches great talent with the employer but takes care of onboarding and training. With staffing partners like Odyssey, employers can infuse greater agility, scalability and efficiency into the hiring process, hitting the ground running on critical projects. </p>
-              
+          <p>For employers, contract work helps them reduce labor shortages and fill in positions in an accelerated
+            manner. They can quickly fill skill gaps and have the flexibility to offer long- and short-term contracts to
+            professionals. For SMEs and startups, they can access highly specialized skills without making a permanent
+            hire, saving significantly on their compensation bills. </p>
+          <p>By employing the services of strategic contract staffing agencies like Odyssey Global, employers gain
+            access to a global pool of highly qualified professionals. Odyssey Global not only matches great talent with
+            the employer but takes care of onboarding and training. With staffing partners like Odyssey, employers can
+            infuse greater agility, scalability and efficiency into the hiring process, hitting the ground running on
+            critical projects. </p>
+
         </div>
         <!-- End Col -->
       </div>
       <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
-          <h5>Demographic Shifts and Growing Labor Shortages  </h5>
+          <h5>Demographic Shifts and Growing Labor Shortages </h5>
 
-          <p>Canada is undergoing demographic shifts leading to an aging population, increasing average age of the workforce, and increasing retirements. This is creating a massive labor shortage in the country and the loss of skills. Data suggests that Canada will have 4.4 million job vacancies in the future owing to demographic shifts and the aging workforce.  </p>
+          <p>Canada is undergoing demographic shifts leading to an aging population, increasing average age of the
+            workforce, and increasing retirements. This is creating a massive labor shortage in the country and the loss
+            of skills. Data suggests that Canada will have 4.4 million job vacancies in the future owing to demographic
+            shifts and the aging workforce. </p>
 
-          <p>To navigate the growing labor shortage and skill deficit, employers need to redesign their staffing strategies.  They must encourage more labor force participation from among underrepresented groups including indigenous groups, older workers, women from marginalized backgrounds and so on while strengthening their diversity, inclusion and equity (DEI) policies. They must access workers from beyond their local labor markets and find talent from diverse, global talent pools. </p>
+          <p>To navigate the growing labor shortage and skill deficit, employers need to redesign their staffing
+            strategies. They must encourage more labor force participation from among underrepresented groups including
+            indigenous groups, older workers, women from marginalized backgrounds and so on while strengthening their
+            diversity, inclusion and equity (DEI) policies. They must access workers from beyond their local labor
+            markets and find talent from diverse, global talent pools. </p>
 
-          <p>With premier staffing agencies like Odyssey Global, employers can effortlessly access such diverse talent pools and fill in vacancies at an accelerated pace. </p>
-             <p>These are the 5 key trends that will shape the future of work in Canada. Organizations need to relook and redesign their staffing and HR strategies to adapt to these trends to more effectively navigate the ever-evolving business landscape and drive competitive advantage.  </p>
+          <p>With premier staffing agencies like Odyssey Global, employers can effortlessly access such diverse talent
+            pools and fill in vacancies at an accelerated pace. </p>
+          <p>These are the 5 key trends that will shape the future of work in Canada. Organizations need to relook and
+            redesign their staffing and HR strategies to adapt to these trends to more effectively navigate the
+            ever-evolving business landscape and drive competitive advantage. </p>
         </div>
         <!-- End Col -->
       </div>
@@ -221,10 +267,10 @@ In this blog, we will take a closer look at 5 key trends shaping the future of w
           <p>Good luck, you’ve totally got this.</p>
         </div>
         <!-- End Col -->
-      </div> -->
-      <!-- End Row -->
+    </div> -->
+    <!-- End Row -->
 
-      <!-- <div class="row mb-3">
+    <!-- <div class="row mb-3">
         <div class="col-10 col-md-8 col-lg-6 offset-1 offset-md-2 offset-lg-3">
           <div class="row">
             <div class="col-lg-6 mb-5 mb-lg-0">
@@ -282,86 +328,11 @@ In this blog, we will take a closer look at 5 key trends shaping the future of w
     
         </div>        
       </div> -->
-      <!-- End Row -->
+    <!-- End Row -->
     </div>
     <!-- End Description -->
 
-    <!-- Card Grid -->
-    <div class="container content-space-b-2 content-space-b-lg-3">
-      <!-- Heading -->
-      <div class="w-lg-65 text-center mx-lg-auto mb-7">
-        <h3>Related articles</h3>
-      </div>
-      <!-- End Heading -->
 
-      <div class="row">
-        <div class="col-sm-6 col-md-4 mb-5 mb-md-0">
-          <!-- Card -->
-          <a class="card card-ghost card-transition-zoom h-100" href="blog-article.html">
-            <div class="card-transition-zoom-item">
-              <img class="card-img" src="assets/img/580x480/img1.jpg" alt="Image Description">
-            </div>
-
-            <div class="card-body">
-              <h4>Virtual Venue</h4>
-              <p class="card-text">Create an immersive attendee experience with interactive programming for both digital
-                and onsite audiences</p>
-            </div>
-
-            <div class="card-footer-blog">
-              <span class="card-link">Explore Virtual Venue</span>
-            </div>
-          </a>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-
-        <div class="col-sm-6 col-md-4 mb-5 mb-md-0">
-          <!-- Card -->
-          <a class="card card-ghost card-transition-zoom h-100" href="blog-article.html">
-            <div class="card-pinned card-transition-zoom-item">
-              <img class="card-img" src="assets/img/580x480/img2.jpg" alt="Image Description">
-              <span class="badge bg-dark text-white card-pinned-top-end">Sponsored</span>
-            </div>
-
-            <div class="card-body">
-              <h4>Studio by Htmlstream</h4>
-              <p class="card-text">Produce professional, reliable streams easily leveraging Htmlstream's innovative
-                broadcast studio</p>
-            </div>
-
-            <div class="card-footer-blog">
-              <span class="card-link">Explore Studio</span>
-            </div>
-          </a>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-
-        <div class="col-sm-6 col-md-4">
-          <!-- Card -->
-          <a class="card card-ghost card-transition-zoom h-100" href="blog-article.html">
-            <div class="card-transition-zoom-item">
-              <img class="card-img" src="assets/img/580x480/img3.jpg" alt="Image Description">
-            </div>
-
-            <div class="card-body">
-              <h4>Onsite</h4>
-              <p class="card-text">Optimize your in-person experience with best-in-class capabilities like badge
-                printing and lead retrieval</p>
-            </div>
-
-            <div class="card-footer-blog">
-              <span class="card-link">Explore Onsite</span>
-            </div>
-          </a>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-      </div>
-      <!-- End Row -->
-    </div>
-    <!-- End Card Grid -->
   </main>
   <!-- ========== END MAIN CONTENT ========== -->
 

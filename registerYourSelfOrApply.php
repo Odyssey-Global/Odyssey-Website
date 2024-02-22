@@ -12,46 +12,22 @@
         <div class="row justify-content-lg-between align-items-lg-center">
           <div class="col-lg-5 mb-7 mb-lg-0">
             <div class="mb-6">
-              <h1>Apply </h1>
-              <p class="lead">Your search ends here! Odyssey Global is your strategic staffing partner offering agile,
-                flexible, scalable and cost-effective solutions.</p>
+              <h1>Apply for a Career with Us</h1>
+              <p class="lead">Apply now to join our team and embark on a fulfilling career journey with us!</p>
             </div>
 
             <h5>What to expect?</h5>
 
             <!-- List -->
             <ul class="list-checked list-checked-dark mb-6">
-              <li class="list-checked-item"> Accelerated time-to-hire</li>
-              <li class="list-checked-item"> Lower cost-to-hire
+              <li class="list-checked-item"> Faster time-to-job</li>
+              <li class="list-checked-item"> Reduced expenses during job search
               </li>
-              <li class="list-checked-item">High-quality hires
+              <li class="list-checked-item">Access to high-quality employment opportunities
               </li>
             </ul>
             <!-- End List -->
 
-            <h6>Enjoyed by</h6>
-
-            <div class="row mb-4">
-              <div class="col py-2">
-                <img class="avatar avatar-lg avatar-4x3" src="assets/svg/brands/capsule-gray.svg" alt="Logo">
-              </div>
-              <!-- End Col -->
-
-              <div class="col py-2">
-                <img class="avatar avatar-lg avatar-4x3" src="assets/svg/brands/gitlab-gray.svg" alt="Logo">
-              </div>
-              <!-- End Col -->
-
-              <div class="col py-2">
-                <img class="avatar avatar-lg avatar-4x3" src="assets/svg/brands/fitbit-gray.svg" alt="Logo">
-              </div>
-              <!-- End Col -->
-
-              <div class="col py-2">
-                <img class="avatar avatar-lg avatar-4x3" src="assets/svg/brands/sass-gray.svg" alt="Logo">
-              </div>
-              <!-- End Col -->
-            </div>
             <!-- End Row -->
 
             <div class="row align-items-center">
@@ -78,7 +54,7 @@
               <!-- End Col -->
 
               <div class="col-auto">
-                <span class="d-block fs-5">Trusted by over 37k customer</span>
+                <span class="d-block fs-5">Trusted by over 57k Job Seekers</span>
               </div>
               <!-- End Col -->
             </div>
@@ -198,7 +174,7 @@
   <script>
     document.getElementById('inquiryForm').addEventListener('submit', function (event) {
       event.preventDefault(); // Prevent default form submission
-      
+
       var form = this;
       var formData = new FormData(form); // Create form data object
       formData.append('additionalProperty', 'From Apply');

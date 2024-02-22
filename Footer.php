@@ -53,7 +53,7 @@
           <!-- End Col -->
 
           <div class="col-6 col-sm-4 col-lg mb-7 mb-lg-0">
-            <span class="text-cap text-white">Biusiness</span>
+            <span class="text-cap text-white">Businesses</span>
 
             <!-- List -->
             <ul class="list-unstyled list-py-1 mb-0">
