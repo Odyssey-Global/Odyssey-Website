@@ -71,42 +71,48 @@
 
                   <!-- Form -->
                   <form id="inquiryForm" method="post" action="">
-                    <div class="row gx-3">
-                      <!-- Form -->
-                      <div class="mb-3">
-                        <label class="form-label visually-hidden" for="fullName">Your Name</label>
-                        <input type="text" class="form-control form-control-lg" name="fullName" id="fullName"
-                          placeholder="Enter your name" aria-label="Your Name">
-                      </div>
-                      <!-- End Form -->
-                    </div>
-                    <!-- End Form -->
-                    <!-- Form -->
-                    <div class="mb-3">
-                      <label class="form-label visually-hidden" for="email">Email address</label>
-                      <input type="email" class="form-control form-control-lg" name="email" id="email"
-                        placeholder="Enter your email" aria-label="email@site.com">
-                    </div>
-                    <!-- End Form -->
-                    <!-- Form -->
-                    <div class="mb-3">
-                      <label class="form-label visually-hidden" for="phoneNumber">Phone Number<span
-                          class="form-label-secondary">(Optional)</span></label>
-                      <input type="tel" class="form-control form-control-lg" name="phoneNumber" id="phoneNumber"
-                        placeholder="Enter your phone number" aria-label="Phone number">
-                    </div>
-                    <!-- End Form -->
-                    <!-- Form -->
-                    <div class="mb-3">
-                      <label class="form-label visually-hidden" for="message">Message</label>
-                      <textarea class="form-control form-control-lg" name="message" id="message"
-                        placeholder="Your message" aria-label="Your message" rows="4"></textarea>
-                    </div>
-                    <!-- End Form -->
-                    <div class="d-grid mb-2">
-                      <button type="submit" class="btn btn-primary btn-lg">Apply</button>
-                    </div>
-                  </form>
+    <div class="row gx-3">
+        <!-- Form -->
+        <div class="mb-3">
+            <label class="form-label visually-hidden" for="fullName">Your Name</label>
+            <input type="text" class="form-control form-control-lg" name="fullName" id="fullName"
+                   placeholder="Enter your name" aria-label="Your Name" required>
+            <div id="fullNameError" class="error-message" style="color:red"></div>
+        </div>
+        <!-- End Form -->
+    </div>
+    <!-- End Form -->
+    <!-- Form -->
+    <div class="mb-3">
+        <label class="form-label visually-hidden" for="email">Email address</label>
+        <input type="email" class="form-control form-control-lg" name="email" id="email"
+               placeholder="Enter your email" aria-label="email@site.com" required>
+        <div id="emailError" class="error-message" style="color:red"></div>
+    </div>
+    <!-- End Form -->
+    <!-- Form -->
+    <div class="mb-3">
+        <label class="form-label visually-hidden" for="phoneNumber">Phone Number<span
+                class="form-label-secondary">(Optional)</span></label>
+        <input type="tel" class="form-control form-control-lg" name="phoneNumber" id="phoneNumber"
+               placeholder="Enter your phone number" aria-label="Phone number">
+    </div>
+    <!-- End Form -->
+    <!-- Form -->
+    <div class="mb-3">
+        <label class="form-label visually-hidden" for="message">Message</label>
+        <textarea class="form-control form-control-lg" name="message" id="message"
+                  placeholder="Your message" aria-label="Your message" rows="4" required></textarea>
+        <div id="messageError" class="error-message" style="color:red"></div>
+    </div>
+    <!-- End Form -->
+    <div class="d-grid mb-2">
+        <button type="submit" class="btn btn-primary btn-lg" onclick="validateForm()">Apply</button>
+    </div>
+</form>
+
+ 
+
                   <div id="thankYouMessage" style="display:none;">
                     Thank you for submitting your inquiry!
                   </div>
@@ -170,27 +176,62 @@
 
   <!-- JS Unify -->
   <script src="assets/js/theme.min.js"></script>
-
   <script>
-    document.getElementById('inquiryForm').addEventListener('submit', function (event) {
-      event.preventDefault(); // Prevent default form submission
+    function validateForm() {
+        var fullName = document.getElementById('fullName').value.trim();
+        var email = document.getElementById('email').value.trim();
+        var message = document.getElementById('message').value.trim();
+        var valid = true;
 
-      var form = this;
-      var formData = new FormData(form); // Create form data object
-      formData.append('additionalProperty', 'From Apply');
-      var xhr = new XMLHttpRequest(); // Create new XHR object
-
-      xhr.open('POST', 'process_form.php', true); // Open POST request to process_form.php
-      xhr.onreadystatechange = function () {
-        if (xhr.readyState === 4 && xhr.status === 200) {
-          // When request is completed successfully
-          form.style.display = 'none'; // Hide the form
-          document.getElementById('thankYouMessage').style.display = 'block'; // Show thank you message
+        if (fullName === '') {
+            document.getElementById('fullNameError').innerText = 'Please enter your name';
+            valid = false;
+        } else {
+            document.getElementById('fullNameError').innerText = '';
         }
-      };
-      xhr.send(formData); // Send form data
+
+        if (email === '') {
+            document.getElementById('emailError').innerText = 'Please enter your email';
+            valid = false;
+        } else {
+            document.getElementById('emailError').innerText = '';
+        }
+
+        if (message === '') {
+            document.getElementById('messageError').innerText = 'Please enter your message';
+            valid = false;
+        } else {
+            document.getElementById('messageError').innerText = '';
+        }
+
+        return valid;
+    }
+ 
+    document.getElementById('inquiryForm').addEventListener('submit', function (event) {
+        event.preventDefault();  
+
+        // Validate the form
+        if (!validateForm()) {
+            return;  
+        }
+      
+        var form = this;
+        var formData = new FormData(form);  
+        formData.append('additionalProperty', 'From Apply');
+        var xhr = new XMLHttpRequest();  
+
+        xhr.open('POST', 'process_form.php', true);  
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                // When request is completed successfully
+                form.style.display = 'none'; // Hide the form
+                document.getElementById('thankYouMessage').style.display = 'block'; // Show thank you message
+            }
+        };
+        xhr.send(formData); // Send form data
     });
-  </script>
+</script>
+
 
 
   <!-- JS Plugins Init. -->
