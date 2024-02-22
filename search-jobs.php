@@ -40,7 +40,7 @@
 
         <div class="d-grid gap-3">
           <!-- Card -->
-          <a class="card" href="page-careers-role-overview.html">
+          <a class="card" href="registerYourSelfOrApply.php">
             <div class="card-body">
               <div class="row">
                 <div class="col-md-4 mb-2 mb-md-0">
@@ -59,7 +59,7 @@
                 <!-- End Col -->
 
                 <div class="col-sm-2 text-sm-end">
-                  <span class="link link-pointer">Apply</span>
+                  <span class="link link-pointer" >Apply</span>
                 </div>
                 <!-- End Col -->
               </div>
@@ -69,7 +69,7 @@
           <!-- End Card -->
 
           <!-- Card -->
-          <a class="card" href="page-careers-role-overview.html">
+          <a class="card" href="registerYourSelfOrApply.php">
             <div class="card-body">
               <div class="row">
                 <div class="col-md-4 mb-2 mb-md-0">
@@ -88,7 +88,7 @@
                 <!-- End Col -->
 
                 <div class="col-sm-2 text-sm-end">
-                  <span class="link link-pointer">Apply</span>
+                  <span class="link link-pointer" >Apply</span>
                 </div>
                 <!-- End Col -->
               </div>
@@ -98,7 +98,7 @@
           <!-- End Card -->
 
           <!-- Card -->
-          <a class="card" href="page-careers-role-overview.html">
+          <a class="card" href="registerYourSelfOrApply.php">
             <div class="card-body">
               <div class="row">
                 <div class="col-md-4 mb-2 mb-md-0">
@@ -128,7 +128,7 @@
           <!-- End Card -->
 
           <!-- Card -->
-          <a class="card" href="page-careers-role-overview.html">
+          <a class="card" href="registerYourSelfOrApply.php">
             <div class="card-body">
               <div class="row">
                 <div class="col-md-4 mb-2 mb-md-0">
@@ -157,7 +157,7 @@
           <!-- End Card -->
 
           <!-- Card -->
-          <a class="card" href="page-careers-role-overview.html">
+          <a class="card" href="registerYourSelfOrApply.php">
             <div class="card-body">
               <div class="row">
                 <div class="col-md-4 mb-2 mb-md-0">
@@ -188,9 +188,9 @@
         </div>
 
         <div class="w-lg-65 text-center mx-lg-auto mt-7">
-          <p>Don't worry if you don't see any roles you want to apply for now. Register your interest to be notified of
-            any roles that come along that meet your criteria.</p>
-          <a class="btn btn-primary" href="contact-us.php">Register your interest</a>
+          <p>Don't see a role that interests you? Register now with your interest and we'll notify you new roles that match your criteria.</p>
+
+                     <a class="btn btn-primary" href="registerYourSelfOrApply.php">Register your interest</a>
         </div>
       </div>
     </div>

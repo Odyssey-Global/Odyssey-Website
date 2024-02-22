@@ -11,8 +11,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // Now you can do whatever you want with this data, like saving it to a database or sending it via email
     // For example, you could send an email
+
+    if(isset($_POST['additionalProperty'])) {
+              $to = "hr@odysseyca.com";  
+    } else {
+                $to = "hi@unlimiteddesign.in";  
+    }
     $from = "odyssey global";
-    $to = "hi@unlimiteddesign.in";
+    // $to = "hi@unlimiteddesign.in";
     $subject = "New Inquiry";
     $messageBody = "Name: $fullName\n";
     $messageBody .= "Email: $email\n";
