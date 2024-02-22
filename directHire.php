@@ -18,7 +18,7 @@
                 But without guesswork & stress with our strategic direct hiring solutions.
               </p>
               <div class="d-sm-flex gap-3 mb-5">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Connect Now</a>
               </div>
             </div>
           </div>
@@ -27,9 +27,9 @@
     </div>
     <!-- End Hero -->
 
-    <div class="About-page">
+    <div class="About-page container">
       <div class="row">
-        <div class="col-md-6 offset-md-3">
+        <div class="col-md-8 offset-md-2">
           <h2>Why Partner with a Staffing Partner for Direct Hiring?
           </h2>
           <p>
@@ -165,7 +165,7 @@
                 developing tailored strategies to help you find the best talent for permanent positions. </p>
             </div>
 
-            <a class="btn btn-ghost-dark btn-pointer border-button" href="#">Connect wiht us</a>
+            <a class="btn btn-ghost-dark btn-pointer border-button" href="contact-us.php">Connect wiht us</a>
           </div>
           <!-- End Col -->
 
@@ -233,7 +233,7 @@
         <p style="color: white;">Leverage our tailored strategic staffing solutions to build an agile,<br />
           high-performing workforce at an accelerated pace without compromising on the quality & cost of hires. </p>
         <div class="d-flex justify-content-center gap-3">
-          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now
+          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Get in touch now
           </a>
         </div>
       </div>

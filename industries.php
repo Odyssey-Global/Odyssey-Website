@@ -19,7 +19,7 @@
                 sectors but we specialize in staffing for certain industries.
               </p>
               <div class="d-sm-flex gap-3 mb-5">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect now </a>
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Connect now </a>
               </div>
             </div>
           </div>
@@ -28,9 +28,9 @@
     </div>
     <!-- End Hero -->
 
-    <div class="About-page">
+    <div class="About-page container">
       <div class="row">
-        <div class="col-md-6 offset-md-3">
+        <div class="col-md-8 offset-md-2">
           <h2>How Does Temp to Perm Staffing Help Your Business?
           </h2>
           <p>
@@ -165,7 +165,7 @@
               </p>
             </div>
 
-            <a class="btn btn-ghost-dark btn-pointer border-button" href="#">Connect wiht us</a>
+            <a class="btn btn-ghost-dark btn-pointer border-button" href="contact-us.php">Connect wiht us</a>
           </div>
           <!-- End Col -->
 
@@ -232,7 +232,7 @@
           challenges, <br />
           and industry best practices, enabling you to boost your hiring ROI.</p>
         <div class="d-flex justify-content-center gap-3">
-          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now</a>
+          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Get in touch now</a>
         </div>
       </div>
     </div>

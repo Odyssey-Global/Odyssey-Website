@@ -18,7 +18,7 @@
                 critical skills using our effective temp to perm staffing solutions.
               </p>
               <div class="d-sm-flex gap-3 mb-5">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Connect Now</a>
               </div>
             </div>
           </div>
@@ -27,9 +27,9 @@
     </div>
     <!-- End Hero -->
 
-    <div class="About-page">
+    <div class="About-page container">
       <div class="row">
-        <div class="col-md-6 offset-md-3">
+        <div class="col-md-8 offset-md-2">
           <h2>How Does Temp to Perm Staffing Help Your Business?
           </h2>
           <p>
@@ -53,8 +53,7 @@
             <div class="col-lg-7 order-lg-2 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75 ms-auto">
-                  <img class="img-fluid rounded-3" src="assets/img/banner-busines/temptoperm1.png"
-                    alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/temp2.webp" alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -109,8 +108,7 @@
             <div class="col-lg-7 mb-5 mb-lg-0">
               <div class="position-relative">
                 <div class="w-75">
-                  <img class="img-fluid rounded-3" src="assets/img/banner-busines/temptoperm2.png"
-                    alt="Image Description" />
+                  <img class="img-fluid rounded-3" src="assets/img/temp3.webp" alt="Image Description" />
                 </div>
               </div>
             </div>
@@ -172,7 +170,7 @@
               </p>
             </div>
 
-            <a class="btn btn-ghost-dark btn-pointer border-button" href="#">Connect wiht us</a>
+            <a class="btn btn-ghost-dark btn-pointer border-button" href="contact-us.php">Connect wiht us</a>
           </div>
           <!-- End Col -->
 
@@ -243,7 +241,7 @@
           workforce, amplifying your
           impact & boosting hiring ROI.</p>
         <div class="d-flex justify-content-center gap-3">
-          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect with us</a>
+          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Connect with us</a>
         </div>
       </div>
     </div>

@@ -27,7 +27,9 @@
           <div class="">
             <div class="DNA-cards purpose-card">
               <h4>Our Purpose</h4>
-              <p>We are dedicated to equipping clients with unparalleled staffing solutions and providing access to top-tier talent aligned with their organizational needs. We exceed client expectations continuously by investing in the growth of our own people.</p>
+              <p>We are dedicated to equipping clients with unparalleled staffing solutions and providing access to
+                top-tier talent aligned with their organizational needs. We exceed client expectations continuously by
+                investing in the growth of our own people.</p>
             </div>
           </div>
         </div>
@@ -36,7 +38,9 @@
           <div class="">
             <div class="DNA-cards mission-card">
               <h4>Our Mission</h4>
-              <p>We envision a future where individuals flourish in their careers, and organizations thrive through strategic talent acquisition, creating dynamic, inclusive, innovative, and high-performing teams that fuel boundless growth.</p>
+              <p>We envision a future where individuals flourish in their careers, and organizations thrive through
+                strategic talent acquisition, creating dynamic, inclusive, innovative, and high-performing teams that
+                fuel boundless growth.</p>
             </div>
           </div>
         </div>
@@ -45,7 +49,9 @@
           <div class="">
             <div class="DNA-cards vision-card">
               <h4>Our Vision</h4>
-              <p>We are on a mission to seamlessly bridge the gap between forward-thinking organizations and exceptional talent, catalyzing growth, progress, and prosperity for not just the stakeholders but society as a whole.</p>
+              <p>We are on a mission to seamlessly bridge the gap between forward-thinking organizations and exceptional
+                talent, catalyzing growth, progress, and prosperity for not just the stakeholders but society as a
+                whole.</p>
             </div>
           </div>
         </div>
@@ -61,8 +67,8 @@
         <div class="our-value-sec">
           <div class="row">
             <div class="col-md-6 mb-5 mb-md-0">
-              <div class="position-relative bg-img-center min-vh-35 min-vh-md-75"
-                style="background-image: url(assets/img/1920x1080/img11.jpg); height: 100%;">
+              <div class="position-relative bg-img-center"
+                style="background-image: url(assets/img/impact1.jpg); height: 100%;">
               </div>
             </div>
             <!-- End Col -->
@@ -78,7 +84,8 @@
 
                   <div class="flex-grow-1 ms-4">
                     <h5>Integrity</h5>
-                    <p>We uphold the highest ethical standards and conduct our operations transparently to ensure unwavering integrity.</p>
+                    <p>We uphold the highest ethical standards and conduct our operations transparently to ensure
+                      unwavering integrity.</p>
                   </div>
                 </div>
                 <!-- End Media -->
@@ -91,8 +98,9 @@
 
                   <div class="flex-grow-1 ms-4">
                     <h5>Mutual Trust & Respect</h5>
-                    <p>We foster a culture where mutual respect and trust reign supreme and everyone is treated with dignity.
-</p>
+                    <p>We foster a culture where mutual respect and trust reign supreme and everyone is treated with
+                      dignity.
+                    </p>
                   </div>
                 </div>
                 <!-- End Media -->
@@ -129,16 +137,17 @@
       <!-- End Heading -->
 
       <div class="row justify-content-lg-center">
-        <div class="col-sm-7 col-md-8 col-lg-6 mb-4">
+        <div class="col-sm-6 col-md-6 col-lg-6 mb-4">
           <!-- Card -->
           <a class="card card-sm card-transition-zoom" href="#">
             <div class="card-transition-zoom-item">
-              <img class="card-img" src="./assets/img/580x480/img5.jpg" alt="Image Description">
+              <img class="card-img" src="./assets/img/impacts1.webp" alt="Image Description">
             </div>
             <div class="card-img-overlay top-auto">
-              <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4">
+              <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4 text-over-bg">
                 <h4 class="card-title">Environment</h4>
-                <p class="m-0">We are committed to the principles of sustainability and want to leave a world where future generations can thrive too.
+                <p class="m-0">We are committed to the principles of sustainability and want to leave a world where
+                  future generations can thrive too.
                 </p>
               </div>
             </div>
@@ -147,16 +156,17 @@
         </div>
         <!-- End Col -->
 
-        <div class="col-sm-5 col-md-4 col-lg-3 align-self-sm-end mb-4">
+        <div class="col-sm-6 col-md-6 col-lg-6 align-self-sm-end mb-4">
           <!-- Card -->
           <a class="card card-sm card-transition-zoom" href="#">
             <div class="card-transition-zoom-item">
-              <img class="card-img" src="./assets/img/950x950/img5.jpg" alt="Image Description">
+              <img class="card-img" src="./assets/img/impacts2.webp" alt="Image Description">
             </div>
             <div class="card-img-overlay top-auto">
-              <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4">
+              <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4 text-over-bg">
                 <h4 class="card-title">Social</h4>
-                <p class="m-0">Odyssey Global is a socially responsible staffing company. We strive to make a difference to the local community and the world through our CSR initiatives.
+                <p class="m-0">Odyssey Global is a socially responsible staffing company. We strive to make a difference
+                  to the local community and the world through our CSR initiatives.
                 </p>
               </div>
             </div>
@@ -171,12 +181,13 @@
           <!-- Card -->
           <a class="card card-sm card-transition-zoom" href="#">
             <div class="card-transition-zoom-item">
-              <img class="card-img" src="./assets/img/580x480/img1.jpg" alt="Image Description">
+              <img class="card-img" src="./assets/img/impacts3.webp" alt="Image Description">
             </div>
             <div class="card-img-overlay top-auto">
-              <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4">
+              <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4 text-over-bg">
                 <h4 class="card-title">Governance</h4>
-                <p class="m-0">Transparency, alignment and representation form the core of our management principles and enable us to make significant decisions that align with our vision and values.
+                <p class="m-0">Transparency, alignment and representation form the core of our management principles and
+                  enable us to make significant decisions that align with our vision and values.
                 </p>
               </div>
             </div>
@@ -189,12 +200,13 @@
           <!-- Card -->
           <a class="card card-sm card-transition-zoom" href="#">
             <div class="card-transition-zoom-item">
-              <img class="card-img" src="./assets/img/950x950/img3.jpg" alt="Image Description">
+              <img class="card-img" src="./assets/img/impacts4.webp" alt="Image Description">
             </div>
             <div class="card-img-overlay top-auto">
-              <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4">
+              <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4 text-over-bg">
                 <h4 class="card-title">Women Empowered</h4>
-                <p class="m-0">We committed to empowering the diverse set of women working in our organization, helping them advance within the organizations and forge ahead in their career.
+                <p class="m-0">We committed to empowering the diverse set of women working in our organization, helping
+                  them advance within the organizations and forge ahead in their career.
                 </p>
               </div>
             </div>
@@ -207,12 +219,13 @@
           <!-- Card -->
           <a class="card card-sm card-transition-zoom" href="#">
             <div class="card-transition-zoom-item">
-              <img class="card-img" src="./assets/img/500x650/img3.jpg" alt="Image Description">
+              <img class="card-img" src="./assets/img/impacts5.webp" alt="Image Description">
             </div>
             <div class="card-img-overlay top-auto">
-              <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4">
+              <div class="d-flex justify-content-end flex-column bg-white rounded-3 p-4 text-over-bg">
                 <h4 class="card-title">Empowered management</h4>
-                <p class="m-0">Our leaders are entrusted with autonomy, enabling agile decision-making aligned with our values. This drives innovation, nurtures a dynamic management approach and propels collective success.  
+                <p class="m-0">Our leaders are entrusted with autonomy, enabling agile decision-making aligned with our
+                  values. This drives innovation, nurtures a dynamic management approach and propels collective success.
                 </p>
               </div>
             </div>
@@ -237,7 +250,7 @@
             <p style="color: white;">Whether you like working with clients, customers, or in a business
               support role, we have a position you'll rock.</p>
             <div class="d-flex justify-content-center gap-3">
-              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Join Our</a>
+              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Join Our</a>
             </div>
           </div>
         </div>

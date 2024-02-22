@@ -20,8 +20,7 @@
           helping them build exceptional, high-performing teams.</p>
       </div>
 
-      <div class="position-relative bg-img-center min-vh-35 min-vh-md-75"
-        style="background-image: url(assets/img/1920x1080/img11.jpg);">
+      <div class="position-relative bg-img-center" style="background-image: url(assets/img/img11.jpg); height: 460px;">
       </div>
     </div>
     <!-- End Hero -->

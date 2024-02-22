@@ -18,7 +18,7 @@
                 digitally enable clients, fueling strategic advantages.
               </p>
               <div class="d-sm-flex gap-3 mb-5">
-                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Connect Now</a>
+                <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Connect Now</a>
               </div>
             </div>
           </div>
@@ -27,9 +27,9 @@
     </div>
     <!-- End Hero -->
 
-    <div class="About-page">
+    <div class="About-page container">
       <div class="row">
-        <div class="col-md-6 offset-md-3">
+        <div class="col-md-8 offset-md-2">
           <h2>How Does Your Business Benefit from IT Consulting Services?
           </h2>
           <p>
@@ -167,7 +167,7 @@
                 business landscape. </p>
             </div>
 
-            <a class="btn btn-ghost-dark btn-pointer border-button" href="#">Connect wiht us</a>
+            <a class="btn btn-ghost-dark btn-pointer border-button" href="contact-us.php">Connect wiht us</a>
           </div>
           <!-- End Col -->
 
@@ -235,7 +235,7 @@
         <p style="color: white;">Leverage our tailored, end-to-end & secure IT solutions to change your challenges into
           growth opportunities.</p>
         <div class="d-flex justify-content-center gap-3">
-          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="#">Get in touch now</a>
+          <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Get in touch now</a>
         </div>
       </div>
     </div>
