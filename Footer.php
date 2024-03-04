@@ -96,7 +96,8 @@
                 <a class="link link-light link-light-75">Education</a>
               </li>
               <li>
-                <a class="link link-light link-light-75" href="industries.php">View All Industries</a>
+                <a class="link link-light link-light-75" href="search-jobs.php">
+                  See All Jobs</a>
               </li>
             </ul>
             <!-- End List -->

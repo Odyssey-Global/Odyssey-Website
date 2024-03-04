@@ -181,7 +181,7 @@
           <!-- Icon Block -->
           <div class="d-flex">
             <div class="flex-shrink-0">
-              <i class="bi-bell fs-1 text-dark"></i>
+              <i class="bi-emoji-smile fs-1 text-dark"></i>
             </div>
             <div class="flex-grow-1 ms-5">
               <h5>Fun@Work</h5>
@@ -195,7 +195,7 @@
           <!-- Icon Block -->
           <div class="d-flex">
             <div class="flex-shrink-0">
-              <i class="bi-bell fs-1 text-dark"></i>
+              <i class="bi-person-workspace fs-1 text-dark"></i>
             </div>
             <div class="flex-grow-1 ms-5">
               <h5>Inclusive & Respectful Workplace</h5>
@@ -209,7 +209,7 @@
           <!-- Icon Block -->
           <div class="d-flex">
             <div class="flex-shrink-0">
-              <i class="bi-bell fs-1 text-dark"></i>
+              <i class="bi-award fs-1 text-dark"></i>
             </div>
             <div class="flex-grow-1 ms-5">
               <h5>Impactful Work
@@ -224,7 +224,7 @@
           <!-- Icon Block -->
           <div class="d-flex">
             <div class="flex-shrink-0">
-              <i class="bi-bell fs-1 text-dark"></i>
+              <i class="bi-magic fs-1 text-dark"></i>
             </div>
             <div class="flex-grow-1 ms-5">
               <h5>Festival Celebrations</h5>

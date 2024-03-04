@@ -208,7 +208,8 @@
               </div> -->
               <div class="col-sm-6 col-lg-4 mb-5">
                 <div class="text-white border-bottom border-white-10">
-                  <p>See All Jobs</p>
+                  <p<a class="" href="search-jobs">
+                    See All Jobs</a></p>
                 </div>
               </div>
 
@@ -737,10 +738,10 @@
             slidesPerView: 2
           },
           768: {
-            slidesPerView: 3
+            slidesPerView: 4
           },
           1024: {
-            slidesPerView: 4
+            slidesPerView: 5
           },
         },
         on: {

@@ -166,7 +166,7 @@
 
                 <div class="col-sm-7">
                   <!-- Card Body -->
-                  <div class="card-body">
+                  <div class="card-body p-0">
                     <h4 class="card-title">
                       <a class="text-dark" href="Blogs-articles.php">5 Key Trends Shaping the Future of Work in
                         Canada</a>
@@ -211,14 +211,61 @@
 
                 <div class="col-sm-7">
                   <!-- Card Body -->
-                  <div class="card-body">
+                  <div class="card-body p-0">
                     <h4 class="card-title">
-                      <a class="text-dark" href="Blogs-articles.php">Revolutionizing Talent Acquisition in the Dynamic
+                      <a class="text-dark" href="Blogs-articles1.php">Revolutionizing Talent Acquisition in the Dynamic
                         Job Market & Driving Greater Efficiency and Growth</a>
                     </h4>
 
                     <p class="card-text">A blog that looks at the concept of agile recruitment, its benefits and how
                       staffing agencies help drive agility in staffing processes.
+
+
+                    </p>
+
+                    <!-- Card Footer -->
+                    <div class="blog-card-footer" style="margin-top: auto; padding: 0px">
+                      <div class="d-flex">
+                        <div class="flex-shrink-0">
+                          <a class="avatar avatar-circle" href="blog-author-profile.html">
+                            <img class="avatar-img" src="assets/img/160x160/img3.jpg" alt="Image Description">
+                          </a>
+                        </div>
+
+                        <div class="flex-grow-1 ms-3">
+                          <a class="link link-dark fw-medium" href="blog-author-profile.html">Aaron Larsson</a>
+                          <p class="card-text fs-5">Feb 15, 2021</p>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Card Footer -->
+                  </div>
+                  <!-- End Card Body -->
+                </div>
+                <!-- End Col -->
+              </div>
+              <!-- End Row -->
+            </div>
+            <!-- End Card -->
+
+            <!-- Card -->
+            <div class="card card-borderless card-flush card-stretched-vertical">
+              <div class="row">
+                <div class="col-sm-5">
+                  <img class="card-img" src="assets/img/blog3.webp" alt="Image Description">
+                </div>
+                <!-- End Col -->
+
+                <div class="col-sm-7">
+                  <!-- Card Body -->
+                  <div class="card-body p-0">
+                    <h4 class="card-title">
+                      <a class="text-dark" href="Blogs-articles2.php">Crafting Your Career Story: A Guide to Writing a
+                        Compelling Resume</a>
+                    </h4>
+
+                    <p class="card-text">“ Understand the nuances of writing compelling resumes that land you dream jobs
+                      and help you forge a great career path.
 
 
                     </p>

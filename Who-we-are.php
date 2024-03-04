@@ -165,7 +165,7 @@
             <p style="color: white;">Whether you want to work with our clients, us or in a business support role, we
               have a perfectly suited position for you.</p>
             <div class="d-flex justify-content-center gap-3">
-              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us">Join Our</a>
+              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="registerYourSelfOrApply.php">Apply Now</a>
             </div>
           </div>
         </div>

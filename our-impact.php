@@ -132,7 +132,7 @@
     <div class="container">
       <!-- Heading -->
       <div class="w-lg-65 text-center mx-lg-auto mt-10 mb-sm-7 mb-lg-10">
-        <h2>Our Impacts</h2>
+        <h2>Our Impact</h2>
       </div>
       <!-- End Heading -->
 
@@ -245,12 +245,12 @@
       <div class="row">
         <div class="col-md-6 offset-md-3">
           <div>
-            <h1 style="color: white;">Join our talent community
+            <h1 style="color: white;">Want to experience unmatched professional growth?
             </h1>
-            <p style="color: white;">Whether you like working with clients, customers, or in a business
-              support role, we have a position you'll rock.</p>
+            <p style="color: white;">Join our global talent community and grow with us.
+              .</p>
             <div class="d-flex justify-content-center gap-3">
-              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Join Our</a>
+              <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="registerYourSelfOrApply.php">Apply now</a>
             </div>
           </div>
         </div>

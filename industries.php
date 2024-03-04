@@ -31,16 +31,17 @@
     <div class="About-page container">
       <div class="row">
         <div class="col-md-8 offset-md-2">
-          <h2>How Does Temp to Perm Staffing Help Your Business?
+          <h2>Key Industries we work with
           </h2>
           <p>
-            Businesses often cannot commit to permanent or direct
-            hiring of talent. This may be because of uncertainties in the industry,
-            rapidly changing skill requirements, budgetary constraints, and so on. Odyssey Global
-            empowers such businesses to hire the right talent on a temp to perm basis in a quick, cost-effective manner.
-            With temp to perm solutions, businesses can test out and evaluate talent before offering permanent
-            jobs to them, ensuring they
-            are suitable for the role and culture-fits. They can minimize the risks of bad hires.
+            Find top talent in key industries with our hiring platform. From IT to Healthcare, Manufacturing to
+            Automotive, we specialize in connecting employers with skilled professionals. Streamline your recruitment
+            process and find the perfect fit for your team within these thriving sectors.
+
+
+
+
+
           </p>
         </div>
       </div>

@@ -80,7 +80,7 @@
                 <!-- End Col -->
 
                 <div class="col-sm-5 col-md-2 mb-2 mb-sm-0">
-                  <span class="text-body">Remote</span>
+                  <span class="text-body">London</span>
                 </div>
                 <!-- End Col -->
 
@@ -190,7 +190,8 @@
         </div>
 
         <div class="w-lg-65 text-center mx-lg-auto mt-7">
-          <p>Don't see a role that interests you? Register now with your interest and we'll notify you new roles that
+          <p>Don't see a role that interests you? <br />Register now with your interest and we'll notify you new roles
+            that
             match your criteria.</p>
 
           <a class="btn btn-primary" href="registerYourSelfOrApply.php">Register your interest</a>

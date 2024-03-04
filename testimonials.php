@@ -17,7 +17,7 @@
         <div class="w-lg-65">
           <h1 class="display-4 text-white">Testimonials
           </h1>
-          <p class="lead text-white">See what the community is saying about Relume Library. Share the love!
+          <p class="lead text-white">See what the community is saying about Odyssey Global.
           </p>
         </div>
       </div>
@@ -33,8 +33,8 @@
       <div id="openingsSection" class="container content-space-t-2 content-space-lg-3 content-space-b-1">
         <!-- Heading -->
         <div class="w-lg-65 text-center mx-lg-auto mb-5 mb-sm-7 mb-lg-10">
-          <h2>Community love</h2>
-          <p>See what the community is saying about Relume Library. Share the love!</p>
+          <h2>Community Testimonials</h2>
+          <p>See what the peoples is saying about us.</p>
         </div>
         <!-- End Heading -->
 

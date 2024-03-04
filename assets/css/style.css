@@ -57,7 +57,7 @@
 }
 
 .job-cat-sec {
-  padding: 52px 0px;
+  padding-top: 52px;
 }
 
 .job-cat-text h3 {
@@ -217,4 +217,8 @@
 
 .text-over-bg {
   --bs-bg-opacity: 0.9 !important;
+}
+
+.card-transition-zoom-item {
+  height: 216px;
 }
