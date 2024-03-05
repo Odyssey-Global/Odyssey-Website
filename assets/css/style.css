@@ -222,3 +222,7 @@
 .card-transition-zoom-item {
   height: 216px;
 }
+
+.ind-icons {
+  max-height: 75px !important;
+}

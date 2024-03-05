@@ -29,20 +29,33 @@
     <!-- End Hero -->
 
     <div class="About-page container">
+      <h2 class="mb-10">Key Industries we work with
+      </h2>
       <div class="row">
-        <div class="col-md-8 offset-md-2">
-          <h2>Key Industries we work with
-          </h2>
-          <p>
-            Find top talent in key industries with our hiring platform. From IT to Healthcare, Manufacturing to
-            Automotive, we specialize in connecting employers with skilled professionals. Streamline your recruitment
-            process and find the perfect fit for your team within these thriving sectors.
-
-
-
-
-
-          </p>
+        <div class="col mb-5">
+          <img style="max-height: 65px; margin-bottom: 18px;" src="assets/img/IT.svg" />
+          <h5 class="fw-normal">Information Technology
+          </h5>
+        </div>
+        <div class="col mb-5">
+          <img style="max-height: 65px; margin-bottom: 18px;" src="assets/img/health.svg" />
+          <h5 class="fw-normal">Healthcare
+          </h5>
+        </div>
+        <div class="col mb-5">
+          <img style="max-height: 65px; margin-bottom: 18px;" src="assets/img/manufacturing.svg" />
+          <h5 class="fw-normal">Manufacturing
+          </h5>
+        </div>
+        <div class="col mb-5">
+          <img style="max-height: 65px; margin-bottom: 18px;" src="assets/img/banking.svg" />
+          <h5 class="fw-normal">Banking
+          </h5>
+        </div>
+        <div class="col mb-5">
+          <img style="max-height: 65px; margin-bottom: 18px;" src="assets/img/insurance.svg" />
+          <h5 class="fw-normal">Insurance
+          </h5>
         </div>
       </div>
     </div>
