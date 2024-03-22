@@ -69,8 +69,8 @@
           <div class="card-body">
             <h4> A Guide to Writing a Compelling Resume</h4>
             <p class="card-text">
-              Optimize your in-person experiUnderstand the nuances of writing compelling resumes that land you dream
-              jobs and help you forge a great career path.
+              Optimize your in-person experience. Understand the nuances of writing compelling resumes that land you
+              dream jobs and help you forge a great career path.
             </p>
           </div>
 

@@ -166,11 +166,11 @@
                 How? We pre-recruit great talent and maintain a global pool of qualified professionals. Based on your
                 needs,
                 we help you to quickly hire the right talent on a contract basis. If you find a great candidate,
-                we aid you to convert them into a permanent employee, thus boosting ROI and value.
+                we aiding you to convert them into a permanent employee, thus boosting ROI and value.
               </p>
             </div>
 
-            <a class="btn btn-ghost-dark btn-pointer border-button" href="contact-us.php">Connect wiht us</a>
+            <a class="btn btn-ghost-dark btn-pointer border-button" href="contact-us.php">Connect with us</a>
           </div>
           <!-- End Col -->
 
@@ -238,8 +238,7 @@
         <h1 style="color: white;">Want to ‘Try Before Your Hire’ Talent?</br>
         </h1>
         <p style="color: white;">Leverage our tailored temp to perm staffing solutions to build an agile,<br /> blended
-          workforce, amplifying your
-          impact & boosting hiring ROI.</p>
+          workforce, amplifying your impact & boosting hiring ROI.</p>
         <div class="d-flex justify-content-center gap-3">
           <a class="btn btn-ghost-dark btn-pointer Orange-btn" href="contact-us.php">Connect with us</a>
         </div>

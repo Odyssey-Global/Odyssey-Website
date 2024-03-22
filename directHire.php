@@ -165,7 +165,7 @@
                 developing tailored strategies to help you find the best talent for permanent positions. </p>
             </div>
 
-            <a class="btn btn-ghost-dark btn-pointer border-button" href="contact-us.php">Connect wiht us</a>
+            <a class="btn btn-ghost-dark btn-pointer border-button" href="contact-us.php">Connect with us</a>
           </div>
           <!-- End Col -->
 
