@@ -135,14 +135,12 @@
           <div class="col-lg-5">
             <div class="mb-5">
               <h2>
-                Transforming Workforce Solutions: Connect with Top Talent.
+                Empowering organizations to build outstanding teams, fueling exceptional value
               </h2>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and
-                typesetting industry. Lorem Ipsum has been the industry's
-                standard dummy text ever since the 1500s, when an unknown
-                printer took a galley of type and scrambled it to make a type
-                specimen book.
+                We are premier strategic staffing experts based out of Canada. We work organizations, big and small, to
+                address their unique staffing challenges and build high-performing teams. Our premier staffing solutions
+                are tailored to empower each client to unleash their full potential and drive unparalleled growth.
               </p>
               <a class="btn btn-ghost-dark btn-pointer border-button" href="#">Hire the right talent today</a>
             </div>
